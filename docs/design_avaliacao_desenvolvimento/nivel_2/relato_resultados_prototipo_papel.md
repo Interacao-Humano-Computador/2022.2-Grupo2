@@ -60,7 +60,7 @@ A seguir, temos as imagens do protótipo de jogar uma partida
 
 ## Conclusão
 
-Sentimos a necessidade de gravar com outras pessoas, pois apenas uma não deu para avaliar a interação do usuário de forma precisa. Com isso, o grupo precisa relatar melhor os resultados.
+Foi observado que o modelo utilizado está adequado, pois o usuário consegiu realizar a atividade proposta sem muitas dúvidas, porém é necessário a realização de alguns ajustes mencionados pelo participante.
 
 [comment]: <> (TO DO: Quando realizar mais avaliações, mudar a conclusão para serem englobadas)
 
