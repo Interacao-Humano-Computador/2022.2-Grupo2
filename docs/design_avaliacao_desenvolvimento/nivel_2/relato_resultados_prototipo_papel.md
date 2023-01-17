@@ -34,23 +34,33 @@ A seguir, temos as imagens do protótipo de jogar uma partida
 
 ![Tela inicial](./assets/Aval_papel_1.jpg)
 
-**Imagem 1: Termo de consentimento (Fonte: Autores, 2023).**
+<div style="text-align: center">
+<p> Imagem 1: Termo de consentimento (Fonte: Autores, 2023).</p>
+</div>
 
 ![Clicar no botão de jogar](./assets/Aval_papel_2.jpg)
 
-**Imagem 2: Termo de consentimento (Fonte: Autores, 2023).**
+<div style="text-align: center">
+<p> Imagem 2: Termo de consentimento (Fonte: Autores, 2023).</p>
+</div>
 
 ![Criação de partida](./assets/Aval_papel_3.jpg)
 
-**Imagem 3: Termo de consentimento (Fonte: Autores, 2023).**
+<div style="text-align: center">
+<p> Imagem 3: Termo de consentimento (Fonte: Autores, 2023).</p>
+</div>
 
 ![Seleção do modo de jogo](./assets/Aval_papel_4.jpg)
 
-**Imagem 4: Termo de consentimento (Fonte: Autores, 2023).**
+<div style="text-align: center">
+<p> Imagem 4: Termo de consentimento (Fonte: Autores, 2023).</p>
+</div>
 
 ![Iniciar partida](./assets/Aval_papel_5.jpg)
 
-**Imagem 5: Termo de consentimento (Fonte: Autores, 2023).**
+<div style="text-align: center">
+<p> Imagem 5: Termo de consentimento (Fonte: Autores, 2023).</p>
+</div>
 
 ### Acessar uma aula de xadrez criada por usuários
 
@@ -58,23 +68,33 @@ A seguir temos as imagens do protótipo de acessar uma aula de xadrez
 
 ![Tela Inicial](./assets//learn_1.png)
 
-**Imagem 6: Tela Inicial do protótipo**
+<div style="text-align: center">
+<p> Imagem 6: Tela Inicial do protótipo. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ![Tela de opções de aprendizado](./assets/learn_2.png)
 
-**Imagem 7: Tela de opções de aprendizado**
+<div style="text-align: center">
+<p> Imagem 7: Tela de opções de aprendizado. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ![Tela com listagem de aulas](./assets/learn_3.png)
 
-**Image 8: Tela com listagem de aulas**
+<div style="text-align: center">
+<p> Imagem 8: Tela com listagem de aulas. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ![Modal com resumo de uma aula](./assets/learn_4.png)
 
-**Image 9: Modal com resumo de uma aula**
+<div style="text-align: center">
+<p> Imagem 9: Modal com resumo de uma aula. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ![Página com conteúdo de aula](./assets/learn_5.png)
 
-**Image 10: Página com conteúdo de aula**
+<div style="text-align: center">
+<p> Imagem 10: Página com conteúdo de aula. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ## Entrevista 1
 
@@ -88,7 +108,9 @@ Entrevista relativa ao fluxo de aprender uma aula no Lichess.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXSSvvEWqzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**Vídeo 2: Avaliação Protótipo de Papel fluxo de aprender aula**
+<div style="text-align: center">
+<p> Vídeo 2: Avaliação Protótipo de Papel fluxo de aprender aula. Fonte: Mauricio Machado (2023).</p>
+</div>
 
 ## Conclusão
 
@@ -112,7 +134,8 @@ Apesar desses pontos, o usuário conseguiu concluir as operações em tempo úti
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                            | Autor(es)                    | Revisor(es) |
-| ------ | ---------- | ------------------------------------ | ---------------------------- | ----------- |
-| `1.0`  | 11/01/2022 | Criação do documento                 | Lucas Macedo e Lucas Gabriel | Davi        |
-| `2.0`  | 16/01/2022 | Adição do fluxo de aprender uma aula | Maurício Machado             | -           |
+| Versão | Data       | Descrição                            | Autor(es)                    | Revisor(es)   |
+| ------ | ---------- | ------------------------------------ | ---------------------------- | ------------- |
+| `1.0`  | 11/01/2022 | Criação do documento                 | Lucas Macedo e Lucas Gabriel | Davi          |
+| `1.1`  | 16/01/2022 | Adição do fluxo de aprender uma aula | Maurício Machado             | Nicolas Souza |
+| `1.2`  | 17/01/2022 | Padronização de legendas             | Maurício Machado             | Nicolas Souza |
