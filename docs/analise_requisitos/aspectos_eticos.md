@@ -54,4 +54,4 @@ Caso o participante seja menor de idade é necessária a permissão do responsá
 | ------ | ---------- | -------------------- | ------------- | ------- |
 | `1.0`  | 23/11/2022 | Criação do documento | Lucas Gabriel | Davi    |
 | `1.1`  | 13/12/2022 | Ajustes nas referências e termo de consentimento | Lucas Gabriel | Nicolas Souza  |
-| `1.2`  | 17/01/2023 | Refatoração do termo de consentimento para torná-lo mais geral | Nicolas Souza | |
+| `1.2`  | 17/01/2023 | Refatoração do termo de consentimento para torná-lo mais geral | Nicolas Souza | Lucas Gabriel |
