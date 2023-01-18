@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Segundo o CMMI, a verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados [1]. Por tanto, nessa etapa será realizada a verificação do artefato Planejamento da Avaliação do protótipo de alta fidelidade , feito pelo Grupo 2 (Lichess), com intuito de analisar se esse modelo está de acordo com o que se espera dele [2].
+Segundo o CMMI, a verificação busca garantir que os produtos de trabalho selecionados cumpram os seus requisitos especificados [1]. Por tanto, nessa etapa será realizada a verificação do artefato Planejamento da Avaliação do protótipo de alta fidelidade, feito pelo Grupo 2 (Lichess), com intuito de analisar se esse modelo está de acordo com o que se espera dele [2].
 
 ## Metodologia
 
