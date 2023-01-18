@@ -42,7 +42,7 @@ A figura 1 a seguir demonstra o gráfico no qual indica a porcentagem de itens v
 
 ![image](images/grafico_planejamento_avaliacao_prototipo_alta.png)
 <div style="text-align: center">
-<p>Figura 1 - Gráfico de itens atingidos</p>
+<p>Figura 1: Gráfico de itens atingidos (Fonte: autor, 2023) </p>
 </div>
 
 ## Bibliografia
