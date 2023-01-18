@@ -57,4 +57,4 @@ A figura 1 a seguir demonstra o gráfico no qual indica a porcentagem de itens v
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 18/01/2023 | Criação do documento | Lucas Gabriel |             |
+| `1.0`  | 18/01/2023 | Criação do documento | Lucas Gabriel |  Nicolas Souza           |
