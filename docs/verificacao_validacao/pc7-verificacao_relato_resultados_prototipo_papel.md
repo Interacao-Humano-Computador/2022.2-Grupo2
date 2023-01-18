@@ -39,7 +39,7 @@ A figura 1 a seguir demonstra o gráfico no qual indica a porcentagem de itens v
 
 ![image](images/grafico_relato_resultados_prototipo_papel.png)
 <div style="text-align: center">
-<p>Figura 1 - Gráfico de itens atingidos</p>
+<p>Figura 1: Gráfico de itens atingidos (Fonte: autor, 2023). </p>
 </div>
 
 ## Bibliografia
