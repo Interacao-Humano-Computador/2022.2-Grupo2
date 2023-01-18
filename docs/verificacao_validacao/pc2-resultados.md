@@ -218,4 +218,4 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 17/01/2023    | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 17/01/2023    | Criação do documento.              | Nicolas Souza | Lucas Gabriel |
