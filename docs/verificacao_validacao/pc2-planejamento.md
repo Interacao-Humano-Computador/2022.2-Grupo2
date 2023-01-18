@@ -144,4 +144,4 @@ Após a verificação, deve ser elaborado um relato de resultados contendo os ch
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 17/01/2023    | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 17/01/2023    | Criação do documento.              | Nicolas Souza | Lucas Gabriel |
