@@ -89,6 +89,14 @@ nav:
       # - Ponto de Controle 5:
       #     - Planejamento:
       #     - Relato dos Resultados:
+      # - Ponto de Controle 6:
+      #     - Planejamento:
+      #     - Relato dos Resultados:
+       - Ponto de Controle 7: 
+           - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
+           - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
+           #- Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade:
+      
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
