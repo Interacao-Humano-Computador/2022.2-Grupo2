@@ -86,8 +86,8 @@ nav:
       # - Ponto de Controle 4:
       #     - Planejamento:
       #     - Relato dos Resultados:
-      # - Ponto de Controle 5:
-      #     - Planejamento:
+    - Ponto de Controle 5:
+           - Planejamento: verificacao_validacao/pc5-planejamento.md
       #     - Relato dos Resultados:
       # - Ponto de Controle 6:
       #     - Planejamento:
