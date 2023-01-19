@@ -51,7 +51,6 @@ Tabela 2: Verificação de conteúdo (Fonte: autor, 2023).
 
 ### Verificação - Cronograma Realizado
 
-
 As Tabelas 3 e 4 apresentam os resultados da verificação do artefato [cronograma realizado](../planejamento/cronograma_realizado.md).
 
 | ID  | Questão                                                                  | Resposta | Comentário                                  |
@@ -82,7 +81,6 @@ Tabela 3: Verificação de padronização (Fonte: autor, 2023).
 Tabela 4: Verificação de conteúdo (Fonte: autor, 2023).
 </p>
 </div>
-
 
 ### Verificação - Ferramentas do Projeto e Metodologias
 
@@ -209,3 +207,4 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 | Versão | Data       | Descrição             | Autor(es) | Revisor(es)   |
 | ------ | ---------- | --------------------- | --------- | ------------- |
 | `1.0`  | 18/01/2023 | Criação do documento. | Davi      | Mauricio |
+| `1.1`  | 18/01/2023    | Completando as tabelas.            | Davi | Nicolas Souza |
