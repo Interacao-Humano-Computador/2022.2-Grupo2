@@ -74,9 +74,9 @@ nav:
       - Nível 3:
           - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
   - Verificação e Validação:
-      # - Ponto de Controle 1:
-      #     - Planejamento:
-      #     - Relato dos Resultados:
+      - Ponto de Controle 1:
+          - Planejamento: verificacao_validacao/pc1-planejamento.md
+          - Relato dos Resultados: verificacao_validacao/pc1-resultados.md
       - Ponto de Controle 2:
           - Planejamento: verificacao_validacao/pc2-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc2-resultados.md
@@ -86,16 +86,16 @@ nav:
       # - Ponto de Controle 4:
       #     - Planejamento:
       #     - Relato dos Resultados:
-    - Ponto de Controle 5:
-           - Planejamento: verificacao_validacao/pc5-planejamento.md
+      - Ponto de Controle 5:
+        - Planejamento: verificacao_validacao/pc5-planejamento.md
       #     - Relato dos Resultados:
       # - Ponto de Controle 6:
       #     - Planejamento:
       #     - Relato dos Resultados:
       - Ponto de Controle 7: 
         - Planejamento: verificacao_validacao/pc7-planejamento.md 
-          - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
-          - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
+        - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
+        - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
           #- Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade:
       
   - Apresentações: "apresentacoes.md"
