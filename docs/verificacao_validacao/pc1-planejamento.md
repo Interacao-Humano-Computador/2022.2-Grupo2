@@ -1,4 +1,4 @@
-# Planejamento da Verificação - PC2
+# Planejamento da Verificação - PC1
 
 ## Introdução
 
