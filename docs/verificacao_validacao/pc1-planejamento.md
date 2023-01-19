@@ -1,4 +1,4 @@
-# Planejamento da Verificação - PC2
+# Planejamento da Verificação - PC1
 
 ## Introdução
 
@@ -55,7 +55,6 @@ Os checklists de verificação para os artefatos [cronograma](docs/planejamento/
 |  3  |        As atividades apresentam data de início e fim?         |          |             |
 |  4  |              O período de revisão foi inserido?               |          |             |
 |  5  | O cronograma possui uma data para as gravações de cada etapa? |          |             |
-
 
 <div style="text-align: center">
 <p>
@@ -149,3 +148,4 @@ Após a verificação, deve ser elaborado um relato de resultados contendo os ch
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 18/01/2023    | Criação do documento.              | Davi | Maurício |
+| `1.1`  | 18/01/2023    | Completando as tabelas.            | Davi | Nicolas Souza |
