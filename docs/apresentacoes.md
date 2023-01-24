@@ -104,4 +104,4 @@ Vídeo 7: Apresentação da etapa 7 do projeto
 | 11/12/2022 | `1.2`  | Adição da apresentação 3 | Mauricio Machado |   Nicolas    |
 | 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas    |
 | 21/12/2022 | `1.4`  | Adição da apresentação 5 | Lucas Macedo |   Mauricio Machado    |
-| 21/12/2022 | `1.5`  | Adição da apresentação 6 e 7 | Lucas Macedo |   ---    |
+| 21/12/2022 | `1.5`  | Adição da apresentação 6 e 7 | Lucas Macedo |   Nicolas Souza  |
