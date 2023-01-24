@@ -39,4 +39,4 @@ Observa-se que é essencial para um bom projeto e sistema, ter princípios bem o
 | ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ------------- |
 | `1.0`  | 25/11/2022 | Criação do documento                                                     | Davi             | Lucas Macedo  |
 | `1.1`  | 05/12/2022 | Alteração de tópicos                                                     | Davi             | Nicolas Souza |
-| `1.2`  | 05/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado |               |
+| `1.2`  | 05/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo  |
