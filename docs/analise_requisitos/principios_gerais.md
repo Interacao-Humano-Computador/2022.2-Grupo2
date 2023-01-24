@@ -16,6 +16,13 @@ Os princípios gerais do projeto são uma parte que tem sua importância no dese
 
 - <b> Encontrabilidade:</b> Encontrabilidade é a facilidade de se encontrar informação contida num website, tanto de fora do website quanto por usuários já no website. Este princípio transforma a interação com a plataforma uma experiência rápida e eficaz.
 
+- <b> Correspondência com as expectativas dos usuários:</b> Devemos explorar os mapeamentos naturais, seja entre as variáveis mentais e as físicas, seja entre as tarefas e os controles utilizados para manipular essas variáveis no mundo real e no sistema projetado [1].
+
+- <b> Antecipação das necessidades do usuário:</b> As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. O designer deve fornecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo.
+
+- <b>Equilíbrio entre controle e liberdade do usuário:</b> Ao deixar o usuário experimentar o sentimento de liberdade no sistema, ele aprende rapidamente e ganha um sentimento de maestria.</br>
+  Contudo , o equilíbrio é necessário, pois em o uso de limitações e/ou restrições o usuário pode ficar perdido ou até mesmo cansado com muitos estímulos do sistema. Assim, deve-se reduzir o número de ações disponíveis para o usuário final.
+
 ## Conclusão
 
 Observa-se que é essencial para um bom projeto e sistema, ter princípios bem organizados e focados no bem-estar dos seus usuários. Tais pontos abordados acima são de suma importância para uma entrega robusta bem como também, uma experiência positiva para com os seus usuários.
@@ -28,7 +35,8 @@ Observa-se que é essencial para um bom projeto e sistema, ter princípios bem o
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
-| ------ | ---------- | -------------------- | ------------- | ------- |
-| `1.0`    | 25/11/2022 | Criação do documento | Davi | Lucas Macedo    |
-| `1.1`    | 05/12/2022 | Alteração de tópicos | Davi | Nicolas Souza   |
+| Versão | Data       | Descrição                                                                | Autor(es)        | Revisor(es)   |
+| ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ------------- |
+| `1.0`  | 25/11/2022 | Criação do documento                                                     | Davi             | Lucas Macedo  |
+| `1.1`  | 05/12/2022 | Alteração de tópicos                                                     | Davi             | Nicolas Souza |
+| `1.2`  | 05/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo  |

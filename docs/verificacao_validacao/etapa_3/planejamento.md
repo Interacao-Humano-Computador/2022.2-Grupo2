@@ -6,12 +6,16 @@ Esse planejamento tem como objetivo levantar todas as possíveis verificações 
 </br>
 Os artefatos criados durante essa ponto de controle foram:
 
-- Princípios gerais do projeto
-- Metas de usabilidade
-- Guia de estilo
-- Vídeo de apresentação ponto de controle 3
+- [Princípios Gerais do Projeto](../../analise_requisitos/principios_gerais.md)
+- [Meta de Usabilidade](../../analise_requisitos/metas_usabilidade.md)
+- [Guia de Estilo](../../analise_requisitos/guia_de_estilo.md)
+- [Vídeo de apresentação ponto de controle 3](../../apresentacoes.md)
 
 O grupo irá criar um checklist para avaliação de todos esses artefatos de forma simultânea.
+
+## Checklist
+
+O checklist foi dividido em duas categorias, com o intuito de padronizar os artefatos de verificação. O primeiro conjunto de perguntas é referente à **padronização** entre os artefatos, contendo elementos apontados no Plano de Ensino [1] e exigências comuns para uma boa qualidade de trabalhos acadêmicos. O segundo conjunto de perguntas diz respeito às características intrínsecas do artefato verificado, observando-se principalmente a qualidade do seu **conteúdo**.
 
 ### Padronização
 
@@ -25,6 +29,10 @@ A verificação de padronização visa determinar se o artefato está de acordo 
 |  4  | Existe tabela de versionamento padronizado e completo?                   |          |            |
 |  5  | Há referências bibliográficas no artefato?                               |          |            |
 |  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |          |            |
+|  7  | Vídeo de apresentação na categoria "não listado" do youtube?             |          |            |
+|  8  | Cronograma executado da etapa 3 com datas de início e fim?               |          |            |
+|  9  | Atas das reuniões?                                                       |          |            |
+| 10  | Gravação das reuniões do grupo?                                          |          |            |
 
 <div style="text-align: center">
 <p>
@@ -32,27 +40,59 @@ Tabela 1: Verificações de padronização (Fonte: Mauricio Machado, 2023).
 </p>
 </div>
 
-## Checklist artefatos Ponto de Controle 3
+### Checklist artefatos Ponto de Controle 3
 
 Abaixo temos o checklist para verificação dos artefatos construídos para etapa 3. Estruturado em três campos, possui a questão seguida de uma resposta e em caso do avaliador julgar necessário existe o campo justificativa, onde ele pode apresentar mais o motivo de sua resposta.
 
-| ID  |                                                                                                                                                                                                                                                                                                                                                Questão                                                                                                                                                                                                                                                                                                                                                | Resposta (Sim, Não, Incompleto) | Justificativa (opcional) |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :----------------------: |
-|  7  |                                                                                                                                                                                                                                                                                                                     Vídeo de apresentação na categoria "não listado" do youtube?                                                                                                                                                                                                                                                                                                                      |                                 |                          |
-|  8  |                                                                                                                                                                                                                                                                                                                      Cronograma executado da etapa 3 com datas de início e fim?                                                                                                                                                                                                                                                                                                                       |                                 |                          |
-|  9  |                                                                                                                                                                                                                                                                                                                                          Atas das reuniões?                                                                                                                                                                                                                                                                                                                                           |                                 |                          |
-| 10  |                                                                                                                                                                                                                                                                                                                                    Gravação das reuniões do grupo?                                                                                                                                                                                                                                                                                                                                    |                                 |                          |
-| 11  |                                                                                                                                                                                                                                                                                                                         Os princípios gerais que serão utilizados no projeto?                                                                                                                                                                                                                                                                                                                         |                                 |                          |
-| 12  | <p>Os Princípios Gerais do Projeto contém os seguintes tópicos:</p><ul><li style="text-align: left">correspondência com as expectativas dos usuários;</li><li style="text-align: left">simplicidade nas estruturas das tarefas</li><li style="text-align: left">equilíbrio entre controle e liberdade do usuário;</li><li style="text-align: left">consistência e padronização; promoção da eficiência do usuário;</li><li style="text-align: left">antecipação das necessidades do usuário;</li><li style="text-align: left">visibilidade e reconhecimento;</li><li style="text-align: left">conteúdo relevante e expressão adequada;</li><li style="text-align: left">projeto para erros.</li></ul> |                                 |                          |
-| 13  |                                                                                                                                                                                                                                                                                                                  Possui as metas de usabilidade que devem ser alcançadas no projeto?                                                                                                                                                                                                                                                                                                                  |                                 |                          |
-| 14  |                                                                                                                                                                                                                                                                                                                               Explica o motivo da seleção dessas metas?                                                                                                                                                                                                                                                                                                                               |                                 |                          |
-| 15  |                                                                                                                                                                                                                                                                                                                                    Guia de estilo foi construído?                                                                                                                                                                                                                                                                                                                                     |                                 |                          |
-| 16  |                                                                                                                                                                                                                                                                                                                        Guia de estilo construído é relativo ao site avaliado?                                                                                                                                                                                                                                                                                                                         |                                 |                          |
-| 17  |                                                                                                                                                                                                                                                                                                                      Metas de usabilidade foram contextualizadas para o Lichess?                                                                                                                                                                                                                                                                                                                      |                                 |                          |
-| 18  |                                                                                                                                                                                                                                                                                                                           Foram identificados os requisitos de usabilidade?                                                                                                                                                                                                                                                                                                                           |                                 |                          |
+| ID | Questão | Resposta (Sim, Não, Incompleto) | Justificativa (opcional) |
+| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :----------------------: | | |
+
+### Princípios Gerais do Projeto
+
+| ID  |                                                     Questão                                                     | Resposta (Sim, Não, Incompleto) | Justificativa |
+| :-: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------: | :-----------: |
+|  1  |                              Os Princípios Gerais que serão utilizados no projeto?                              |                                 |               |
+|  2  | Foi verificado se o topico "Correspondência com as expectativas dos usuários" está presente no site do Lichess? |                                 |               |
+|  3  |     Foi verificado se o tópico "Simplicidade nas estruturas das tarefas" está presente no site do Lichess?      |                                 |               |
+|  4  | Foi verificado se o tópico "Equilíbrio entre controle e liberdade do usuário" está presente no site do Lichess? |                                 |               |
+|  5  |           Foi verificado se o tópico "Consistência e padronização" está presente no site do Lichess?            |                                 |               |
+|  6  |        Foi verificado se o tópico "Promoção da eficiência do usuário" está presente no site do Lichess?         |                                 |               |
+|  7  |     Foi verificado se o tópico "Antecipação das necessidades do usuário" está presente no site do Lichess?      |                                 |               |
+|  8  |          Foi verificado se o tópico "Visibilidade e reconhecimento" está presente no site do Lichess?           |                                 |               |
+|  9  |     Foi verificado se o tópico "Conteúdo relevante e expressão adequada" está presente no site do Lichess?      |                                 |               |
+| 10  |                Foi verificado se o tópico "Projeto para erros" está presente no site do Lichess?                |                                 |               |
 
 <div style="text-align: center">
-<p> Tabela 2: Checklist artefatos entrega 3 (Fonte: Mauricio Machado, 2023).</p>
+<p> Tabela 2: Checklist para o artefato Princípios Gerais do Projeto (Fonte: Mauricio Machado, 2023).</p>
+</div>
+
+### Metas de Usabilidade
+
+| ID  |                               Questão                               | Resposta (Sim, Não, Incompleto) | Justificativa |
+| :-: | :-----------------------------------------------------------------: | :-----------------------------: | :-----------: |
+|  1  | Possui as metas de usabilidade que devem ser alcançadas no projeto? |                                 |               |
+|  2  |        Cada meta de usabilidade possui uma breve explicação?        |                                 |               |
+|  3  |              Explica o motivo da seleção dessas metas?              |                                 |               |
+|  4  |     Metas de usabilidade foram contextualizadas para o Lichess?     |                                 |               |
+|  5  |          Foram identificados os requisitos de usabilidade?          |                                 |               |
+
+<div style="text-align: center">
+<p> Tabela 3: Checklist artefato Metas de Usabilidade (Fonte: Mauricio Machado, 2023).</p>
+</div>
+
+### Guia de estilo
+
+| ID  |                                   Questão                                    | Resposta (Sim, Não, Incompleto) | Justificativa |
+| :-: | :--------------------------------------------------------------------------: | :-----------------------------: | :-----------: |
+|  1  |                        Guia de estilo foi construído?                        |                                 |               |
+|  2  |            Guia de estilo construído é relativo ao site avaliado?            |                                 |               |
+|  3  |           O artefato possui uma descrição sobre o layout do site?            |                                 |               |
+|  4  |             O artefato possui uma descrição sobre a tipografia?              |                                 |               |
+|  5  |           O artefato possui uma descrição sobre as cores do site?            |                                 |               |
+|  6  | O artefato possui uma descrição sobre a visualização de informações do site? |                                 |               |
+
+<div style="text-align: center">
+<p> Tabela 4: Checklist do artefato guia de estilo (Fonte: Mauricio Machado, 2023).</p>
 </div>
 
 ## Conclusão
