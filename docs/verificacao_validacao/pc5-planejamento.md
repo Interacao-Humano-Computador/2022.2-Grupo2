@@ -49,14 +49,13 @@ Os checklists de verificação para os artefatos [relato dos resultados do story
 |  ID   | Questão                                                                                       | Resposta | Comentários |
 | :---: | --------------------------------------------------------------------------------------------- | :------: | ----------- |
 |   1   | Os títulos condizem com a tarefa proposta?                                                    |          |             |
-|   2   | O artefato possui uma breve descrição do método de prototipação em papel ?                    |          |             |
-|   3   | O artefato inclui os objetivos da avaliação?                                                  |          |             |
-|   4   | O artefato possui um teste-piloto realizado para as entrevistas?                              |          |             |
-|   5   | O artefato possui a entrevista da avaliação gravada?                                          |          |             |
-|   6   | O artefato inclui uma conclusão?                                                              |          |             |
-|   7   | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |          |             |
-|   8   | O artefato possui as tarefas executadas pelos participantes?                                  |          |             |
-|   9   | O artefato possui um tarefas relacionadas as analisadas em análise de tarefas?                |          |             |
+|   2   | O artefato inclui os objetivos da avaliação?                                                  |          |             |
+|   3   | O artefato possui um teste-piloto realizado para as entrevistas?                              |          |             |
+|   4   | O artefato possui a entrevista da avaliação gravada?                                          |          |             |
+|   5   | O artefato inclui uma conclusão?                                                              |          |             |
+|   6   | O artefato apresenta as resposta dos entrevistados transcritas para facilitar o entendimento? |          |             |
+|   7   | O artefato possui as tarefas executadas pelos participantes?                                  |          |             |
+|   8   | O artefato possui um tarefas relacionadas as analisadas em análise de tarefas?                |          |             |
 
 <div style="text-align: center">
 <p>
