@@ -78,4 +78,4 @@ Abaixo temos uma tabela que apresenta os requisitos identificados a partir das m
 | Versão | Data       | Descrição                                                                | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ---------------- |
 | `1.0`  | 09/12/2022 | Criação do documento.                                                    | Nicolas Souza    | Maurício Machado |
-| `1.1`  | 09/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado |                  |
+| `1.1`  | 09/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo     |
