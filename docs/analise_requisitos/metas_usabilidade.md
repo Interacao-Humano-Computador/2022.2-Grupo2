@@ -15,39 +15,55 @@ O sistema lichess é disponibilizado para dispositivos móveis e na forma de apl
 De acordo com as normas [2] e [3], a usabilidade pode ser definida das seguintes formas, respectivamente:
 
 > Um conjunto de atributos relacionados com o esforço necessário para o uso de um sistema
-interativo, e relacionados com a avaliação individual de tal uso, por um conjunto específico de
-usuários.
+> interativo, e relacionados com a avaliação individual de tal uso, por um conjunto específico de
+> usuários.
 
 > O grau em que um produto é usado por usuários específicos para atingir objetivos específicos
-com eficácia, eficiência e satisfação em um contexto de uso específico.
+> com eficácia, eficiência e satisfação em um contexto de uso específico.
 
 Para além da visão técnica, também vale ressaltar que a usabilidade está intimamente ligada a capacidade cognitiva, perceptiva e motora dos usuários empregada durante as interações ([1]).
 
 A definição das metas de usabilidade teve como base a análise de requisitos, como um todo, as normas supracitadas e os fatores de usabilidade de Nielsen.
 
-### 1. Eficácia
+### Eficácia
 
 Um produto é **eficaz** quando realiza as atividades propostas com sucesso, conforme o esperado.
 
-### 2. Eficiência
+### Eficiência
 
 A eficiência está relacionada a quantidade de tempo e recursos desprendidos na execução de uma tarefa com sucesso, quanto menor esse quantidade, maior a eficiência.
 
-### 3. Segurança no uso
+### Segurança no uso
 
 A segurança no uso está relacionada ao grau de proteção de um sistema contra condições desfavoráveis ou perigosas para o usuário ([1]). Um sistema deve fornecer segurança ao usuário durante as interações, minimizando as possibilidades de erros e fornecendo saídas para que ele consiga se recuperar de erros, caso ocorram.
 
-### 4. Facilidade de aprendizado
+### Facilidade de aprendizado
 
-A facilidade de aprendizado se refere ao tempo e esforço necessários para que o usuário aprenda a utilizar o sistema com determinado nível de competência e desempenho ([1]).
+A facilidade de aprendizado se refere ao tempo e esforço necessários para que o usuário aprenda a utilizar o sistema com determinado nível de competência e desempenho [1].
 
-### 5. Facilidade de recordação
+### Facilidade de recordação
 
 A facilidade de recordação diz respeito ao esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema interativo, conforme aprendido anteriormente ([1]).
 
-### 6. Satisfação do usuário
+### Satisfação do usuário
 
 A satisfação do usuário está relacionado às emoções e sentimentos do usuário durante as interações com o sistema, sua avaliação ocorre de maneira subjetiva.
+
+## Requisitos a partir das metas de usabilidade
+
+Abaixo temos uma tabela que apresenta os requisitos identificados a partir das metas de usabilidade do projeto
+
+| ID  |                                                        Descrição                                                         |
+| :-: | :----------------------------------------------------------------------------------------------------------------------: |
+| MU1 | Sistema deve usar a geolocalização para orientar que o jogador não jogue enquanto se desloca pro vias muito movimentadas |
+| MU2 |              Usuário deve ter a opção de realizar um onboarding/ tutorial do sistema caso se sinta perdido               |
+| MU3 |   Sistema deverá ter baixa densidade visual a fim de evitar tirar eficiência do usuário ou reduzir suas sessões de uso   |
+| MU4 |                              Sistema deverá ter avaliação nas lojas com nota 4 ou superior                               |
+| MU5 |     Sistema deve ser compatível com a seguinte linha de sistemas operacionais: Windows, Linux, MacOS, iOS, Android.      |
+
+<div style="text-align: center">
+<p> Tabela 1: Requisitos de usabilidade (Fonte: Mauricio Machado, 2023).</p>
+</div>
 
 ## Bibliografia
 
@@ -59,6 +75,7 @@ A satisfação do usuário está relacionado às emoções e sentimentos do usu�
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)     |
-| ------ | ---------- | ---------------------------------- | ------------- | ---------------- |
-| `1.0`  | 09/12/2022 | Criação do documento.              | Nicolas Souza | Maurício Machado |
+| Versão | Data       | Descrição                                                                | Autor(es)        | Revisor(es)      |
+| ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ---------------- |
+| `1.0`  | 09/12/2022 | Criação do documento.                                                    | Nicolas Souza    | Maurício Machado |
+| `1.1`  | 09/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado |                  |

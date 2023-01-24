@@ -54,7 +54,7 @@ Abaixo temos uma tabela que apresenta o checklist do artefato [Princípios Gerai
 |  7  |     Tópico _Antecipação das necessidades do usuário_ está presente no site do Lichess?      |               Não               |                          |
 |  8  |          Tópico _Visibilidade e reconhecimento_ está presente no site do Lichess?           |               Sim               |                          |
 |  9  |     Tópico _Conteúdo relevante e expressão adequada_ está presente no site do Lichess?      |               Sim               |                          |
-| 10  |                Tópico _Projeto para erros_ está presente no site do Lichess?                |               Não               |                          |
+| 10  |                Tópico _Projeto para erros_ está presente no site do Lichess?                |               Sim               |                          |
 
 <div style="text-align: center">
 <p> Tabela 2: Checklist verificado do artefato Princípio Gerais do Projeto (Fonte: Mauricio Machado, 2023).</p>
@@ -109,8 +109,7 @@ A tabela possui uma coluna TrackID (formada pelo indicador numérico do Ponto de
 |  1  | Inserir tópico Correspondência com as expectativas dos usuários em Princípios Gerais do Projeto |    23/01/2023    | Mauricio Machado |  Davi   |
 |  2  | Inserir tópico Equilíbrio entre controle e liberdade do usuário em Princípios Gerais do Projeto |    23/01/2023    | Mauricio Machado |  Davi   |
 |  3  |     Inserir tópico Antecipação das necessidades do usuário em Princípios Gerais do Projeto      |    23/01/2023    | Mauricio Machado |  Davi   |
-|  4  |                Inserir tópico Projeto para erros em Princípios Gerais do Projeto                |    23/01/2023    | Mauricio Machado |  Davi   |
-|  5  |                Identificar os requisitos de usabilidade em Metas de Usabilidade                 |    23/01/2023    | Mauricio Machado |  Davi   |
+|  4  |                Identificar os requisitos de usabilidade em Metas de Usabilidade                 |    23/01/2023    | Mauricio Machado |  Davi   |
 
 ## Bibliografia
 
