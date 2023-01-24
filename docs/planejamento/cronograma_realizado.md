@@ -145,4 +145,4 @@ Na Tabela 7, temos as entregas realizadas para o Ponto de Controle 7.
 | `1.3`  | 07/12/2022 |              Inclusão de revisores e datas que estavam faltando               |  Nicolas Souza   | Lucas Macedo  |
 | `1.4`  | 14/12/2022 |          Adição do terceiro e quarto cronograma de ponto de controle          |   Lucas Macedo   | Nicolas Souza |
 | `1.5`  | 17/01/2023 |         Alteração dos cabeçalhos das tabelas de Data Limite para Data         |  Nicolas Souza   | Lucas Gabriel |
-| `1.6`  | 24/01/2023 | Adição dos cronogramas realizados referentes aos pontos de controles 5, 6 e 7 |   Lucas Macedo   |      ---      |
+| `1.6`  | 24/01/2023 | Adição dos cronogramas realizados referentes aos pontos de controles 5, 6 e 7 |   Lucas Macedo   |      Nicolas Souza  |
