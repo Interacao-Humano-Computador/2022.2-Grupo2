@@ -191,4 +191,4 @@ A partir dos [resultados](#perguntas-respondidas-tar1) da avaliação, foi poss�
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 24/01/2023  | Criação da versão inicial do artefato.|  Nicolas Souza | |
+| `1.0`  | 24/01/2023  | Criação da versão inicial do artefato.|  Nicolas Souza | Lucas Macedo |
