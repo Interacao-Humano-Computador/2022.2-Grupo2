@@ -89,14 +89,19 @@ Os resultados para as tarefas (TAR1 e TAR2) foram sumarizados nas Tabela 1 e 2, 
 |:-: | -        | :-:  |  :-: | :-:  |
 P1 | O usuário consegue realizar as tarefas no sistema? | Sim | Sim | Sim
 P2 | O usuário consegue atingir o objetivo das tarefas? | Sim | Sim | Sim |
-P3 | Em quantos cliques o usuário atingiu o objetivo? | @TODO: | |
-P4 | Quantos erros o usuário atingiu até alcançar o objetivo? | @TODO:
-P5 | Quanto tempo o usuário gastou para atingir o objetivo? | @TODO:
+P3 | Em quantos cliques o usuário atingiu o objetivo? | 2 | 2| 2 |
+P4 | Quantos erros o usuário atingiu até alcançar o objetivo? | 0 | 0 | 0 |
+P5 | Quanto tempo o usuário gastou para atingir o objetivo? | 30 segundos |  29 segundos | 22 segundos |
 P6 | O usuário entende o que significa cada elemento da interface? | Sim | Sim | Sim
-P7 | O usuário entende para que serve cada elemento da interface? | @TODO:
+P7 | O usuário entende para que serve cada elemento da interface? | Sim | Sim | Sim
 P8 | Alguma parte da interface deixa o usuário insatisfeito? | [Sim](#problemas-identificados) | Não | Não
 P9 | O usuário entende o que deve fazer nas etapas das tarefas? | Sim | Sim | Sim
 P10| Algum problema de IHC dificultou ou impediu o usuário de alcançar o objetivo? | [Sim](#problemas-identificados) | [Sim](#problemas-identificados) | Não |
+<div style="text-align: center">
+<p>
+Tabela 1: Perguntas respondidas para a Tarefa 1 (Fonte: autor, 2023).
+</p>
+</div>
 
 ### Perguntas respondidas (TAR2)
 
@@ -104,14 +109,21 @@ P10| Algum problema de IHC dificultou ou impediu o usuário de alcançar o objet
 |:-: | -        | :-:  |  :-: | :-:  |
 P11| O usuário consegue realizar as tarefas no sistema? | Sim | Sim | Sim
 P12| O usuário consegue atingir o objetivo das tarefas? | Sim | Sim | Sim |
-P13| Em quantos cliques o usuário atingiu o objetivo? | @TODO: | |
-P14| Quantos erros o usuário atingiu até alcançar o objetivo? | @TODO:
-P15| Quanto tempo o usuário gastou para atingir o objetivo? | @TODO:
+P13| Em quantos cliques o usuário atingiu o objetivo? | 8 | 3 | 4 |
+P14| Quantos erros o usuário atingiu até alcançar o objetivo? | 5 | 0 | 1
+P15| Quanto tempo o usuário gastou para atingir o objetivo? | 38 segundos | 40 segundos¹ | 25 segundos
 P16| O usuário entende o que significa cada elemento da interface? | Sim | Sim | Sim
 P17| O usuário entende para que serve cada elemento da interface? | [Não](#problemas-identificados) | [Não](#problemas-identificados) | [Não](#problemas-identificados)
 P18| Alguma parte da interface deixa o usuário insatisfeito? | [Sim](#problemas-identificados) | [Sim](#problemas-identificados) | [Sim](#problemas-identificados)
 P19| O usuário entende o que deve fazer nas etapas das tarefas? | [Não](#problemas-identificados) | [Não](#problemas-identificados) | [Não](#problemas-identificados)
 P20| Algum problema de IHC dificultou ou impediu o usuário de alcançar o objetivo? | [Sim](#problemas-identificados) | [Sim](#problemas-identificados) | Não |
+<div style="text-align: center">
+<p>
+Tabela 2: Perguntas respondidas para a Tarefa 2 (Fonte: autor, 2023).
+</p>
+</div>
+
+¹ O usuário solicitou ajuda e o tempo de diálogo interferiu no tempo para realizar a tarefa.
 
 ### Problemas Identificados
 
