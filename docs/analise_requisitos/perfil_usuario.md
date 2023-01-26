@@ -202,7 +202,7 @@ Técnica onde usuário deve categorizar cartões com base nos seus fundamentos. 
 
 Para essa classificação usamos um integrante do grupo que se encaixa no perfil coletado pelo questionário. A fim de entender a linha de pensamento montamos um checklist e realizamos uma gravação da atividade de classificação de cartões. A tabela com as questões juntamente de respostas está apresentada abaixo. O vídeo da realização dessa atividade também está disponível abaixo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oyeQ-BtCt8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqwdAWdf_xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Vídeo 1: Gravação da classificação de cartões. (Fonte: autor, 2022).</p>
