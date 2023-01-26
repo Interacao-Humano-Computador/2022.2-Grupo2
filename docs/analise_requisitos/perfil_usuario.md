@@ -200,21 +200,27 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 
 Técnica onde usuário deve categorizar cartões com base nos seus fundamentos. Isso permite entender o processo de priorização do usuário e entender como a quebra do sistema em épicos pode ser realizada.
 
-Para essa classificação usamos um integrante do grupo que se encaixa no perfil coletado pelo questionário. A fim de entender a linha de pensamento montamos um checklist e realizamos uma gravação da atividade de classificação de cartões. A tabela com as questões juntamente de respostas está apresentada abaixo.
+Para essa classificação usamos um integrante do grupo que se encaixa no perfil coletado pelo questionário. A fim de entender a linha de pensamento montamos um checklist e realizamos uma gravação da atividade de classificação de cartões. A tabela com as questões juntamente de respostas está apresentada abaixo. O vídeo da realização dessa atividade também está disponível abaixo.
 
-|                                                                                         Pergunta                                                                                          | Resposta |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
-|                                                                                     Qual o seu nome?                                                                                      |          |
-|                                                                                      Qual sua idade?                                                                                      |          |
-|                                                                           Qual sua situação de empregabilidade?                                                                           |          |
-|                                                                           Se estudante, qual área de formação?                                                                            |          |
-|                                                                   Qual dispositivos eletrônicos você usa no dia a dia?                                                                    |          |
-|                                                                 Quantas horas você é acostumado a usar esses dispostivos?                                                                 |          |
-|                                                            Você já jogou xadrez de forma online? Se sim, em quais plataformas?                                                            |          |
-| A partir do seu conhecimento prévio, peço que você junte os cartões apresentados da forma que mais faz sentido para você. Ao final dessa categorização, descreva as categorias definidas. |          |
-|                                                                           Quais foram as categorias definidas ?                                                                           |          |
-|                                                                           Qual a prioridade de cada categoria ?                                                                           |          |
-|                                                             Existe alguma categoria que deveria estar presente e não existe?                                                              |          |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyeQ-BtCt8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da classificação de cartões. (Fonte: autor, 2022).</p>
+</div>
+
+|                                                                                         Pergunta                                                                                          |                                                                                       Resposta                                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                     Qual o seu nome?                                                                                      |                                                                                     Lucas Gabriel                                                                                     |
+|                                                                                      Qual sua idade?                                                                                      |                                                                                          24                                                                                           |
+|                                                                           Qual sua situação de empregabilidade?                                                                           |                                                                                       Estudante                                                                                       |
+|                                                                           Se estudante, qual área de formação?                                                                            |                                                                                Engenharia de Software                                                                                 |
+|                                                                   Qual dispositivos eletrônicos você usa no dia a dia?                                                                    |                                                                              Computador e celular (iOS)                                                                               |
+|                                                                 Quantas horas você é acostumado a usar esses dispostivos?                                                                 |                                                                             Mais de 6 horas de uso diário                                                                             |
+|                                                            Você já jogou xadrez de forma online? Se sim, em quais plataformas?                                                            |                                                                               Sim, Lichess e Chess.com                                                                                |
+| A partir do seu conhecimento prévio, peço que você junte os cartões apresentados da forma que mais faz sentido para você. Ao final dessa categorização, descreva as categorias definidas. |                                            ![Imagem da ordenação de categorias](./imgs/perfil_usuario/classificacao_cartao_categorias.png)                                            |
+|                                                                           Quais foram as categorias definidas ?                                                                           | <ol><li>Primária/ Essencial</li><li>Funcionalidades Secundárias</li><li>Funcionalidade secundárias</li><li>Funcionalidades terciárias/ Comunidade</li><li>Adições Possíveis</li></ol> |
+|                                                                           Qual a prioridade de cada categoria ?                                                                           | ol><li>Primária/ Essencial</li><li>Funcionalidades Secundárias</li><li>Funcionalidade secundárias</li><li>Funcionalidades terciárias/ Comunidade</li><li>Adições Possíveis</li></ol>  |
+|                                                             Existe alguma categoria que deveria estar presente e não existe?                                                              |                                                                                          Não                                                                                          |
 
 <div style="text-align: center">
 <p> Tabela 6: Perguntas e Respostas classificação de cartões. (Fonte: autor, 2022).</p>
@@ -230,7 +236,7 @@ Usuários voltam a criação de uma comunidade, como feature que deve ser trabal
 
 Foi possível identificar uma bias no formulário devido ao número de respostas ser de forma majoritária de universitários da UnB localizada no campus FGA.
 
-A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele perfil.
+A Tabela 7 apresenta um resumo dos resultados, para facilitar a leitura dele perfil.
 
 | Característica                     | Descrição                                                                                                                                                 |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -259,7 +265,8 @@ A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele per
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                       | Autor(es)     | Revisor(es)  |
-| ------ | ---------- | ----------------------------------------------- | ------------- | ------------ |
-| `1.0`  | 26/11/2022 | Criação do documento                            | Maurício      | Lucas Macedo |
-| `1.1`  | 07/12/2022 | Padronização das legendas e ajustes gramaticais | Nicolas Souza | Lucas Macedo |
+| Versão | Data       | Descrição                                       | Autor(es)        | Revisor(es)   |
+| ------ | ---------- | ----------------------------------------------- | ---------------- | ------------- |
+| `1.0`  | 26/11/2022 | Criação do documento                            | Maurício         | Lucas Macedo  |
+| `1.1`  | 07/12/2022 | Padronização das legendas e ajustes gramaticais | Nicolas Souza    | Lucas Macedo  |
+| `1.2`  | 26/01/2023 | Correções a partir da verificação do artefato   | Mauricio Machado | Nicolas Souza |
