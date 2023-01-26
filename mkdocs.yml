@@ -60,6 +60,7 @@ nav:
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
+      - Cenários: "analise_requisitos/cenarios.md"
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
