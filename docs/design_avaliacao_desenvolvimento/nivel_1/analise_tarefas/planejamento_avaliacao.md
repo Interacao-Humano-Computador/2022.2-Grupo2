@@ -6,16 +6,16 @@ Durante a etapa da Análise de requisitos foi realizada a [Análise de tarefas](
 
 ## Planejamento
 
-Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir:
+Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é representado por uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir:
 
 | Letra | Significado                                                 |
 | ----- | ----------------------------------------------------------- |
 | **D** | Determinar os objetivos gerais da avaliação                 |
 | **E** | Explorar perguntas a serem feitas na avaliação              |
-| **C** | Choose (escolher) os métodos de avaliação                   |
+| **C** | Choose (Escolher) os métodos de avaliação                   |
 | **I** | Identificar e administrar as questões práticas da avaliação |
 | **D** | Decidir como lidar com as questões éticas                   |
-| **E** | Evaluate (avaliar), interpretar e apresentar os dados       |
+| **E** | Evaluate (Avaliar), interpretar e apresentar os dados       |
 
 <div style="text-align: center">
 <p> Tabela 1: Descrição do Framework DECIDE (Fonte: [1], 2022).</p>
@@ -23,7 +23,7 @@ Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execu
 
 Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o Framework em questão:
 
-### (D)eterminar os objetivos gerais da avaliação
+### **D**eterminar os objetivos gerais da avaliação
 
 #### Objetivo
 
@@ -33,39 +33,39 @@ O intuito dessa avaliação é coletar dados dos interessados no sistema (stakeh
 2. Ideias e alternativas de design;
 3. Problemas na interação e na interface.
 
-#### (E)xplorar perguntas a serem feitas na avaliação
+#### **E**xplorar perguntas a serem feitas na avaliação
 
 As perguntas elaboradas têm como base a "Tabela 11.1: Exemplos de perguntas que uma avaliação de IHC pode responder" do livro "Interação Humano-Computador e Experiência do Usuário" de Simone D. J. Barbosa e Bruno Santana da Silva.
 
-| Ordenação | Tópico da pergunta | Pergunta                                                                              | Resposta possível                                                                        | Tipo de pergunta |
-| --------- | ------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------- |
-| 1°        | -                  | Qual seu nome completo ?                                                              | Resposta discursiva                                                                      | Fechada          |
-| 2°        | -                  | Qual sua idade ?                                                                      | Resposta discursiva                                                                      | Fechada          |
-| 3°        | -                  | Qual sua ocupação ?                                                                   | Resposta discursiva                                                                      | Fechada          |
-| 4°        | -                  | Qual o seu grau de ensino ?                                                             | Resposta discursiva                                                                      | Fechada          |
-| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                        | Resposta discursiva                                                                      | Fechada          |
-| 6°        | 1                  | Você utiliza o Lichess no seu dia a dia ?                                             | - Sim <br> - Não <br>❗Caso  resposta seja não, não se deve realizar as outras perguntas | Fechada          |
-| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess ?              | Resposta discursiva                                                                      | Fechada          |
-| 8°        | 1                  | Quais são os pontos fortes e fracos do sistema, na sua opinião ?                      | Resposta discursiva                                                                      | Aberta           |
-| 9°        | 1                  | O quanto você se sente motivado a explorar novas funcionalidades dentro do Lichess ? | - Sim <br> - Não                                                                         | Fechada          |
-| 10°       | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                   | - Sim <br> - Não  <br>❗Caso  resposta seja não, não se deve realizar a pergunta 10      | Fechada          |
-| 11°       | 2                  | Qual delas você mais gosta ? Por que ?                                                | Resposta discursiva                                                                      | Aberta           |
-| 12°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                            | - Sim <br> - Não <br>                                                                    | Fechada          |
-| 13°       | 3                  | Você atinge seu objetivo com rapidez ou ocorrem vários erros no processo ?            | Resposta discursiva                                                                      | Fechada          |
-| 14°       | 3                  | Que parte da interface e da interação o deixa insatisfeito ?                          | Resposta discursiva                                                                      | Aberta           |
-| 15°       | 3                  | Você entende o que significa e para que serve cada elemento de interface?             | - Sim <br> - Não <br>                                                                    | Fechada          |
+| Ordenação | Tópico da pergunta | Pergunta                                                                                                    | Resposta possível                                                                         | Tipo de pergunta |
+| --------- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- |
+| 1°        | -                  | Qual seu nome completo ?                                                                                    | Resposta discursiva                                                                       | Fechada          |
+| 2°        | -                  | Qual sua idade ?                                                                                            | Resposta discursiva                                                                       | Fechada          |
+| 3°        | -                  | Qual sua ocupação ?                                                                                         | Resposta discursiva                                                                       | Fechada          |
+| 4°        | -                  | Qual o seu grau de ensino ?                                                                                 | Resposta discursiva                                                                       | Fechada          |
+| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                                              | Resposta discursiva                                                                       | Fechada          |
+| 6°        | 1                  | Você utiliza o Lichess no seu dia a dia ?                                                                   | - Sim <br> - Não <br>❗Caso a resposta seja não, não se deve realizar as outras perguntas | Fechada          |
+| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess, por favor justifique sua resposta ? | Resposta discursiva                                                                       | Fechada          |
+| 8°        | 1                  | Quais são os pontos fortes e fracos do sistema, na sua opinião ?                                            | Resposta discursiva                                                                       | Aberta           |
+| 9°        | 1                  | O quanto você se sente motivado a explorar novas funcionalidades dentro do Lichess ?                        | Resposta discursiva                                                                       | Fechada          |
+| 10°       | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                                        | - Sim <br> - Não  <br>❗Caso  resposta seja não, não se deve realizar a pergunta 11       | Fechada          |
+| 11°       | 2                  | Qual delas você mais gosta ? Por que ?                                                                      | Resposta discursiva                                                                       | Aberta           |
+| 12°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                                                  | - Sim <br> - Não <br>                                                                     | Fechada          |
+| 13°       | 3                  | Você atinge seu objetivo com rapidez ou ocorrem vários erros no processo ?                                  | Resposta discursiva                                                                       | Fechada          |
+| 14°       | 3                  | Que parte da interface e da interação o deixa insatisfeito ?                                                | Resposta discursiva                                                                       | Aberta           |
+| 15°       | 3                  | Você entende o que significa e para que serve cada elemento de interface do sítio eletrônico do Lichess?    | - Sim <br> - Não <br>                                                                     | Fechada          |
 
 <div style="text-align: center">
 <p> Tabela 2: Questões a serem tratadas na entrevista (Fonte: [1], 2022).</p>
 </div>
 
-### Choose (escolher) os métodos de avaliação
+### **C**hoose (Escolher) os métodos de avaliação
 
 O método utilizado foi o método da entrevista, o qual é um método investigativo, que trata-se de uma conversa guiada por um roteiro de perguntas, na qual um entrevistador busca obter informação de um entrevistado [2]. Esse método foi escolhido, pois permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. Na entrevista as perguntas podem ser classificadas como abertas e fechadas, que são respectivamente, perguntas de natureza exploratória e perguntas com opções dentre as quais o entrevistado deve selecionar. O modelo de entrevista escolhido foi o de entrevista estruturada, no qual o entrevistador se mantém fiel ao roteiro, devido à inexperiência dos entrevistadores.
 
-### (I)dentificar e administrar as questões práticas da avaliação
+### **I**dentificar e administrar as questões práticas da avaliação
 
-O recrutamento de usuários que participarão da avaliação será feito por meio de convites a usuários da plataforma ques com perfis similares aos identificados no [Perfil de Usuário](../../../analise_requisitos/perfil_usuario.md)) e nas [Personas](../../../analise_requisitos/personas.md). Serão avaliados 5 usuários, pois segundo Dumas e Redish uma avaliação de IHC deve envolver de cinco a doze usuários, mas apenas cinco são o suficiente para detecção da maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC, para que um possa conduzir a entrevista e outro possa anotar as informações relevantes, não serão necessários gastos devido a utilização da plataforma Microsoft Teams, a qual é gratuita para os estudantes da Universidade de Brasília. O cronograma a ser seguido pode ser observado a seguir nas tabelas de 3 a 7
+O recrutamento de usuários que participarão da avaliação será feito por meio de convites a usuários da plataforma que possuam perfis similares aos identificados no [Perfil de Usuário](../../../analise_requisitos/perfil_usuario.md)) e nas [Personas](../../../analise_requisitos/personas.md). Serão avaliados 5 usuários, pois segundo Dumas e Redish uma avaliação de IHC deve envolver de cinco a doze usuários, mas apenas cinco são o suficiente para detecção da maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC, para que um possa conduzir a entrevista e outro possa anotar as informações relevantes, não serão necessários gastos devido a utilização da plataforma Microsoft Teams, a qual é gratuita para os estudantes da Universidade de Brasília. O cronograma a ser seguido pode ser observado a seguir nas tabelas de 3 a 7
 
 Entrevista 1
 
@@ -112,7 +112,7 @@ Entrevista 5
 <p> Tabela 7: Cronograma da entrevista 5 (Fonte: [1], 2022).</p>
 </div>
 
-### (D)ecidir como lidar com as questões éticas  
+### **D**ecidir como lidar com as questões éticas  
 
 Com relação à ética serão seguidos os padrões de ética definidos no documento de [Aspectos Éticos](../../../analise_requisitos/aspectos_eticos.md), o termo de consentimento relativo à entrevista pode ser observados logo a seguir na Figura 1.
 
@@ -122,7 +122,7 @@ Com relação à ética serão seguidos os padrões de ética definidos no docum
 <p> Figura 1: Termo de consentimento da entrevista (Fonte: [1]).</p>
 </div>
 
-### (E)valuate (avaliar), interpretar e apresentar os dados
+### **E**valuate (Avaliar), interpretar e apresentar os dados
 
 Antes da conclusão da análise dos resultados serão verificados o grau de confiabilidade dos resultados obtidos e a validade externa do estudo, ou seja até que ponto os dados podem ser generalizados
 
