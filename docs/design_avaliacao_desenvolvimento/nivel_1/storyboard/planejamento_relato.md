@@ -14,7 +14,7 @@ O relato de resultados deve conter os objetivos da avaliação juntamente com um
 
 ### Metodologia
 
-O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado registrado no [planejamento da avaliação](planejamento_avaliacao.md#metodologia).
+O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado no [planejamento da avaliação](planejamento_avaliacao.md#metodologia).
 
 ### Avaliadores e Participantes
 

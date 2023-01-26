@@ -61,14 +61,14 @@ Na Tabela 3, temos as entregas realizadas para o Ponto de Controle 3.
 
 Na Tabela 4, temos as entregas realizadas para o Ponto de Controle 4.
 
-|                                Atividade                                | Data de Entrega | Data da Revisão |                  Autor(es)                  |  Revisor(es)  |
-| :---------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :-----------: |
-|           Planejamento do relato de resultados do storyboard            |   13/12/2022    |   13/12/2022    |                Nicolas Souza                | Lucas Gabriel |
-|                  Planejamento da avaliação storyboard                   |   13/12/2022    |   12/12/2022    |                   Nicolas                   | Lucas Gabriel |
-| Planejamento do relato de resultados da avaliação da Análise de tarefas |   13/12/2022    |   13/12/2022    |              Maurício Machado               | Nicolas Souza |
-|             Planejamento da Avaliação da Análise de tarefas             |   13/12/2022    |   13/12/2022    |                Lucas Gabriel                | Nicolas Souza |
-|                        Gravação da apresentação                         |   --/12/2022    |   --/12/2022    | Davi, Lucas G., Lucas M., Maurício, Nicolas |   Maurício    |
-|                         Edição da apresentação                          |   --/12/2022    |   --/12/2022    |                  Mauricio                   |    Nicolas    |
+|                                Atividade                                | Data de Entrega | Data da Revisão |               Autor(es)                |  Revisor(es)  |
+| :---------------------------------------------------------------------: | :-------------: | :-------------: | :------------------------------------: | :-----------: |
+|           Planejamento do relato de resultados do storyboard            |   13/12/2022    |   13/12/2022    |             Nicolas Souza              | Lucas Gabriel |
+|                  Planejamento da avaliação storyboard                   |   13/12/2022    |   12/12/2022    |         Nicolas e Lucas Macedo         | Lucas Gabriel |
+| Planejamento do relato de resultados da avaliação da Análise de tarefas |   13/12/2022    |   13/12/2022    |            Maurício Machado            | Nicolas Souza |
+|             Planejamento da Avaliação da Análise de tarefas             |   13/12/2022    |   13/12/2022    |             Lucas Gabriel              | Nicolas Souza |
+|                        Gravação da apresentação                         |   13/12/2022    |   13/12/2022    | Davi, Lucas Gabriel, Maurício, Nicolas |   Maurício    |
+|                         Edição da apresentação                          |   13/12/2022    |   13/12/2022    |                Mauricio                |    Nicolas    |
 
 <div style="text-align: center">
 <p> Tabela 4: Cronograma realizado do Ponto de Controle 4 (Fonte: autor, 2022).</p>
@@ -78,14 +78,14 @@ Na Tabela 4, temos as entregas realizadas para o Ponto de Controle 4.
 
 Na Tabela 5, temos as entregas realizadas para o Ponto de Controle 5.
 
-|                                Atividade                                | Data Limite de Entrega | Data Limite Revisão |                  Autor(es)                  |  Revisor(es)  |
-| :---------------------------------------------------------------------: | :--------------------: | :-----------------: | :-----------------------------------------: | :-----------: |
-|                   Relato dos resultados do Storyboard                   |       19/12/2022       |     19/12/2022      |                   Nicolas                   |   Maurício    |
-|               Relato dos resultados da Análise de tarefas               |       21/12/2022       |     21/12/2022      |                    Davi                     | Lucas Gabriel |
-| Planejamento do relato de resultados da avaliação do protótipo de papel |       13/12/2022       |     13/12/2022      |                Lucas Gabriel                |    Nicolas    |
-|             Planejamento da avaliação do protótipo de papel             |       17/12/2022       |     17/12/2022      |                  Maurício                   |    Nicolas    |
-|                        Gravação da apresentação                         |       20/12/2022       |     20/12/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |   Maurício    |
-|                         Edição da apresentação                          |       20/12/2022       |     20/12/2022      |                  Maurício                   |    Nicolas    |
+|                                Atividade                                | Data de Entrega | Data da Revisão |                  Autor(es)                  |  Revisor(es)  |
+| :---------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :-----------: |
+|                   Relato dos resultados do Storyboard                   |   19/12/2022    |   19/12/2022    |                   Nicolas                   |   Maurício    |
+|               Relato dos resultados da Análise de tarefas               |   21/12/2022    |   21/12/2022    |                    Davi                     | Lucas Gabriel |
+| Planejamento do relato de resultados da avaliação do protótipo de papel |   13/12/2022    |   13/12/2022    |                Lucas Gabriel                |    Nicolas    |
+|             Planejamento da avaliação do protótipo de papel             |   17/12/2022    |   17/12/2022    |                  Maurício                   |    Nicolas    |
+|                        Gravação da apresentação                         |   20/12/2022    |   20/12/2022    | Davi, Lucas G., Lucas M., Maurício, Nicolas |   Maurício    |
+|                         Edição da apresentação                          |   20/12/2022    |   20/12/2022    |                  Maurício                   |    Nicolas    |
 
 <div style="text-align: center">
 <p> Tabela 5: Cronograma realizado do Ponto de Controle 5 (Fonte: autor, 2022).</p>
@@ -95,20 +95,20 @@ Na Tabela 5, temos as entregas realizadas para o Ponto de Controle 5.
 
 Na Tabela 6, temos as entregas realizadas para o Ponto de Controle 6.
 
-|                               Atividade                                | Data Limite de Entrega | Data Limite Revisão |                  Autor(es)                  |     Revisor(es)     |
-| :--------------------------------------------------------------------: | :--------------------: | :-----------------: | :-----------------------------------------: | :-----------------: |
-|          Planejamento de verificação dos artefatos da Etapa 1          |       18/01/2023       |     18/01/2023      |                    Davi                     | Nicolas e Maurício  |
-|          Planejamento de verificação dos artefatos da Etapa 2          |       17/01/2023       |     17/01/2023      |                   Nicolas                   |    Lucas Gabriel    |
-|          Planejamento de verificação dos artefatos da Etapa 3          |       17/01/2023       |     17/01/2023      |                  Maurício                   | Davi e Lucas Macedo |
-|   Planejamento de verificação dos artefatos da Etapa 4 **não feito**   |          ---           |         ---         |                Lucas Gabriel                |         ---         |
-|          Planejamento de verificação dos artefatos da Etapa 5          |       18/01/2023       |     18/01/2023      |                Lucas Macedo                 |    Lucas Gabriel    |
-|        Relato da verificação da Etapa 1 e ajustes nos artefatos        |       18/01/2023       |     18/01/2023      |                    Davi                     | Nicolas e Mauricio  |
-|        Relato da verificação da Etapa 2 e ajustes nos artefatos        |       18/01/2023       |     18/01/2023      |                   Nicolas                   |    Lucas Gabriel    |
-|        Relato da verificação da Etapa 3 e ajustes nos artefatos        |       18/01/2023       |     18/01/2023      |                  Maurício                   |    Lucas Macedo     |
-| Relato da verificação da Etapa 4 e ajustes nos artefatos **não feito** |          ---           |         ---         |                Lucas Gabriel                |         ---         |
-|        Relato da verificação da Etapa 5 e ajustes nos artefatos        |       18/01/2023       |     18/01/2023      |                Lucas Macedo                 |    Lucas Gabriel    |
-|                        Gravação da apresentação                        |       06/01/2023       |     06/01/2023      | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
-|                         Edição da apresentação                         |       06/01/2023       |     06/01/2023      |                  Maurício                   |       Nicolas       |
+|                        Atividade                         | Data de Entrega | Data da Revisão |                  Autor(es)                  |     Revisor(es)     |
+| :------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :-----------------: |
+|   Planejamento de verificação dos artefatos da Etapa 1   |   18/01/2023    |   18/01/2023    |                    Davi                     | Nicolas e Maurício  |
+|   Planejamento de verificação dos artefatos da Etapa 2   |   17/01/2023    |   17/01/2023    |                   Nicolas                   |    Lucas Gabriel    |
+|   Planejamento de verificação dos artefatos da Etapa 3   |   17/01/2023    |   17/01/2023    |                  Maurício                   | Davi e Lucas Macedo |
+|   Planejamento de verificação dos artefatos da Etapa 4   |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                |        Davi         |
+|   Planejamento de verificação dos artefatos da Etapa 5   |   18/01/2023    |   18/01/2023    |                Lucas Macedo                 |    Lucas Gabriel    |
+| Relato da verificação da Etapa 1 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                    Davi                     | Nicolas e Mauricio  |
+| Relato da verificação da Etapa 2 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                   Nicolas                   |    Lucas Gabriel    |
+| Relato da verificação da Etapa 3 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                  Maurício                   |    Lucas Macedo     |
+| Relato da verificação da Etapa 4 e ajustes nos artefatos |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                |        Davi         |
+| Relato da verificação da Etapa 5 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                Lucas Macedo                 |    Lucas Gabriel    |
+|                 Gravação da apresentação                 |   06/01/2023    |   06/01/2023    | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
+|                  Edição da apresentação                  |   06/01/2023    |   06/01/2023    |                  Maurício                   |       Nicolas       |
 
 <div style="text-align: center">
 <p> Tabela 6: Cronograma realizado do Ponto de Controle 6 (Fonte: autor, 2022).</p>
@@ -118,13 +118,13 @@ Na Tabela 6, temos as entregas realizadas para o Ponto de Controle 6.
 
 Na Tabela 7, temos as entregas realizadas para o Ponto de Controle 7.
 
-|                                     Atividade                                      | Data Limite de Entrega | Data Limite Revisão |                  Autor(es)                  |  Revisor(es)   |
-| :--------------------------------------------------------------------------------: | :--------------------: | :-----------------: | :-----------------------------------------: | :------------: |
-|                    Relato dos resultados do Protótipo de Papel                     |       11/01/2023       |     17/01/2023      |   Lucas Macedo, Lucas Gabriel e Mauricio    | Davi e Nicolas |
-|             Planejamento da avaliação do protótipo de alta fidelidade              |       10/01/2023       |     11/01/2023      |                   Nicolas                   |      Davi      |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |       **/01/2023       |     **/01/2023      |                    :--:                     |      :--:      |
-|                              Gravação da apresentação                              |       **/01/2023       |     **/01/2023      | Davi, Lucas G., Lucas M., Maurício, Nicolas |    Maurício    |
-|                               Edição da apresentação                               |       **/01/2023       |     **/01/2023      |                  Maurício                   |    Nicolas     |
+|                                     Atividade                                      | Data de Entrega | Data da Revisão |                  Autor(es)                  |  Revisor(es)   |
+| :--------------------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :------------: |
+|                    Relato dos resultados do Protótipo de Papel                     |   11/01/2023    |   17/01/2023    |   Lucas Macedo, Lucas Gabriel e Mauricio    | Davi e Nicolas |
+|             Planejamento da avaliação do protótipo de alta fidelidade              |   10/01/2023    |   11/01/2023    |                   Nicolas                   |      Davi      |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |   **/01/2023    |   **/01/2023    |                    :--:                     |      :--:      |
+|                              Gravação da apresentação                              |   **/01/2023    |   **/01/2023    | Davi, Lucas G., Lucas M., Maurício, Nicolas |    Maurício    |
+|                               Edição da apresentação                               |   **/01/2023    |   **/01/2023    |                  Maurício                   |    Nicolas     |
 
 
 <div style="text-align: center">
@@ -145,4 +145,4 @@ Na Tabela 7, temos as entregas realizadas para o Ponto de Controle 7.
 | `1.3`  | 07/12/2022 |              Inclusão de revisores e datas que estavam faltando               |  Nicolas Souza   | Lucas Macedo  |
 | `1.4`  | 14/12/2022 |          Adição do terceiro e quarto cronograma de ponto de controle          |   Lucas Macedo   | Nicolas Souza |
 | `1.5`  | 17/01/2023 |         Alteração dos cabeçalhos das tabelas de Data Limite para Data         |  Nicolas Souza   | Lucas Gabriel |
-| `1.6`  | 24/01/2023 | Adição dos cronogramas realizados referentes aos pontos de controles 5, 6 e 7 |   Lucas Macedo   |      Nicolas Souza  |
+| `1.6`  | 24/01/2023 | Adição dos cronogramas realizados referentes aos pontos de controles 5, 6 e 7 |   Lucas Macedo   | Nicolas Souza |
