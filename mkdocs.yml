@@ -87,9 +87,9 @@ nav:
       - Ponto de Controle 3:
           - Planejamento: verificacao_validacao/etapa_3/planejamento.md
           - Relato dos Resultados: verificacao_validacao/etapa_3/resultados.md
-      # - Ponto de Controle 4:
-      #     - Planejamento:
-      #     - Relato dos Resultados:
+      - Ponto de Controle 4:
+          - Planejamento: verificacao_validacao/pc4-planejamento.md
+          - Relato dos Resultados: verificacao_validacao/pc4-resultados.md
       - Ponto de Controle 5:
           - Planejamento: verificacao_validacao/pc5-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc5-resultados.md
