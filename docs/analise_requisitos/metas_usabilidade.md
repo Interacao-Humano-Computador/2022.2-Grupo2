@@ -80,4 +80,4 @@ Abaixo temos uma tabela que apresenta os requisitos identificados a partir das m
 | ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ---------------- |
 | `1.0`  | 09/12/2022 | Criação do documento.                                                    | Nicolas Souza    | Maurício Machado |
 | `1.1`  | 24/01/2023 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo     |
-| `1.1`  | 26/01/2023 | Alteração requisitos de Usabilidade                                      | Mauricio Machado | -                |
+| `1.2`  | 26/01/2023 | Alteração requisitos de Usabilidade                                      | Mauricio Machado | -                |
