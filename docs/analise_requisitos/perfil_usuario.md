@@ -106,6 +106,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ### Questão 6
 
 ![Image do resultado da questão 6](./imgs/perfil_usuario/pergunta-6.png)
+
 <div style="text-align: center">
 <p> Figura 4: Pergunta 6. (Fonte: autor, 2022).</p>
 </div>
@@ -140,6 +141,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                       Entre 1 e 2 horas                        |   4   |   21,05%    |
 |                       Entre 2 e 3 horas                        |   2   |   10,55%    |
 |                        Mais de 3 horas                         |   4   |   21,05%    |
+
 <div style="text-align: center">
 <p> Tabela 4: Respostas pergunta 9. (Fonte: autor, 2022).</p>
 </div>
@@ -147,6 +149,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ### Questão 10
 
 ![Image do resultado da questão 10](./imgs/perfil_usuario/pergunta-10.png)
+
 <div style="text-align: center">
 <p> Figura 5: Pergunta 10. (Fonte: autor, 2022).</p>
 </div>
@@ -154,6 +157,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ### Questão 11
 
 ![Image do resultado da questão 11](./imgs/perfil_usuario/pergunta-11.png)
+
 <div style="text-align: center">
 <p> Figura 6: Pergunta 11. (Fonte: autor, 2022).</p>
 </div>
@@ -161,6 +165,7 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 ### Questão 12
 
 ![Image do resultado da questão 12](./imgs/perfil_usuario/pergunta-12.png)
+
 <div style="text-align: center">
 <p> Figura 7: Pergunta 12. (Fonte: autor, 2022).</p>
 </div>
@@ -191,6 +196,30 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 <p> Tabela 5: Respostas pergunta 13. (Fonte: autor, 2022).</p>
 </div>
 
+## Classificação de cartões
+
+Técnica onde usuário deve categorizar cartões com base nos seus fundamentos. Isso permite entender o processo de priorização do usuário e entender como a quebra do sistema em épicos pode ser realizada.
+
+Para essa classificação usamos um integrante do grupo que se encaixa no perfil coletado pelo questionário. A fim de entender a linha de pensamento montamos um checklist e realizamos uma gravação da atividade de classificação de cartões. A tabela com as questões juntamente de respostas está apresentada abaixo.
+
+|                                                                                         Pergunta                                                                                          | Resposta |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+|                                                                                     Qual o seu nome?                                                                                      |          |
+|                                                                                      Qual sua idade?                                                                                      |          |
+|                                                                           Qual sua situação de empregabilidade?                                                                           |          |
+|                                                                           Se estudante, qual área de formação?                                                                            |          |
+|                                                                   Qual dispositivos eletrônicos você usa no dia a dia?                                                                    |          |
+|                                                                 Quantas horas você é acostumado a usar esses dispostivos?                                                                 |          |
+|                                                            Você já jogou xadrez de forma online? Se sim, em quais plataformas?                                                            |          |
+| A partir do seu conhecimento prévio, peço que você junte os cartões apresentados da forma que mais faz sentido para você. Ao final dessa categorização, descreva as categorias definidas. |          |
+|                                                                           Quais foram as categorias definidas ?                                                                           |          |
+|                                                                           Qual a prioridade de cada categoria ?                                                                           |          |
+|                                                             Existe alguma categoria que deveria estar presente e não existe?                                                              |          |
+
+<div style="text-align: center">
+<p> Tabela 6: Perguntas e Respostas classificação de cartões. (Fonte: autor, 2022).</p>
+</div>
+
 ## Análise dos resultados
 
 Levando em conta os dados levantados através do questionário, pode-se constatar que o perfil de usuário é centrada na faixa dos 20 anos, onde temos dois traços de perfis muito forte: competitivo e sociável. Cada um desses traços, cria uma persona.
@@ -199,17 +228,29 @@ Com uma grande parcela de usuários tendo alta taxa de uso de dispositivos eletr
 
 Usuários voltam a criação de uma comunidade, como feature que deve ser trabalhado a fim de ajudar a trazer novas pessoas para a área do xadrez.
 
+Foi possível identificar uma bias no formulário devido ao número de respostas ser de forma majoritária de universitários da UnB localizada no campus FGA.
+
 A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele perfil.
 
-| Característica    | Descrição                                                                    |
-| ----------------- | ---------------------------------------------------------------------------- |
-| Idade             | Jovem, com idade média de 23 anos.                                           |
-| Experiência       | Especialista                                                                 |
-| Atitudes          | Tecnófilos                                                                   |
-| Tarefas primárias | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente |
+| Característica                     | Descrição                                                                                                                                                 |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Idade                              | Jovem, com idade média de 23 anos.                                                                                                                        |
+| Sexo                               | Maioria homem, tendo uma faixa de 20% de mulheres                                                                                                         |
+| Classe socioeconômica              | Informação não foi coletada no formulário                                                                                                                 |
+| Ocupação                           | Estudante e/ou estagiário                                                                                                                                 |
+| Grau de Instrução                  | Superior                                                                                                                                                  |
+| Área de formação                   | Informação não foi coletada no formulário                                                                                                                 |
+| Experiência                        | Especialista                                                                                                                                              |
+| Atitudes                           | Tecnófilos                                                                                                                                                |
+| Tarefas primárias                  | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente                                                                              |
+| Experiência com sistemas similares | Sim, _[Chess.com](https://www.chess.com)_                                                                                                                 |
+| Nível de conhecimento sobre xadrez | Intermediário                                                                                                                                             |
+| Dispositivos disponíveis           | Smartphone e de forma parcial computadores                                                                                                                |
+| Objetivos do usuário               | <p>Dois principais:<p><ul><li>Ser o melhor jogador de xadrez do sistema</li><li>Usar pequenos intervalos de lazer para se divertir com o xadrez</li></ul> |
+| Idiomas e jargões                  | Português e parcialmente inglês. Uso de jargões não foi coletado                                                                                          |
 
 <div style="text-align: center">
-<p>Tabela 6: Perfil do usuário (fonte: autor, 2022).</p>
+<p>Tabela 7: Perfil do usuário (fonte: autor, 2022).</p>
 </div>
 
 ## Bibliografia
@@ -218,7 +259,7 @@ A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele per
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 26/11/2022  |   Criação do documento   |  Maurício     |  Lucas Macedo |
-| `1.1`  | 07/12/2022  |   Padronização das legendas e ajustes gramaticais  |  Nicolas Souza | Lucas Macedo  |
+| Versão | Data       | Descrição                                       | Autor(es)     | Revisor(es)  |
+| ------ | ---------- | ----------------------------------------------- | ------------- | ------------ |
+| `1.0`  | 26/11/2022 | Criação do documento                            | Maurício      | Lucas Macedo |
+| `1.1`  | 07/12/2022 | Padronização das legendas e ajustes gramaticais | Nicolas Souza | Lucas Macedo |
