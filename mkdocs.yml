@@ -77,7 +77,7 @@ nav:
       - Nível 3:
           - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
           - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
-  - Verificação e Validação:
+  - Verificação:
       - Ponto de Controle 1:
           - Planejamento: verificacao_validacao/pc1-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc1-resultados.md
