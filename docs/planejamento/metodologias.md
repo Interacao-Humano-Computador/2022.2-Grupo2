@@ -67,6 +67,7 @@ As mensagens dos _commits_ devem seguir o padrão:
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor(es)        | Revisor(es)          |
-| :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| `1.0`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
+| Versão |    Data    |         Descrição         |         Autor(es)          | Revisor(es) |
+| :----: | :--------: | :-----------------------: | :------------------------: | :---------: |
+| `1.0`  | 18/11/2022 |   Criação do documento    | Davi Silva e Nicolas Souza |  Maurício   |
+| `1.1`  | 26/01/2023 | Padronização do documento | Davi Silva e Nicolas Souza |  Maurício   |
