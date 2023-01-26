@@ -59,7 +59,7 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 ## Apresentação 5
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VGYzx5PgTKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGYzx5PgTKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 [Link Apresentação 5](https://youtu.be/VGYzx5PgTKA)
@@ -95,6 +95,19 @@ Vídeo 7: Apresentação da etapa 7 do projeto
 </div>
 <br>
 
+## Apresentação 8
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBEhGUUhOHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+[Link Apresentação 8](https://youtu.be/OBEhGUUhOHI)
+
+<div style="text-align: center">
+Vídeo 8: Apresentação da etapa 8 do projeto
+</div>
+<br>
+
 ## Histórico de versão do arquivo
 
 |    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
@@ -105,3 +118,4 @@ Vídeo 7: Apresentação da etapa 7 do projeto
 | 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas    |
 | 21/12/2022 | `1.4`  | Adição da apresentação 5 | Lucas Macedo |   Mauricio Machado    |
 | 21/12/2022 | `1.5`  | Adição da apresentação 6 e 7 | Lucas Macedo |   Nicolas Souza  |
+| 25/01/2023 | `1.6`  | Adição da apresentação 8 | Nicolas Souza    |   Lucas Macedo    |
