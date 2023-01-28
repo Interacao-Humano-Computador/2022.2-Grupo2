@@ -77,6 +77,7 @@ nav:
               - Relato de resultados do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md"
       - Nível 3:
           - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
+          - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: "planejamento_relato_resultados_alta_fidelidade.md"
           - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
   - Verificação:
       - Ponto de Controle 1:
@@ -99,9 +100,7 @@ nav:
       #     - Relato dos Resultados:
       - Ponto de Controle 7:
           - Planejamento: verificacao_validacao/pc7-planejamento.md
-          - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
-          - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
-            #- Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade:
+          - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
 
   - Apresentações: "apresentacoes.md"
 
