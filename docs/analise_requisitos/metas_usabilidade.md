@@ -17,7 +17,6 @@ De acordo com as normas [2] e [3], a usabilidade pode ser definida das seguintes
 > Um conjunto de atributos relacionados com o esforço necessário para o uso de um sistema
 > interativo, e relacionados com a avaliação individual de tal uso, por um conjunto específico de
 > usuários.
-
 > O grau em que um produto é usado por usuários específicos para atingir objetivos específicos
 > com eficácia, eficiência e satisfação em um contexto de uso específico.
 
@@ -53,13 +52,14 @@ A satisfação do usuário está relacionado às emoções e sentimentos do usu�
 
 Abaixo temos uma tabela que apresenta os requisitos identificados a partir das metas de usabilidade do projeto
 
-| ID  |                                                        Descrição                                                         |
-| :-: | :----------------------------------------------------------------------------------------------------------------------: |
-| MU1 | Sistema deve usar a geolocalização para orientar que o jogador não jogue enquanto se desloca pro vias muito movimentadas |
-| MU2 |              Usuário deve ter a opção de realizar um onboarding/ tutorial do sistema caso se sinta perdido               |
-| MU3 |   Sistema deverá ter baixa densidade visual a fim de evitar tirar eficiência do usuário ou reduzir suas sessões de uso   |
-| MU4 |                              Sistema deverá ter avaliação nas lojas com nota 4 ou superior                               |
-| MU5 |     Sistema deve ser compatível com a seguinte linha de sistemas operacionais: Windows, Linux, MacOS, iOS, Android.      |
+| ID  |                                                      Descrição                                                       |
+| :-: | :------------------------------------------------------------------------------------------------------------------: |
+| MU1 |                       Sistema deve permitir acesso a uma funcionalidade em 4 cliques ou menos                        |
+| MU2 |      Porcentagem de cliques na seção de ajuda em relação ao tamanho da base de usuários deve ser menor que 30%       |
+| MU3 |                             Tempo de sessão média de usuário deve ser maior que uma hora                             |
+| MU4 |                         Coleta de NPS do sistema deve ter média promotora maior ou igual a 9                         |
+| MU5 | Tempo médio para iniciar uma partida deve ser menor que um minuto (Contando a partir da inicialização do aplicativo) |
+| MU6 |                        Sistema deve fornecer notificações push sobre novos acessos ao sistema                        |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos de usabilidade (Fonte: Mauricio Machado, 2023).</p>
@@ -78,4 +78,5 @@ Abaixo temos uma tabela que apresenta os requisitos identificados a partir das m
 | Versão | Data       | Descrição                                                                | Autor(es)        | Revisor(es)      |
 | ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ---------------- |
 | `1.0`  | 09/12/2022 | Criação do documento.                                                    | Nicolas Souza    | Maurício Machado |
-| `1.1`  | 09/12/2022 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo     |
+| `1.1`  | 24/01/2023 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo     |
+| `1.2`  | 26/01/2023 | Alteração requisitos de Usabilidade                                      | Mauricio Machado | Nicolas Souza                |
