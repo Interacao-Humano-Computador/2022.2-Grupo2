@@ -4,7 +4,7 @@
 
 O presente artefato contém os resultados da verificação dos artefatos produzidos durante o ponto de controle 7 na versão mencionada abaixo:
 
-- [Relato dos resultados do Prototipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md) versão 1.2
+- [Relato dos resultados do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md) versão 1.2
 - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md) versão 1.0
 - [Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](/design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md) versão 1.0
 
@@ -16,7 +16,7 @@ A verificação foi feita com base nas listas de verificação definidas no [pla
 
 ### Verificação - Relato dos resultados do Protótipo de Papel
 
-As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Relato dos resultados do Prototipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md).
+As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Relato dos resultados do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md).
 
 | ID  | Questão                                                                  | Resposta |                          Comentário                          |
 | :-: | :----------------------------------------------------------------------- | :------: | :----------------------------------------------------------: |
@@ -29,7 +29,7 @@ As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Relato d
 
 <div style="text-align: center">
 <p>
-Tabela 1: Verificação de padronização do artefato Relato dos resultados do Prototipo de Papel (Fonte: autor, 2023).
+Tabela 1: Verificação de padronização do artefato Relato dos resultados do Protótipo de Papel (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -66,7 +66,6 @@ O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingid
 <p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Relato dos resultados do Protótipo de Papel (Fonte: autor, 2023).</p>
 </div>
 
-
 ### Verificação - Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 As Tabelas 3 e 4 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md).
@@ -87,6 +86,7 @@ Tabela 3: Verificação de padronização do artefato Planejamento da Avaliaçã
 </div>
 
 #### Lista de verificação - Planejamento da Avaliação do Protótipo de Alta Fidelidade
+
 | ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
 |  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Protótipo de Alta Fidelidade ?                                                |   Sim    |            |
@@ -166,7 +166,7 @@ O gráfico a seguir presente na Figura 3 demonstra a quantidade de itens atingid
 <p> Figura 3: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade (Fonte: autor, 2023).</p>
 </div>
 
-### Verificação - [Cronograma Realizado - PC7](planejamento/cronograma_realizado/#cronograma-ponto-de-controle-7.md)
+### Verificação - [Cronograma Realizado - PC7](../planejamento/cronograma_realizado.md#cronograma-ponto-de-controle-7)
 
 É necessário trocar os termos "Data Limite de Entrega" e "Data Limite de Revisão" para "Data de Entrega" e "Data de Revisão", pois se trata de um cronograma realizado.
 
@@ -176,30 +176,28 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 ### Tarefas
 
-
-#### [Relato dos resultados do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md).
+#### [Relato dos resultados do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)
 
 - Correção das legendas do artefato
 - Adição de links para outros artefatos relativos a esse
 - Adição texto para introduzir as tabelas e imagens
 - Adição de uma justificativa baseada na bibliografia para a quantidade de entrevistados
-- Adição de como o perfil dos participantes da Avaliação do Protótipo de Papel está está associado ao perfil do usuário 
+- Adição de como o perfil dos participantes da Avaliação do Protótipo de Papel está está associado ao perfil do usuário
 - Adição da quantidade de avaliadores e perfil dos avaliadores
 - Adição de como foram abordadas as questões éticas e o termo de consentimento utilizado
 - Adição das perguntas exploradas durante a avaliação
 - Adição de um sumário dos dados coletados, incluindo tabelas e gráficos
 - Adição de uma listagem dos problemas encontrados
-- Adição de sugestões de reprojeto para o sistema 
+- Adição de sugestões de reprojeto para o sistema
 - Adição do cronograma realizado do teste piloto das Avaliações do Protótipo de Papel com data, hora e local
-- Adição dos cronogramas das Avaliações do Protótipo de Papel  realizadas com data, hora e local            
+- Adição dos cronogramas das Avaliações do Protótipo de Papel  realizadas com data, hora e local
 - Adição da gravação do teste piloto da Avaliação do Protótipo de Papel
-
 
  | Data Limite de Entrega | Data Limite Revisão |               Autor(es)               | Revisor(es) |
  | :--------------------: | :-----------------: | :-----------------------------------: | :---------: |
  |       30/01/2023       |     30/01/2023      | Lucas Gabriel, Lucas Macedo, Mauricio | Davi        |
 
-#### [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md).
+#### [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md)
 
 - Adicionar tradução das expressões em inglês e siglas utilizadas (aplicação Web, framework).
 - Mudar o nome lichess para Lichess, com maiúscula no início.
@@ -207,18 +205,19 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) | Revisor(es) |
  | :--------------------: | :-----------------: | :-------: | :---------: |
- |       30/01/2023       |     30/01/2023      |  Nicolas  |    Davi     |
+ |       30/01/2023       |     30/01/2023      |  Nicolas Souza|    Davi     |
 
-#### [Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](/design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md).
-**Não há tarefas relacionadas a esse artefato**
+#### [Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](/design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md)
 
-#### Cronograma Realizado [Cronograma Realizado - PC4](planejamento/cronograma_realizado.md)
+- **Não há tarefas relacionadas a esse artefato**
+
+#### Cronograma Realizado [Cronograma Realizado - PC4](../planejamento/cronograma_realizado.md#cronograma-ponto-de-controle-4)
+
 - Remover a expressão data limite.
 
  | Data Limite de Entrega | Data Limite Revisão |   Autor(es)   | Revisor(es) |
  | :--------------------: | :-----------------: | :-----------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas   |
-
+ |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas Souza |
 
 ## Bibliografia
 
@@ -230,12 +229,11 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 [4] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.<br/>
 
-[5] GOOGLE Planilhas. [S. l.]. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 26 jan. 2023.
+[5] GOOGLE Planilhas. [S. l.]. Disponível em: <https://www.google.com/intl/pt-BR/sheets/about/>. Acesso em: 26 jan. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                      | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------------------------------------------------- | ------------- | ----------- |
-| `1.0`  | 18/01/2023 | Criação do documento                                           | Lucas Gabriel | Nicolas     |
-| `2.0`  | 26/01/2023 | Ajuste do documento para o padrão dos artefatos de verificação | Lucas Gabriel | Nicolas     |
-
+| `1.0`  | 18/01/2023 | Criação do documento                                           | Lucas Gabriel | Nicolas Souza   |
+| `2.0`  | 26/01/2023 | Ajuste do documento para o padrão dos artefatos de verificação | Lucas Gabriel | Nicolas Souza   |

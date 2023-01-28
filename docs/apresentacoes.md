@@ -113,9 +113,9 @@ Vídeo 8: Apresentação da etapa 8 do projeto
 |    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
 | :--------: | :----: | :----------------------: | :--------------- | :----------: |
 | 22/11/2022 | `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |
-| 04/12/2022 | `1.1`  | Adição da apresentação 2 | Mauricio Machado |   Nicolas    |
-| 11/12/2022 | `1.2`  | Adição da apresentação 3 | Mauricio Machado |   Nicolas    |
-| 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas    |
+| 04/12/2022 | `1.1`  | Adição da apresentação 2 | Mauricio Machado |   Nicolas Souza  |
+| 11/12/2022 | `1.2`  | Adição da apresentação 3 | Mauricio Machado |   Nicolas Souza  |
+| 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas Souza  |
 | 21/12/2022 | `1.4`  | Adição da apresentação 5 | Lucas Macedo |   Mauricio Machado    |
 | 21/12/2022 | `1.5`  | Adição da apresentação 6 e 7 | Lucas Macedo |   Nicolas Souza  |
 | 25/01/2023 | `1.6`  | Adição da apresentação 8 | Nicolas Souza    |   Lucas Macedo    |

@@ -29,17 +29,17 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-      - 01/11/2022: atas/ata_01_11.md
-      - 10/11/2022: atas/ata_10_11.md
-      - 15/11/2022: atas/ata_15_11.md
-      - 22/11/2022: atas/ata_22_11.md
-      - 29/11/2022: atas/ata_29_11.md
-      - 06/12/2022: atas/ata_06_12.md
-      - 13/12/2022: atas/ata_13_12.md
-      - 20/12/2022: atas/ata_20_12.md
-      - 03/01/2023: atas/ata_03_01.md
-      - 18/01/2023: atas/ata_18_01.md
-      - 25/01/2023: atas/ata_25_01.md
+      - 01/11/2022: "atas/ata_01_11.md"
+      - 10/11/2022: "atas/ata_10_11.md"
+      - 15/11/2022: "atas/ata_15_11.md"
+      - 22/11/2022: "atas/ata_22_11.md"
+      - 29/11/2022: "atas/ata_29_11.md"
+      - 06/12/2022: "atas/ata_06_12.md"
+      - 13/12/2022: "atas/ata_13_12.md"
+      - 20/12/2022: "atas/ata_20_12.md"
+      - 03/01/2023: "atas/ata_03_01.md"
+      - 18/01/2023: "atas/ata_18_01.md"
+      - 25/01/2023: "atas/ata_25_01.md"
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Cronograma Realizado: planejamento/cronograma_realizado.md
@@ -64,21 +64,24 @@ nav:
       - Cenários: analise_requisitos/cenarios.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-          - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
           - Storyboard:
               - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md
               - Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md
           - Análise de tarefas:
               - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md
-              - Relatos de Avaliação da Análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md
+              - Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md
       - Nível 2:
           - Protótipo de papel:
-              - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md
-              - Relato de resultados do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/planejamento_do_relato_de_resultados.md
+              - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md
       - Nível 3:
-          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md
-          - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimmento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md
-          - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
+          - Protótipo de Alta Fidelidade:
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md
+              - Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
   - Verificação:
       - Ponto de Controle 1:
           - Planejamento: verificacao_validacao/pc1-planejamento.md
@@ -100,7 +103,3 @@ nav:
           - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
 
   - Apresentações: apresentacoes.md
-
-  # - Nova navegação: "nome do arquivo relativo a docs"
-  # - Nova navegação:
-  #   - Navegação com filhos: "nome do arquivo relativo a docs"

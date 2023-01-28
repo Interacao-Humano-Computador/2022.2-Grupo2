@@ -3,7 +3,7 @@
 ## Introdução
 
 O relato de resultados é um artefato que tem como objetivo documentar os resultados obtidos por meio de uma avaliação. O presente documento apresenta um planejamento para a elaboração de tal documento, referente à avaliação dos artefatos elaborados pela equipe.
-Esse documento é a junção dos dois documentos do relato de resultados do [storyboard](storyboard/planejamento_relato.md) e da [análise de tarefas](analise_tarefas/planejamento_resultado_analise_tarefas.md).
+Esse documento é a junção dos dois documentos do relato de resultados do [storyboard](nivel_1/storyboard/planejamento_relato.md) e da [análise de tarefas](nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md).
 
 ## Elementos do Relato de Resultados
 
