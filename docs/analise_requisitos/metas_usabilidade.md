@@ -17,7 +17,6 @@ De acordo com as normas [2] e [3], a usabilidade pode ser definida das seguintes
 > Um conjunto de atributos relacionados com o esforço necessário para o uso de um sistema
 > interativo, e relacionados com a avaliação individual de tal uso, por um conjunto específico de
 > usuários.
-
 > O grau em que um produto é usado por usuários específicos para atingir objetivos específicos
 > com eficácia, eficiência e satisfação em um contexto de uso específico.
 
@@ -80,4 +79,4 @@ Abaixo temos uma tabela que apresenta os requisitos identificados a partir das m
 | ------ | ---------- | ------------------------------------------------------------------------ | ---------------- | ---------------- |
 | `1.0`  | 09/12/2022 | Criação do documento.                                                    | Nicolas Souza    | Maurício Machado |
 | `1.1`  | 24/01/2023 | Resolver consertos identificados pelo verificação do Ponto de Controle 3 | Mauricio Machado | Lucas Macedo     |
-| `1.2`  | 26/01/2023 | Alteração requisitos de Usabilidade                                      | Mauricio Machado | -                |
+| `1.2`  | 26/01/2023 | Alteração requisitos de Usabilidade                                      | Mauricio Machado | Nicolas Souza                |
