@@ -29,39 +29,39 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-      - 01/11/2022: "atas/ata_01_11.md"
-      - 10/11/2022: "atas/ata_10_11.md"
-      - 15/11/2022: "atas/ata_15_11.md"
-      - 22/11/2022: "atas/ata_22_11.md"
-      - 29/11/2022: "atas/ata_29_11.md"
-      - 06/12/2022: "atas/ata_06_12.md"
-      - 13/12/2022: "atas/ata_13_12.md"
-      - 20/12/2022: "atas/ata_20_12.md"
-      - 03/01/2023: "atas/ata_03_01.md"
-      - 18/01/2023: "atas/ata_18_01.md"
-      - 25/01/2023: "atas/ata_25_01.md"
+      - 01/11/2022: atas/ata_01_11.md
+      - 10/11/2022: atas/ata_10_11.md
+      - 15/11/2022: atas/ata_15_11.md
+      - 22/11/2022: atas/ata_22_11.md
+      - 29/11/2022: atas/ata_29_11.md
+      - 06/12/2022: atas/ata_06_12.md
+      - 13/12/2022: atas/ata_13_12.md
+      - 20/12/2022: atas/ata_20_12.md
+      - 03/01/2023: atas/ata_03_01.md
+      - 18/01/2023: atas/ata_18_01.md
+      - 25/01/2023: atas/ata_25_01.md
   - Planejamento:
-      - Cronograma: "planejamento/cronograma.md"
-      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
-      - Ferramentas: "planejamento/tools.md"
-      - Metodologia: "planejamento/metodologias.md"
-      - Sítios avaliados: "planejamento/sites_avaliados.md"
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/cronograma_realizado.md
+      - Ferramentas: planejamento/tools.md
+      - Metodologia: planejamento/metodologias.md
+      - Sítios avaliados: planejamento/sites_avaliados.md
       - Avaliação dos sítios:
-          - Resultados TSE: "planejamento/sítios_avaliados/resultados_tse.md"
-          - Resultados Age Telecom: "planejamento/sítios_avaliados/resultados_age_telecom.md"
-          - Resultados Lichess: "planejamento/sítios_avaliados/resultados_lichess.pdf"
-      - Sítio selecionado: "planejamento/app_selected.md"
-      - Processo de Design: "planejamento/processo_de_design.md"
+          - Resultados TSE: planejamento/sítios_avaliados/resultados_tse.md
+          - Resultados Age Telecom: planejamento/sítios_avaliados/resultados_age_telecom.md
+          - Resultados Lichess: planejamento/sítios_avaliados/resultados_lichess.pdf
+      - Sítio selecionado: planejamento/app_selected.md
+      - Processo de Design: planejamento/processo_de_design.md
   - Análise de Requisitos:
-      - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
-      - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
-      - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
-      - Personas: "analise_requisitos/personas.md"
-      - Metas de Usabilidade: "analise_requisitos/metas_usabilidade.md"
-      - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
-      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
-      - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
-      - Cenários: "analise_requisitos/cenarios.md"
+      - Aspectos éticos: analise_requisitos/aspectos_eticos.md
+      - Princípios Gerais do Projeto: analise_requisitos/principios_gerais.md
+      - Perfil de Usuário: analise_requisitos/perfil_usuario.md
+      - Personas: analise_requisitos/personas.md
+      - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
+      - Mapa de Empatia: analise_requisitos/mapa_empatia.md
+      - Análise de tarefas: analise_requisitos/analise_tarefas.md
+      - Guia de Estilo: analise_requisitos/guia_de_estilo.md
+      - Cenários: analise_requisitos/cenarios.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
@@ -69,15 +69,15 @@ nav:
               - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
               - Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md
           - Análise de tarefas:
-              - Planejamento da Avaliação: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md"
-              - Relatos de Avaliação da Análise de tarefas: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md"
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md
+              - Relatos de Avaliação da Análise de tarefas: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md
       - Nível 2:
           - Protótipo de papel:
-              - Planejamento da Avaliação do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md"
-              - Relato de resultados do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md"
+              - Planejamento da Avaliação do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md
+              - Relato de resultados do Protótipo de Papel: design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md
       - Nível 3:
-          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
-          - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: "planejamento_relato_resultados_alta_fidelidade.md"
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md
+          - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimmento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md
           - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
   - Verificação:
       - Ponto de Controle 1:
@@ -95,14 +95,11 @@ nav:
       - Ponto de Controle 5:
           - Planejamento: verificacao_validacao/pc5-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc5-resultados.md
-      # - Ponto de Controle 6:
-      #     - Planejamento:
-      #     - Relato dos Resultados:
       - Ponto de Controle 7:
           - Planejamento: verificacao_validacao/pc7-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
 
-  - Apresentações: "apresentacoes.md"
+  - Apresentações: apresentacoes.md
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
