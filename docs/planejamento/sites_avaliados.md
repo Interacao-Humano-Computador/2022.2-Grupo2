@@ -10,7 +10,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 | Lucas Gabriel | Lichess                  |
 | Lucas Macedo  | CadÚnico                 |
 | Maurício      | Medium                   |
-| Nicolas       | Resultados Eleição - TSE |
+| Nicolas Souza     | Resultados Eleição - TSE |
 
 <div style="text-align: center">
 <p> Tabela 1 - Sítios avaliados (Fonte: autor, 2022).</p>

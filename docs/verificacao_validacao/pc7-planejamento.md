@@ -10,7 +10,6 @@ O presente artefato visa orientar a verificação dos artefatos produzidos duran
 - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md).
 - [Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](/design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md).
 
-
 ## Metodologia
 
 A verificação será feita por meio da inspeção, com base na proposta de Fagan [2], utilizando uma lista de verificação de erros que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [1], a bibliografia da disciplina [4] e os comentários, dos monitores.
@@ -45,6 +44,7 @@ Tabela 1: Verificações de padronização (Fonte: autor, 2023).
 As listas de verificação para os artefatos [Relato dos resultados do Protótipo de Papel](../design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md) e [Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade](/design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md) estão registradas nas tabelas 2 a 4, respectivamente.
 
 #### Lista de verificação - Relato dos resultados do Protótipo de Papel
+
 | ID  | Questão                                                                                                                       | Resposta | Comentário |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------- | :------: | :--------: |
 |  1  | O artefato apresenta a metodologia utilizada na Avaliação do Protótipo de Papel ?                                             |          |            |
@@ -72,6 +72,7 @@ Tabela 2: Listas de verificações: Relato dos resultados do Protótipo de Papel
 </div>
 
 #### Lista de verificação - Planejamento da Avaliação do Protótipo de Alta Fidelidade
+
 | ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
 |  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Protótipo de Alta Fidelidade ?                                                |          |            |
@@ -114,7 +115,6 @@ Tabela 3: Listas de verificações: Planejamento da Avaliação do Protótipo de
 | 14  | O artefato menciona a apresentação de uma listagem dos problemas encontrados ?                                                                            |          |            |
 | 15  | O artefato menciona a sugestão de reprojeto para o sistema ?                                                                                              |          |            |
 
-
 <div style="text-align: center">
 <p>
 Tabela 4: Listas de verificações: Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade
@@ -140,4 +140,4 @@ Após a verificação, deve ser elaborado um relato de resultados contendo as li
 | Versão | Data       | Descrição                                                                                                                                        | Autor(es)     | Revisor(es)  |
 | ------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------ |
 | `1.0`  | 18/01/2023 | Criação do documento.                                                                                                                            | Lucas Gabriel | Lucas Macedo |
-| `1.2`  | 26/01/2023 | Adição da tabela de verificação do Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade e padronização do artefato | Lucas Gabriel | Nicolas      |1
+| `1.2`  | 26/01/2023 | Adição da tabela de verificação do Planejamento do relato dos resultados da Avaliação do Protótipo de Alta Fidelidade e padronização do artefato | Lucas Gabriel | Nicolas Souza    |1

@@ -4,7 +4,7 @@
 
 O presente artefato contém os resultados da verificação dos artefatos produzidos durante o ponto de controle 4 na versão mencionada abaixo:
 
-- [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md) versão 1.2
+- [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md) versão 1.2
 - [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md) versão 1.0
 - [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) versão 1.0
 - [Planejamento do relato dos resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) versão 1.0
@@ -17,7 +17,7 @@ A verificação foi feita com base nas listas de verificação definidas no [pla
 
 ### Verificação - Planejamento da Avaliação do Storyboard
 
-As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md).
+As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md).
 
 | ID  | Questão                                                                  | Resposta |                   Comentário                    |
 | :-: | :----------------------------------------------------------------------- | :------: | :---------------------------------------------: |
@@ -62,7 +62,6 @@ O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingid
 <div style="text-align: center">
 <p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento da Avaliação do Storyboard (Fonte: autor, 2023).</p>
 </div>
-
 
 ### Verificação - Planejamento da Avaliação da Análise de tarefas
 
@@ -181,7 +180,6 @@ Tabela 7: Verificação de padronização do artefato Planejamento do relato dos
 </p>
 </div>
 
-
 | ID  | Questão                                                                                                                                         |  Resposta  |                                    Comentário                                    |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------: |
 |  1  | O artefato menciona a apresentação do cronograma realizado das Avaliações da Análise de tarefas ?                                               |    Sim     |                                                                                  |
@@ -213,7 +211,7 @@ O gráfico a seguir presente na Figura 4 demonstra a quantidade de itens atingid
 <p> Figura 4: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento do relato dos resultados da Avaliação da Análise de tarefas (Fonte: autor, 2023).</p>
 </div>
 
-### Verificação - [Cronograma Realizado - PC4](planejamento/cronograma_realizado/#cronograma-ponto-de-controle-4.md)
+### Verificação - [Cronograma Realizado - PC4](../planejamento/cronograma_realizado.md#cronograma-ponto-de-controle-4)
 
 Parte dos autores, revisores e datas presentes no cronograma realizado não estão de acordo com as datas de entrega dos artefatos. É necessário trocar os termos "Data Limite de Entrega" e "Data Limite de Revisão" para "Data de Entrega" e "Data de Revisão", pois se trata de um cronograma realizado.
 
@@ -223,8 +221,7 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 ### Tarefas
 
-
-#### [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
+#### [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
 
 - Adicionar tradução das expressões em inglês e siglas utilizadas (aplicação Web, framework, GUI).
 - Mudar o nome lichess para Lichess, com maiúscula no início.
@@ -238,7 +235,7 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) |  Revisor(es)  |
  | :--------------------: | :-----------------: | :-------: | :-----------: |
- |       30/01/2023       |     30/01/2023      |  Nicolas  | Lucas Gabriel |
+ |       30/01/2023       |     30/01/2023      |  Nicolas Souza| Lucas Gabriel |
 
 #### [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)
 
@@ -250,7 +247,7 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão |   Autor(es)   | Revisor(es) |
  | :--------------------: | :-----------------: | :-----------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas   |
+ |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas Souza |
 
 #### [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)
 
@@ -264,11 +261,11 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 - Adicionar que o relato dos resultados deve possuir o termo de consentimento utilizado.
 - Especifica onde o sumário dos dados devem ser registrados, por exemplo em uma tabela.
 
-**Observação**: essa considerações também são válidas para o artefato [Planejamento do Relato de Resultados dos artefatos avaliados](../design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md)
+**Observação**: essa considerações também são válidas para o artefato [Planejamento do Relato de Resultados dos artefatos avaliados](../design_avaliacao_desenvolvimento/planejamento_do_relato_de_resultados.md)
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) |  Revisor(es)  |
  | :--------------------: | :-----------------: | :-------: | :-----------: |
- |       30/01/2023       |     30/01/2023      |  Nicolas  | Lucas Gabriel |
+ |       30/01/2023       |     30/01/2023      |  Nicolas Souza| Lucas Gabriel |
 
 #### [Planejamento do relato dos resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
 
@@ -283,16 +280,16 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) | Revisor(es) |
  | :--------------------: | :-----------------: | :-------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Mauricio  |   Nicolas   |
+ |       30/01/2023       |     30/01/2023      | Mauricio  |   Nicolas Souza |
 
-#### Cronograma Realizado [Cronograma Realizado - PC4](planejamento/cronograma_realizado.md)
+#### Cronograma Realizado [Cronograma Realizado - PC4](../planejamento/cronograma_realizado.md
+
 - Corrigir autores no PC4, incluir Lucas Macedo no Planejamento da avaliação storyboard e retirá-lo da gravação da reunião, pois não estava presente.
 - Remover a expressão data limite.
 
-
  | Data Limite de Entrega | Data Limite Revisão |   Autor(es)   | Revisor(es) |
  | :--------------------: | :-----------------: | :-----------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas   |
+ |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas Souza |
 
 ## Bibliografia
 
@@ -304,10 +301,10 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 [4] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.<br/>
 
-[5] GOOGLE Planilhas. [S. l.]. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 26 jan. 2023.
+[5] GOOGLE Planilhas. [S. l.]. Disponível em: <https://www.google.com/intl/pt-BR/sheets/about/>. Acesso em: 26 jan. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas     |
+| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
