@@ -96,4 +96,4 @@ Os cenários identificados foram determinados levando em consideração as Perso
 
 | Versão | Data  | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ----- | -------------------- | ------------- | ----------- |
-| `1.0`  | 26/01 | Criação do documento | Lucas Gabriel | Davi        |
+| `1.0`  | 26/01 | Criação do documento | Lucas Gabriel | Nicolas     |

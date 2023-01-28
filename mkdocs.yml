@@ -39,6 +39,7 @@ nav:
       - 20/12/2022: "atas/ata_20_12.md"
       - 03/01/2023: "atas/ata_03_01.md"
       - 18/01/2023: "atas/ata_18_01.md"
+      - 25/01/2023: "atas/ata_25_01.md"
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
       - Cronograma Realizado: "planejamento/cronograma_realizado.md"
@@ -60,6 +61,7 @@ nav:
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
+      - Cenários: "analise_requisitos/cenarios.md"
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
@@ -75,8 +77,9 @@ nav:
               - Relato de resultados do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md"
       - Nível 3:
           - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
+          - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: "planejamento_relato_resultados_alta_fidelidade.md"
           - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
-  - Verificação e Validação:
+  - Verificação:
       - Ponto de Controle 1:
           - Planejamento: verificacao_validacao/pc1-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc1-resultados.md
@@ -86,9 +89,9 @@ nav:
       - Ponto de Controle 3:
           - Planejamento: verificacao_validacao/etapa_3/planejamento.md
           - Relato dos Resultados: verificacao_validacao/etapa_3/resultados.md
-      # - Ponto de Controle 4:
-      #     - Planejamento:
-      #     - Relato dos Resultados:
+      - Ponto de Controle 4:
+          - Planejamento: verificacao_validacao/pc4-planejamento.md
+          - Relato dos Resultados: verificacao_validacao/pc4-resultados.md
       - Ponto de Controle 5:
           - Planejamento: verificacao_validacao/pc5-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc5-resultados.md
@@ -97,9 +100,7 @@ nav:
       #     - Relato dos Resultados:
       - Ponto de Controle 7:
           - Planejamento: verificacao_validacao/pc7-planejamento.md
-          - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
-          - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
-            #- Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade:
+          - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
 
   - Apresentações: "apresentacoes.md"
 

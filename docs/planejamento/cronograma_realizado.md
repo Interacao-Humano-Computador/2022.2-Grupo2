@@ -102,11 +102,13 @@ Na Tabela 6, temos as entregas realizadas para o Ponto de Controle 6.
 |   Planejamento de verificação dos artefatos da Etapa 3   |   17/01/2023    |   17/01/2023    |                  Maurício                   | Davi e Lucas Macedo |
 |   Planejamento de verificação dos artefatos da Etapa 4   |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                |        Davi         |
 |   Planejamento de verificação dos artefatos da Etapa 5   |   18/01/2023    |   18/01/2023    |                Lucas Macedo                 |    Lucas Gabriel    |
+|   Planejamento de verificação dos artefatos da Etapa 7   |   18/01/2023    |   18/01/2023    |                Lucas Gabriel                |    Lucas Macedo     |
 | Relato da verificação da Etapa 1 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                    Davi                     | Nicolas e Mauricio  |
 | Relato da verificação da Etapa 2 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                   Nicolas                   |    Lucas Gabriel    |
 | Relato da verificação da Etapa 3 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                  Maurício                   |    Lucas Macedo     |
 | Relato da verificação da Etapa 4 e ajustes nos artefatos |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                |        Davi         |
 | Relato da verificação da Etapa 5 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                Lucas Macedo                 |    Lucas Gabriel    |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos |   18/01/2023    |   18/01/2023    |                Lucas Gabriel                |       Nicolas       |
 |                 Gravação da apresentação                 |   06/01/2023    |   06/01/2023    | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
 |                  Edição da apresentação                  |   06/01/2023    |   06/01/2023    |                  Maurício                   |       Nicolas       |
 
@@ -122,9 +124,9 @@ Na Tabela 7, temos as entregas realizadas para o Ponto de Controle 7.
 | :--------------------------------------------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :------------: |
 |                    Relato dos resultados do Protótipo de Papel                     |   11/01/2023    |   17/01/2023    |   Lucas Macedo, Lucas Gabriel e Mauricio    | Davi e Nicolas |
 |             Planejamento da avaliação do protótipo de alta fidelidade              |   10/01/2023    |   11/01/2023    |                   Nicolas                   |      Davi      |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |   **/01/2023    |   **/01/2023    |                    :--:                     |      :--:      |
-|                              Gravação da apresentação                              |   **/01/2023    |   **/01/2023    | Davi, Lucas G., Lucas M., Maurício, Nicolas |    Maurício    |
-|                               Edição da apresentação                               |   **/01/2023    |   **/01/2023    |                  Maurício                   |    Nicolas     |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                |    Nicolas     |
+|                              Gravação da apresentação                              |   18/01/2023    |   18/01/2023    | Davi, Lucas G., Lucas M., Maurício, Nicolas |    Maurício    |
+|                               Edição da apresentação                               |   18/01/2023    |   18/01/2023    |                  Maurício                   |    Nicolas     |
 
 
 <div style="text-align: center">
