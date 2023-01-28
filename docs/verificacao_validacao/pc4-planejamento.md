@@ -6,7 +6,7 @@ A etapa de verificação, durante o desenvolvimento de um projeto, visa garantir
 
 O presente artefato visa orientar a verificação dos artefatos produzidos durante o ponto de controle 4:
 
-- [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
+- [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
 - [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)
 - [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)
 - [Planejamento do relato dos resultados da Avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
@@ -42,25 +42,25 @@ Tabela 1: Verificações de padronização (Fonte: autor, 2023).
 
 ### Conteúdo
 
-As listas de verificação para os artefatos [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md), [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md), [Planejamento do relato dos resultados da avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) e [Planejamento do relato dos resultados da avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) estão registradas nas tabelas 2 a 5, respectivamente.
+As listas de verificação para os artefatos [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md), [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md), [Planejamento do relato dos resultados da avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) e [Planejamento do relato dos resultados da avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) estão registradas nas tabelas 2 a 5, respectivamente.
 
 #### Lista de verificação - Planejamento da Avaliação do Storyboard
 
-| ID  | Questão                                                                                                                                                        | Resposta | Comentário |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: | :--------: |
-|  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboard ?                                                 |          |            |
-|  2  | O artefato apresenta os objetivos da Avaliação do Storyboard ?                                                                                                 |          |            |
-|  3  | O artefato apresenta a metodologia que será utilizada na Avaliação do Storyboard ?                                                                             |          |            |
-|  4  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard ?                                                          |          |            |
-|  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação do Storyboard (perfil e local) ?                                             |          |            |
-|  6  | O artefato identifica quantos usuários participarão da Avaliação do Storyboard e a justificativa dessa quantidade ?                                            |          |            |
-|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação do Storyboard ?                                                |          |            |
-|  8  | O artefato possui um cronograma com data e horário para realização da Avaliação do Storyboard ?                                                                |          |            |
-|  9  | O artefato identifica o orçamento necessário para a Avaliação do Storyboard ?                                                                                  |          |            |
-| 10  | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliaçãoa do Storyboard, assim como a preparação e os equipamentos necessários ? |          |            |
-| 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                 |          |            |
-| 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação do Storyboard ?                                                                     |          |            |
-| 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                          |          |            |
+| ID  | Questão                                                                                                                                                       | Resposta | Comentário |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
+|  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação do Storyboard ?                                                |          |            |
+|  2  | O artefato apresenta os objetivos da Avaliação do Storyboard ?                                                                                                |          |            |
+|  3  | O artefato apresenta a metodologia que será utilizada na Avaliação do Storyboard ?                                                                            |          |            |
+|  4  | O artefato apresenta as perguntas e/ou tarefas a serem exploradas durante a Avaliação do Storyboard ?                                                         |          |            |
+|  5  | O artefato identifica como ocorrerá o recrutamento dos participantes da Avaliação do Storyboard (perfil e local) ?                                            |          |            |
+|  6  | O artefato identifica quantos usuários participarão da Avaliação do Storyboard e a justificativa dessa quantidade ?                                           |          |            |
+|  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação do Storyboard ?                                               |          |            |
+|  8  | O artefato possui um cronograma com data e horário para realização da Avaliação do Storyboard ?                                                               |          |            |
+|  9  | O artefato identifica o orçamento necessário para a Avaliação do Storyboard ?                                                                                 |          |            |
+| 10  | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários ? |          |            |
+| 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                |          |            |
+| 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação do Storyboard ?                                                                    |          |            |
+| 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                         |          |            |
 
 <div style="text-align: center">
 <p>
@@ -69,7 +69,6 @@ Tabela 2: Listas de verificações: Planejamento da Avaliação do Storyboard (F
 </div>
 
 #### Lista de verificação - Planejamento da Avaliação da Análise de tarefas
-
 
 | ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
@@ -82,7 +81,7 @@ Tabela 2: Listas de verificações: Planejamento da Avaliação do Storyboard (F
 |  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas                                                           |          |            |
 |  8  | O artefato possui um cronograma com data e horário para realização da Avaliação da Análise de tarefas                                                                           |          |            |
 |  9  | O artefato identifica o orçamento necessário para a Avaliação da Análise de tarefas ?                                                                                           |          |            |
-| 10  | O artefato identifica os recursos os recursos de mão-de-obra necessários para conduzir a Avaliaçãoada Análise de tarefas, assim como a preparação e os equipamentos necessários |          |            |
+| 10  | O artefato identifica os recursos os recursos de mão-de-obra necessários para conduzir a Avaliação da Análise de tarefas, assim como a preparação e os equipamentos necessários |          |            |
 | 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                                  |          |            |
 | 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação da Análise de tarefas ?                                                                              |          |            |
 | 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                                           |          |            |
@@ -92,7 +91,6 @@ Tabela 2: Listas de verificações: Planejamento da Avaliação do Storyboard (F
 Tabela 3: Listas de verificações: Planejamento da Avaliação da Análise de tarefas (Fonte: autor, 2023).
 </p>
 </div>
-
 
 #### Lista de verificação - Planejamento do relato dos resultados da Avaliação do Storyboard
 
@@ -113,7 +111,6 @@ Tabela 3: Listas de verificações: Planejamento da Avaliação da Análise de t
 | 13  | O artefato menciona a apresentação de um relato da interpretação e análise dos dados ?                                                  |          |            |
 | 14  | O artefato menciona a apresentação de uma listagem dos problemas encontrados ?                                                          |          |            |
 | 15  | O artefato menciona a sugestão de reprojeto para o sistema ?                                                                            |          |            |
-
 
 <div style="text-align: center">
 <p>
@@ -149,7 +146,7 @@ Tabela 5: Listas de verificações: Planejamento do relato dos resultados da Ava
 
 ## Planejamento do Relato de Resultados
 
-Após a verificação, deve ser elaborado um relato de resultados contendo as listas de verificações, preenchidas e um cronograma para ajustes nos artefatos, já atribuindo os responsáveis pelos ajustes e revisões. Caso pertinente, também devem ser registrados comentários gerais sobre os artefatos.
+Após a verificação, deve ser elaborado um relato de resultados contendo as listas de verificações preenchidas, um gráfico indicando a porcentagem de objetivos atingidos e um cronograma para ajustes nos artefatos, já atribuindo os responsáveis pelos ajustes e revisões. Caso pertinente, também devem ser registrados comentários gerais sobre os artefatos.
 
 ## Bibliografia
 
@@ -165,4 +162,4 @@ Após a verificação, deve ser elaborado um relato de resultados contendo as li
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Davi        |
+| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza   |

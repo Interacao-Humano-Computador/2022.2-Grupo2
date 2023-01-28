@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O presente artefato contém os resultados da verificação dos artefatos produzidos durante o ponto de controle 4:
+O presente artefato contém os resultados da verificação dos artefatos produzidos durante o ponto de controle 4 na versão mencionada abaixo:
 
-- [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
-- [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)
-- [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)
-- [Planejamento do relato dos resultados da Avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
+- [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md) versão 1.2
+- [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md) versão 1.0
+- [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) versão 1.0
+- [Planejamento do relato dos resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) versão 1.0
 
 ## Metodologia
 
@@ -17,7 +17,7 @@ A verificação foi feita com base nas listas de verificação definidas no [pla
 
 ### Verificação - Planejamento da Avaliação do Storyboard
 
-As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md).
+As Tabelas 1 e 2 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md).
 
 | ID  | Questão                                                                  | Resposta |                   Comentário                    |
 | :-: | :----------------------------------------------------------------------- | :------: | :---------------------------------------------: |
@@ -45,7 +45,7 @@ Tabela 1: Verificação de padronização do artefato Planejamento da Avaliaçã
 |  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação do Storyboard ?                                                |    Sim     |                                            |
 |  8  | O artefato possui um cronograma com data e horário para realização da Avaliação do Storyboard ?                                                                |    Sim     |                                            |
 |  9  | O artefato identifica o orçamento necessário para a Avaliação do Storyboard ?                                                                                  |    Não     |                                            |
-| 10  | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliaçãoa do Storyboard, assim como a preparação e os equipamentos necessários ? |    Não     |                                            |
+| 10  | O artefato identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários ? |    Não     |                                            |
 | 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                 |    Sim     |                                            |
 | 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação do Storyboard ?                                                                     |    Sim     |                                            |
 | 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                          | Incompleto | A interpretação dos dados não é mencionada |
@@ -56,13 +56,12 @@ Tabela 2: Verificação de conteúdo do artefato Planejamento da Avaliação do 
 </p>
 </div>
 
-O gráfico a seguir presente na Figura 1 demostra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento da Avaliação do Storyboard.
+O gráfico a seguir presente na Figura 1 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento da Avaliação do Storyboard.
 
 ![image](images/grafico_planejamento_avaliacao_storyboard.png)
 <div style="text-align: center">
 <p> Figura 1: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento da Avaliação do Storyboard (Fonte: autor, 2023).</p>
 </div>
-
 
 ### Verificação - Planejamento da Avaliação da Análise de tarefas
 
@@ -94,7 +93,7 @@ Tabela 3: Verificação de padronização do artefato Planejamento da Avaliaçã
 |  7  | O artefato possui um cronograma com data e horário para realização do teste piloto da Avaliação da Análise de tarefas                                                           |    Não     |                                            |
 |  8  | O artefato possui um cronograma com data e horário para realização da Avaliação da Análise de tarefas                                                                           | Incompleto |      O cronograma não está preenchido      |
 |  9  | O artefato identifica o orçamento necessário para a Avaliação da Análise de tarefas ?                                                                                           |    Sim     |                                            |
-| 10  | O artefato identifica os recursos os recursos de mão-de-obra necessários para conduzir a Avaliaçãoada Análise de tarefas, assim como a preparação e os equipamentos necessários |    Não     |                                            |
+| 10  | O artefato identifica os recursos os recursos de mão-de-obra necessários para conduzir a Avaliação da Análise de tarefas, assim como a preparação e os equipamentos necessários |    Não     |                                            |
 | 11  | O artefato apresenta como serão abordadas as questões éticas ?                                                                                                                  |    Sim     |                                            |
 | 12  | O artefato apresenta o termo de consentimento a ser utilizado na Avaliação da Análise de tarefas ?                                                                              |    Sim     |                                            |
 | 13  | O artefato apresenta quais dados devem ser coletados e como devem ser interpretados ?                                                                                           | Incompleto | A interpretação dos dados não é mencionada |
@@ -105,7 +104,7 @@ Tabela 4: Verificação de conteúdo do artefato Planejamento da Avaliação da 
 </p>
 </div>
 
-O gráfico a seguir presente na Figura 2 demostra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento da Avaliação da Análise de tarefas.
+O gráfico a seguir presente na Figura 2 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento da Avaliação da Análise de tarefas.
 
 ![image](images/grafico_planejamento_avaliacao_analise_tarefas.png)
 <div style="text-align: center">
@@ -155,14 +154,14 @@ Tabela 6: Verificação de conteúdo do artefato Planejamento do relato dos resu
 </p>
 </div>
 
-O gráfico a seguir presente na Figura 3 demostra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento do relato dos resultados da Avaliação do Storyboard.
+O gráfico a seguir presente na Figura 3 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento do relato dos resultados da Avaliação do Storyboard.
 
 ![image](images/grafico_planejamento_relato_resultado_avaliacao_storyboard.png)
 <div style="text-align: center">
 <p> Figura 3: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento do relato dos resultados da Avaliação do Storyboard (Fonte: autor, 2023).</p>
 </div>
 
-### Verificação - Planejamento do relato dos resultados da Avaliação do Análise de tarefas
+### Verificação - Planejamento do relato dos resultados da Avaliação da Análise de tarefas
 
 As Tabelas 7 e 8 apresentam os resultados da verificação do artefato [Planejamento do relato dos resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md).
 
@@ -177,10 +176,9 @@ As Tabelas 7 e 8 apresentam os resultados da verificação do artefato [Planejam
 
 <div style="text-align: center">
 <p>
-Tabela 7: Verificação de padronização do artefato Planejamento do relato dos resultados da Avaliação do Análise de tarefas (Fonte: autor, 2023).
+Tabela 7: Verificação de padronização do artefato Planejamento do relato dos resultados da Avaliação da Análise de tarefas (Fonte: autor, 2023).
 </p>
 </div>
-
 
 | ID  | Questão                                                                                                                                         |  Resposta  |                                    Comentário                                    |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------: |
@@ -202,29 +200,28 @@ Tabela 7: Verificação de padronização do artefato Planejamento do relato dos
 
 <div style="text-align: center">
 <p>
-Tabela 8: Verificação de conteúdo do artefato Planejamento do relato dos resultados da Avaliação do Análise de tarefas (Fonte: autor, 2023).
+Tabela 8: Verificação de conteúdo do artefato Planejamento do relato dos resultados da Avaliação da Análise de tarefas (Fonte: autor, 2023).
 </p>
 </div>
 
-O gráfico a seguir presente na Figura 4 demostra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento do relato dos resultados da Avaliação do Análise de tarefas.
+O gráfico a seguir presente na Figura 4 demonstra a quantidade de itens atingidos, não atingidos e incompletos identificados durante a verificação do Planejamento do relato dos resultados da Avaliação da Análise de tarefas.
 
 ![image](images/grafico_planejamento_relato_resultado_avaliacao_analise_tarefas.png)
 <div style="text-align: center">
-<p> Figura 4: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento do relato dos resultados da Avaliação do Análise de tarefas (Fonte: autor, 2023).</p>
+<p> Figura 4: Quantidade de itens atingidos, não atingidos e incompletos do artefato Planejamento do relato dos resultados da Avaliação da Análise de tarefas (Fonte: autor, 2023).</p>
 </div>
 
-### Verificação - [Cronograma Realizado - PC4](planejamento/cronograma_realizado/#cronograma-ponto-de-controle-4.md)
+### Verificação - [Cronograma Realizado - PC4](../planejamento/cronograma_realizado.md#cronograma-ponto-de-controle-4)
 
 Parte dos autores, revisores e datas presentes no cronograma realizado não estão de acordo com as datas de entrega dos artefatos. É necessário trocar os termos "Data Limite de Entrega" e "Data Limite de Revisão" para "Data de Entrega" e "Data de Revisão", pois se trata de um cronograma realizado.
 
 ## Planejamento dos ajustes
 
-Com base nos resultados das verificações, foram elencadas as tarefas que devem ser realizadas. Alguns problemas não contemplados pelos checklists foram identificados e incluídos diretamente nas tarefas. A organização dessas tarefas será feita por meio de _issues_ no [repositório](https://github.com/Interacao-Humano-Computador/2022.2-Lichess/issues/) da disciplina.
+Com base nos resultados das verificações, foram elencadas as tarefas que devem ser realizadas. Alguns problemas não contemplados pelas listas de checagem foram identificados e incluídos diretamente nas tarefas. A organização dessas tarefas será feita por meio de _issues_ no [repositório](https://github.com/Interacao-Humano-Computador/2022.2-Lichess/issues/) da disciplina.
 
 ### Tarefas
 
-
-#### [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
+#### [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
 
 - Adicionar tradução das expressões em inglês e siglas utilizadas (aplicação Web, framework, GUI).
 - Mudar o nome lichess para Lichess, com maiúscula no início.
@@ -233,12 +230,12 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 - Atualização do termo de consentimento.
 - Adicionar a quantidade de usuários que serão entrevistados e a justificativa para a mesma.
 - Identificar o orçamento necessário para a realização da Avaliação do Storyboard.
-- Identifica os recursos de mão-de-obra necessários para conduzir a Avaliaçãoa do Storyboard, assim como a preparação e os equipamentos necessários.
+- Identifica os recursos de mão-de-obra necessários para conduzir a Avaliação do Storyboard, assim como a preparação e os equipamentos necessários.
 - Adicionar como os dados coletados devem ser interpretados.
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) |  Revisor(es)  |
  | :--------------------: | :-----------------: | :-------: | :-----------: |
- |       30/01/2023       |     30/01/2023      |  Nicolas  | Lucas Gabriel |
+ |       30/01/2023       |     30/01/2023      |  Nicolas Souza| Lucas Gabriel |
 
 #### [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)
 
@@ -250,7 +247,7 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão |   Autor(es)   | Revisor(es) |
  | :--------------------: | :-----------------: | :-----------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas   |
+ |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas Souza |
 
 #### [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)
 
@@ -264,13 +261,13 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 - Adicionar que o relato dos resultados deve possuir o termo de consentimento utilizado.
 - Especifica onde o sumário dos dados devem ser registrados, por exemplo em uma tabela.
 
-**Observação**: essa considerações também são válidas para o artefato [Planejamento do Relato de Resultados dos artefatos avaliados](../design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md)
+**Observação**: essa considerações também são válidas para o artefato [Planejamento do Relato de Resultados dos artefatos avaliados](../design_avaliacao_desenvolvimento/planejamento_do_relato_de_resultados.md)
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) |  Revisor(es)  |
  | :--------------------: | :-----------------: | :-------: | :-----------: |
- |       30/01/2023       |     30/01/2023      |  Nicolas  | Lucas Gabriel |
+ |       30/01/2023       |     30/01/2023      |  Nicolas Souza| Lucas Gabriel |
 
-#### [Planejamento do relato dos resultados da Avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
+#### [Planejamento do relato dos resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
 
 - Adicionar que o relato dos resultados deve possuir a quantidade de entrevistados e a razão dessa.
 - Adicionar que o relato dos resultados deve possuir como os participantes estão associados ao perfil do usuário.
@@ -283,11 +280,16 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
  | Data Limite de Entrega | Data Limite Revisão | Autor(es) | Revisor(es) |
  | :--------------------: | :-----------------: | :-------: | :---------: |
- |       30/01/2023       |     30/01/2023      | Mauricio  |   Nicolas   |
+ |       30/01/2023       |     30/01/2023      | Mauricio  |   Nicolas Souza |
 
-#### Cronograma Realizado [Cronograma Realizado - PC4](planejamento/cronograma_realizado.md)
-- Corrigir autores no PC4, incluir Lucas Macedo no Planejamento da avaliação storyboard e retira-lo da gração da reunião, pois não estava presente.
+#### Cronograma Realizado [Cronograma Realizado - PC4](../planejamento/cronograma_realizado.md
+
+- Corrigir autores no PC4, incluir Lucas Macedo no Planejamento da avaliação storyboard e retirá-lo da gravação da reunião, pois não estava presente.
 - Remover a expressão data limite.
+
+ | Data Limite de Entrega | Data Limite Revisão |   Autor(es)   | Revisor(es) |
+ | :--------------------: | :-----------------: | :-----------: | :---------: |
+ |       30/01/2023       |     30/01/2023      | Lucas Gabriel |   Nicolas Souza |
 
 ## Bibliografia
 
@@ -299,10 +301,10 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 [4] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.<br/>
 
-[5] GOOGLE Planilhas. [S. l.]. Disponível em: https://www.google.com/intl/pt-BR/sheets/about/. Acesso em: 26 jan. 2023.
+[5] GOOGLE Planilhas. [S. l.]. Disponível em: <https://www.google.com/intl/pt-BR/sheets/about/>. Acesso em: 26 jan. 2023.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Davi        |
+| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza   |

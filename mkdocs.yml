@@ -41,43 +41,47 @@ nav:
       - 18/01/2023: "atas/ata_18_01.md"
       - 25/01/2023: "atas/ata_25_01.md"
   - Planejamento:
-      - Cronograma: "planejamento/cronograma.md"
-      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
-      - Ferramentas: "planejamento/tools.md"
-      - Metodologia: "planejamento/metodologias.md"
-      - Sítios avaliados: "planejamento/sites_avaliados.md"
+      - Cronograma: planejamento/cronograma.md
+      - Cronograma Realizado: planejamento/cronograma_realizado.md
+      - Ferramentas: planejamento/tools.md
+      - Metodologia: planejamento/metodologias.md
+      - Sítios avaliados: planejamento/sites_avaliados.md
       - Avaliação dos sítios:
-          - Resultados TSE: "planejamento/sítios_avaliados/resultados_tse.md"
-          - Resultados Age Telecom: "planejamento/sítios_avaliados/resultados_age_telecom.md"
-          - Resultados Lichess: "planejamento/sítios_avaliados/resultados_lichess.pdf"
-      - Sítio selecionado: "planejamento/app_selected.md"
-      - Processo de Design: "planejamento/processo_de_design.md"
+          - Resultados TSE: planejamento/sítios_avaliados/resultados_tse.md
+          - Resultados Age Telecom: planejamento/sítios_avaliados/resultados_age_telecom.md
+          - Resultados Lichess: planejamento/sítios_avaliados/resultados_lichess.pdf
+      - Sítio selecionado: planejamento/app_selected.md
+      - Processo de Design: planejamento/processo_de_design.md
   - Análise de Requisitos:
-      - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
-      - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
-      - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
-      - Personas: "analise_requisitos/personas.md"
-      - Metas de Usabilidade: "analise_requisitos/metas_usabilidade.md"
-      - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
-      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
-      - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
-      - Cenários: "analise_requisitos/cenarios.md"
+      - Aspectos éticos: analise_requisitos/aspectos_eticos.md
+      - Princípios Gerais do Projeto: analise_requisitos/principios_gerais.md
+      - Perfil de Usuário: analise_requisitos/perfil_usuario.md
+      - Personas: analise_requisitos/personas.md
+      - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
+      - Mapa de Empatia: analise_requisitos/mapa_empatia.md
+      - Análise de tarefas: analise_requisitos/analise_tarefas.md
+      - Guia de Estilo: analise_requisitos/guia_de_estilo.md
+      - Cenários: analise_requisitos/cenarios.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
-          - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
           - Storyboard:
               - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md
               - Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md
           - Análise de tarefas:
-              - Planejamento da Avaliação: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md"
-              - Relatos de Avaliação da Análise de tarefas: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md"
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md
+              - Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md
       - Nível 2:
           - Protótipo de papel:
-              - Planejamento da Avaliação do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md"
-              - Relato de resultados do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md"
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/planejamento_do_relato_de_resultados.md
+              - Relato dos resultados: design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md
       - Nível 3:
-          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
-          - Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
+          - Protótipo de Alta Fidelidade:
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md
+              - Planejamento do Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md
+              - Relato dos Resultados: design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md
   - Verificação:
       - Ponto de Controle 1:
           - Planejamento: verificacao_validacao/pc1-planejamento.md
@@ -94,17 +98,8 @@ nav:
       - Ponto de Controle 5:
           - Planejamento: verificacao_validacao/pc5-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc5-resultados.md
-      # - Ponto de Controle 6:
-      #     - Planejamento:
-      #     - Relato dos Resultados:
       - Ponto de Controle 7:
           - Planejamento: verificacao_validacao/pc7-planejamento.md
-          - Relato dos resultados do Protótipo de Papel: verificacao_validacao/pc7-verificacao_relato_resultados_prototipo_papel.md
-          - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao_validacao/pc7-verificacao_planejamento_avaliacao_prototipo_alta.md
-            #- Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade:
+          - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
 
-  - Apresentações: "apresentacoes.md"
-
-  # - Nova navegação: "nome do arquivo relativo a docs"
-  # - Nova navegação:
-  #   - Navegação com filhos: "nome do arquivo relativo a docs"
+  - Apresentações: apresentacoes.md
