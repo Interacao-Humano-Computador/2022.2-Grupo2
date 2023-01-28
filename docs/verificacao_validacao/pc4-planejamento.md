@@ -6,7 +6,7 @@ A etapa de verificação, durante o desenvolvimento de um projeto, visa garantir
 
 O presente artefato visa orientar a verificação dos artefatos produzidos durante o ponto de controle 4:
 
-- [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
+- [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)
 - [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)
 - [Planejamento do relato dos resultados da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)
 - [Planejamento do relato dos resultados da Avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)
@@ -42,7 +42,7 @@ Tabela 1: Verificações de padronização (Fonte: autor, 2023).
 
 ### Conteúdo
 
-As listas de verificação para os artefatos [Planejamento da Avaliação do Storyboard](..design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md), [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md), [Planejamento do relato dos resultados da avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) e [Planejamento do relato dos resultados da avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) estão registradas nas tabelas 2 a 5, respectivamente.
+As listas de verificação para os artefatos [Planejamento da Avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md), [Planejamento da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md), [Planejamento do relato dos resultados da avaliação do Storyboard](../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) e [Planejamento do relato dos resultados da avaliação do Análise de tarefas](../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) estão registradas nas tabelas 2 a 5, respectivamente.
 
 #### Lista de verificação - Planejamento da Avaliação do Storyboard
 
@@ -70,7 +70,6 @@ Tabela 2: Listas de verificações: Planejamento da Avaliação do Storyboard (F
 
 #### Lista de verificação - Planejamento da Avaliação da Análise de tarefas
 
-
 | ID  | Questão                                                                                                                                                                         | Resposta | Comentário |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | :--------: |
 |  1  | O artefato apresenta e utiliza o framework DECIDE para realização do Planejamento da Avaliação da Análise de tarefas ?                                                          |          |            |
@@ -93,7 +92,6 @@ Tabela 3: Listas de verificações: Planejamento da Avaliação da Análise de t
 </p>
 </div>
 
-
 #### Lista de verificação - Planejamento do relato dos resultados da Avaliação do Storyboard
 
 | ID  | Questão                                                                                                                                 | Resposta | Comentário |
@@ -113,7 +111,6 @@ Tabela 3: Listas de verificações: Planejamento da Avaliação da Análise de t
 | 13  | O artefato menciona a apresentação de um relato da interpretação e análise dos dados ?                                                  |          |            |
 | 14  | O artefato menciona a apresentação de uma listagem dos problemas encontrados ?                                                          |          |            |
 | 15  | O artefato menciona a sugestão de reprojeto para o sistema ?                                                                            |          |            |
-
 
 <div style="text-align: center">
 <p>
@@ -165,4 +162,4 @@ Após a verificação, deve ser elaborado um relato de resultados contendo as li
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas     |
+| `1.0`  | 26/01/2023 | Criação do documento | Lucas Gabriel | Nicolas Souza   |

@@ -83,7 +83,7 @@ No caso de avaliações que envolvem participantes, é necessário colher o cons
 
 ## Relato de Resultados
 
-A avaliação, interpretação e apresentação dos dados será feita por meio do relato de resultados, de acordo com o [planejamento](../nivel_1/planejamento_do_relato_de_resultados.md) realizado.
+A avaliação, interpretação e apresentação dos dados será feita por meio do relato de resultados, de acordo com o [planejamento](planejamento_relato_resultados_alta_fidelidade.md) realizado.
 
 O relato deve conter:
 
