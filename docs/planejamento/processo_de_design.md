@@ -69,7 +69,7 @@ Dentre os modelos estudados [1], o ciclo de vida da Mayhew é o mais detalhado, 
 
 A Engenharia de Usabilidade de Mayhew reúne e organiza diferentes atividades na área de Interação Humano Computador, orientando o designer por uma direção interativa [1]. Por meio desse ciclo de vida, é possível, por meio de atividades bem detalhadas, conhecer o perfil do usuário do site, e só então partir para uma etapa de design, sempre apoiada na avaliação, iterando por prototipações em diversos níveis. Dessa forma, durante todas as etapas do ciclo a interação entre as fases do projeto mostra-se presente.
 
-A definição deste ciclo de vida para o projeto levou em consideração os fatores supracitados, o nível de detalhamento das atividades de cada fase e o processo de aprendizagem dos estudantes do grupo. Dessa forma, o [cronograma](cronograma.md) foi elaborado de acordo com as atividades de **análise de requisitos** e **designe, avaliação e desenvolvimento**. Dada a natureza do projeto, as atividades de **instalação** foram executadas juntamente com a análise de requisitos, pois o produto já está finalizado.
+A definição deste ciclo de vida para o projeto levou em consideração os fatores supracitados, o nível de detalhamento das atividades de cada fase e o processo de aprendizagem dos estudantes do grupo. Dessa forma, o [cronograma](cronograma.md) foi elaborado de acordo com as atividades de **análise de requisitos** e **design, avaliação e desenvolvimento**. Dada a natureza do projeto, as atividades de **instalação** foram executadas juntamente com a análise de requisitos, pois o produto já está finalizado.
 
 ## Bibliografia
 
