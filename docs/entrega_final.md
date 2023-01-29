@@ -30,16 +30,14 @@ A definição deste ciclo de vida para o projeto levou em consideração os fato
 </div>
 </center>
 
-### Execução do Ciclo de Vida
-
-#### Análise de Requisitos
+### Análise de Requisitos
 
 Na fase de análise de requisitos são definidas as [metas de usabilidade](analise_requisitos/metas_usabilidade.md) com base no [perfil dos usuários](analise_requisitos/perfil_usuario.md), [análise de tarefas](analise_requisitos/analise_tarefas.md), possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as [metas de usabilidade](analise_requisitos/metas_usabilidade.md) costumam ser representadas em [guias de estilos](analise_requisitos/guia_de_estilo.md) para auxiliar sua verificação durante as demais atividades do processo [1].
 
 A análise de requisitos do projeto foi documentada nos artefatos representados na Tabela 1.
 <center>
 
-| Artefato | Autor | Revisor |
+| Artefato | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: |
 | [Análise de Tarefas](analise_requisitos/analise_tarefas.md) |Nicolas Souza | Lucas Macedo
 | [Aspectos Éticos](analise_requisitos/aspectos_eticos.md) | Lucas Gabriel | Davi Silva
@@ -61,7 +59,7 @@ Tabela 1: Síntese dos artefatos de Análise de Requisitos (Fonte: autor, 2023).
 
 ### Design, Avaliação e Desenvolvimento
 
-As atividades de Design, Avaliação e Desenvolvimento dividem-se em três níveis de detalhes, e essa etapa do processo tem por objetivo fornecer uma solução de IHC que atenda às [metas de usabilidade](analise_requisitos/metas_usabilidade.md) que foram estabelecidas durante a [Análise de Requisitos](#análise-de-requisitos) [1].
+As atividades de Design, Avaliação e Desenvolvimento dividem-se em três níveis de detalhes, e essa etapa do processo tem por objetivo fornecer uma solução de IHC que atenda às [metas de usabilidade](analise_requisitos/metas_usabilidade.md) que foram estabelecidas durante a [Análise de Requisitos](./#analise-de-requisitos) [1].
 
 #### Nível 1
 
@@ -71,15 +69,19 @@ O primeiro nível do processo de design, avaliação e desenvolvimento foi docum
 
 <center>
 
-| Artefato | Autor | Revisor |
+| Artefato | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: |
 [Planejamento da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md) | Nicolas | Lucas Gabriel |
 [Planejamento do Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) | Nicolas Souza | Lucas Gabriel   |
 [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)| Nicolas Souza |  Mauricio Machado  
+[Planejamento da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)  | Lucas Gabriel | Nicolas Souza   |
+[Planejamento do relato de Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)  | Maurício Machado | Nicolas Souza |
+[Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md) | Davi Silva | Lucas Gabriel |
 
 <div style="text-align: center">
 <p>
-Tabela 2: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 2) (Fonte: autor, 2023).
+Tabela 2: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 1)
+(Fonte: autor, 2023).
 </p>
 </div>
 
@@ -87,9 +89,50 @@ Tabela 2: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 #### Nível 2
 
+Após o nível conceitual, o designer parte para a elaboração de padrões de design de IHC para a solução que está sendo concebida, que são validados por meio da avaliação de protótipos de média fidelidade. Para validar os padrões desenvolvidos durante o projeto. Optou-se pelo uso de [protótipos de papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md#prototipo-de-papel) para validar com o usuário os padrões de design desenvolvidos.
+
+A Tabela 3 sintetiza os artefatos elaborados durante essa etapa do projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+[Planejamento da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md)| Mauricio Machado | Nicolas Souza |
+[Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)| Lucas Macedo e Lucas Gabriel | Davi Silva|
+
+<div style="text-align: center">
+<p>
+Tabela 3: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 2)
+(Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
 #### Nível 3
 
-### Síntese das Avaliações
+No último nível da etapa de Design, Avaliação e Desenvolvimento, o designer elabora o projeto detalhado da interface, tendo como base os requisitos identificados na [Análise de Requisitos](./#analise-de-requisitos), esse projeto foi representado por meio de um [Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md#prototipo-de-alta-fidelidade) e em seguida a interface foi avaliada com a participação de usuários, por meio de um teste de usabilidade.
+
+A Tabela 4 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+[Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md) |  Nicolas Souza | Davi Silva |
+[Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md)  | Lucas Gabriel | Nicolas Souza  |
+[Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md) |  Nicolas Souza | Lucas Macedo |
+
+<div style="text-align: center">
+<p>
+Tabela 4: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
+(Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+## Síntese das Avaliações
 <!-- @TODO: uma tabela com todas as avaliações dos protótipos contendo o nome dos avaliadores, número de participantes, e metodologia utilizada (entrevista, teste de usabilidade) -->
 
 ## Técnicas Utilizadas
