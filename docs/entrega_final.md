@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano Computador, da Universidade de Brasília/FGA, estudou, e documentou, as interações humano computador na plataforma de xadrez [Lichess](https://lichess.org). O presente artefato tem como principal objetivo sintetizar o processo desenvolvido ao longo do processo, desde as etapas de planejamento aos resultados alcançados.
+Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano Computador, da Universidade de Brasília/FGA, estudou, e documentou, as interações humano computador na plataforma de xadrez [Lichess](https://lichess.org). O presente artefato tem como principal objetivo sintetizar o processo desenvolvido ao longo do projeto, desde as etapas de planejamento aos resultados alcançados.
 
 ## Planejamento
 
@@ -231,7 +231,7 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
-| `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos |   Nicolas Souza |
+| Versão | Data       | Descrição                                                                                                              | Autor(es)     | Revisor(es)   |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
+| `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Gabriel |
+| `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza | Lucas Gabriel |
