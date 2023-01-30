@@ -90,8 +90,8 @@ nav:
           - Planejamento: verificacao_validacao/pc2-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc2-resultados.md
       - Ponto de Controle 3:
-          - Planejamento: verificacao_validacao/etapa_3/planejamento.md
-          - Relato dos Resultados: verificacao_validacao/etapa_3/resultados.md
+          - Planejamento: verificacao_validacao/pc3-planejamento.md
+          - Relato dos Resultados: verificacao_validacao/pc3-resultados.md
       - Ponto de Controle 4:
           - Planejamento: verificacao_validacao/pc4-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc4-resultados.md
@@ -101,5 +101,6 @@ nav:
       - Ponto de Controle 7:
           - Planejamento: verificacao_validacao/pc7-planejamento.md
           - Relato dos Resultados: verificacao_validacao/pc7-resultados.md
+  - Entrega Final: entrega_final.md
 
   - Apresentações: apresentacoes.md
