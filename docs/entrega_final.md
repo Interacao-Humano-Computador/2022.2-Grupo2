@@ -11,6 +11,8 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano C
 ## Planejamento
 
 <!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
+<!-- @TODO: inserir artefatos criados na etapa de planejamento -->
+<!-- @TODO: inserir síntese das atas -->
 
 ## Ferramentas
 
@@ -121,7 +123,7 @@ A Tabela 4 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 | :-: | :-: | :-: |
 [Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md) |  Nicolas Souza | Davi Silva |
 [Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md)  | Lucas Gabriel | Nicolas Souza  |
-[Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md) |  Nicolas Souza | Lucas Macedo |
+[Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md) |  Nicolas Souza | Lucas Macedo |
 
 <div style="text-align: center">
 <p>
@@ -133,6 +135,16 @@ Tabela 4: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 </center>
 
 ## Síntese das Avaliações
+
+Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 5 sintetiza a aplicação dessas atividades.
+
+| Avaliação | Metodologia | Avaliador(es) | Número de Participantes | Resultados |
+| - | - | - | - | - |
+| Avaliação do Storyboard | Entrevista | Nicolas Souza  | 1 | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)|
+| Avaliação da Análise de Tarefas | Entrevista |  Davi Silva  | 1 | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md)
+| Avaliação do Protótipo de Papel | Entrevista | Lucas Macedo e Lucas Gabriel  | 1 | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)|
+| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade |   Nicolas Souza  | 3 | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md)
+
 <!-- @TODO: uma tabela com todas as avaliações dos protótipos contendo o nome dos avaliadores, número de participantes, e metodologia utilizada (entrevista, teste de usabilidade) -->
 
 ## Técnicas Utilizadas
