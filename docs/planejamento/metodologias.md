@@ -4,6 +4,35 @@
 
 Nossa equipe contou com diferentes metodologias as quais de certa forma integram e agilizam nosso processo de desenvolvimento como um todo. É correto observar, que esse documento tem como objetivo informar sobre nossas metodologias em diferentes situações, e de certa forma,explicar como nosso time se comunicou e trabalhou durante todo o processo.  
 
+## Framework DECIDE
+
+É utilizado para orientar o planejamento, a execução e a análise de tarefase de uma avaliação de IHC. As atividades do framework são interligadas e executadas iterativamente,
+à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis. Então quando o avaliador descobre uma necessidade de modificar os rumos da avaliação por algum motivo, as demais atividades são afetadas. O framework DECIDE é descrito da seguinte forma:
+
+### D - Determinar
+
+Determinar os objetivos da avaliação de IHC. O avaliador deve determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes. O restante do planejamento da avaliação, sua execução e a apresentação dos resultados serão orientados por esses objetivos.
+
+### E - Explorar
+
+Explorar perguntas a serem respondidas com a avaliação. Para cada objetivo definido, o avaliador deve elaborar perguntas específicas a serem respondidas durante avaliação. Essas perguntas são responsáveis por operacionalizar a investigação e o julgamento de valor a serem realizados. Elas devem considerar o perfil dos usuários-alvo e suas atividades.
+
+### C - Escolher (Choose)
+
+Escolher (Choose) os métodos de avaliação a serem utilizados. O avaliador deve escolher os métodos mais adequados para responder as perguntas e atingir os objetivos esperados, considerando também o prazo, o orçamento, os equipamentos disponíveis e o grau de conhecimento e experiência dos avaliadores.
+
+### I - Identificar 
+
+Identificar e administrar as questões práticas da avaliação. Existem muitas questões práticas envolvidas numa avaliação de IHC, como, por exemplo, o recrutamento dos usuários que participarão da avaliação, a preparação e o uso dos equipamentos necessários, os prazos e o orçamento disponíveis, além da mão-de-obra necessária para conduzir a avaliação.
+
+### D - Decidir
+
+Decidir como lidar com as questões éticas. Sempre que usuários são envolvidos numa avaliação, o avaliador deve tomar os cuidados éticos necessários. Os participantes da avaliação devem ser respeitados e não podem ser prejudicados direta ou indiretamente, nem durante os experimentos, nem após a divulgação dos resultados da avaliação.
+
+### E - Avaliar (Evaluate)
+
+Avaliar, interpretar e apresentar os dados. O avaliador precisa estar atento a alguns aspectos da avaliação realizada antes de tirar conclusões e divulgar resultados. Ele deve considerar: o grau de confiabilidade dos dados a validade externa do estudo e a validade ecológica do estudo.
+
 ## XP (eXtreme Programming)
 
 O método XP é uma metodologia ágil e pode ser aplicada para otimizar processos e gerar valor ao cliente desejado. Nós usamos também, o método XP pois, de maneira direta, ele tem como objetivo desenvolver sistemas de qualidade, com um interação mais dinâmica e acessível com o cliente e testagem de ciclos de desenvolvimento rápidos e de maneira constante. Nós adaptamos o modelo ao nosso contexto para que dessa forma pudéssemos aproveitar de 100% do processo.
@@ -64,6 +93,7 @@ As mensagens dos _commits_ devem seguir o padrão:
 ## Bibliografia
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
+[2] Barbosa e Silva, Planejamento de avaliação de IHC;
 
 ## Histórico de Versão
 
