@@ -24,17 +24,23 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 [Avaliação do sítio: Lichess](planejamento/sítios_avaliados/resultados_lichess.pdf) | Lucas Gabriel | Nicolas Souza  |
 [Avaliação do sítio: Eleições - TSE](planejamento/sítios_avaliados/resultados_tse.md)| Nicolas Souza | Mauricio Machado    |
 [Ferramentas](planejamento/tools.md) | Lucas Macedo  | Nicolas Souza |
-[Ata da reunião (01/11/2022)](ata_01_11.md)        | Nicolas Souza |  Lucas Gabriel  |
-[Ata da reunião (10/11/2022)](ata_10_11.md)              | Lucas Macedo  |   Nicolas Souza  |
-[Ata da reunião (15/11/2022)](ata_15_11.md)             | Nicolas Souza |    Maurício     |
-[Ata da reunião (22/11/2022)](ata_22_11.md)             |  Davi Silva   | Lucas Macedo |
-[Ata da reunião (29/11/2022)](ata_29_11.md) | Lucas Macedo | Lucas Gabriel |
-[Ata da reunião (06/12/2022)](ata_06_12.md) | Mauricio Machado | Lucas Macedo |
-[Ata da reunião (13/12/2022)](ata_13_12.md)              |  Davi Silva   |  Nicolas Souza   |
-[Ata da reunião (20/12/2022)](ata_20_12.md) | Lucas Gabriel |    Davi     |
-[Ata da reunião (03/01/2023)](ata_03_01.md)              |  Davi Silva   |  Lucas Gabriel   |
-[Ata da reunião (18/01/2023)](ata_18_01.md)    | Nicolas| Lucas Gabriel |
-[Ata da reunião (25/01/2023)](ata_25_01.md) |   Davi    | Lucas Gabriel |
+[Ata da reunião (01/11/2022)](atas/ata_01_11.md)        | Nicolas Souza |  Lucas Gabriel  |
+[Ata da reunião (10/11/2022)](atas/ata_10_11.md)              | Lucas Macedo  |   Nicolas Souza  |
+[Ata da reunião (15/11/2022)](atas/ata_15_11.md)             | Nicolas Souza |    Maurício     |
+[Ata da reunião (22/11/2022)](atas/ata_22_11.md)             |  Davi Silva   | Lucas Macedo |
+[Ata da reunião (29/11/2022)](atas/ata_29_11.md) | Lucas Macedo | Lucas Gabriel |
+[Ata da reunião (06/12/2022)](atas/ata_06_12.md) | Mauricio Machado | Lucas Macedo |
+[Ata da reunião (13/12/2022)](atas/ata_13_12.md)              |  Davi Silva   |  Nicolas Souza   |
+[Ata da reunião (20/12/2022)](atas/ata_20_12.md) | Lucas Gabriel |    Davi     |
+[Ata da reunião (03/01/2023)](atas/ata_03_01.md)              |  Davi Silva   |  Lucas Gabriel   |
+[Ata da reunião (18/01/2023)](atas/ata_18_01.md)    | Nicolas| Lucas Gabriel |
+[Ata da reunião (25/01/2023)](atas/ata_25_01.md) |   Davi    | Lucas Gabriel |
+
+<div style="text-align: center">
+<p> Tabela 1: Síntese dos artefatos de Planejamento (Fonte: autor, 2023).</p>
+</div>
+
+</center>
 
 <!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
 
@@ -186,7 +192,32 @@ Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 ## Verificação dos Artefatos
 
-<!-- @TODO: incluir a metodologia usada na verificação, e uma tabela contendo quem fez cada checklist e cada verificação -->
+A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
+
+<center>
+
+| Artefato | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: |
+| [Verificação PC1 - Planejamento](verificacao_validacao/pc1-planejamento.md) |  Davi | Maurício |
+| [Verificação PC1 - Resultados](verificacao_validacao/pc1-resultados.md)  | Davi      | Mauricio |
+| [Verificação PC2 - Planejamento](verificacao_validacao/pc2-planejamento.md) | Nicolas Souza | Lucas Gabriel |
+| [Verificação PC2 - Resultados](verificacao_validacao/pc2-resultados.md)| Nicolas Souza | Lucas Gabriel |
+| [Verificação PC3 - Planejamento](verificacao_validacao/pc3-planejamento.md) |  Mauricio Machado |    Davi     |
+| [Verificação PC3 - Resultados](verificacao_validacao/pc3-resultados.md) | Mauricio Machado |     Davi     |
+| [Verificação PC4 - Planejamento](verificacao_validacao/pc4-planejamento.md) | Lucas Gabriel | Nicolas Souza   |
+| [Verificação PC4 - Resultados](verificacao_validacao/pc4-resultados.md) | Lucas Gabriel | Nicolas Souza   |
+| [Verificação PC5 - Planejamento](verificacao_validacao/pc5-planejamento.md)  | Lucas Macedo | Lucas Gabriel |
+| [Verificação PC5 - Resultados](verificacao_validacao/pc5-resultados.md) |  Lucas Macedo | Lucas Gabriel |
+| [Verificação PC7 - Planejamento](verificacao_validacao/pc7-planejamento.md)  | Lucas Gabriel | Lucas Macedo |
+| [Verificação PC7 - Resultados](verificacao_validacao/pc7-resultados.md) | Lucas Gabriel | Nicolas Souza   |
+
+<div style="text-align: center">
+<p>
+Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
 
 ## Resultados Alcançados
 
@@ -195,9 +226,12 @@ Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 ## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+[2] Plano de Ensino da disciplina Interação Humano Computador.
+[3] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
 
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 29/01/2023      | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
+| `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções.  | Nicolas Souza   |               |
+| `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos |   Nicolas Souza |
