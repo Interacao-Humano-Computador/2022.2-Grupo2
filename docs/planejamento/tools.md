@@ -36,4 +36,4 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 | `1.0` | 16/11/2022 |                Adição das ferramentas do projeto                | Lucas Macedo  | Nicolas Souza |
 | `1.1` | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | Lucas Macedo  |
 | `1.2` | 14/12/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Lucas Macedo | Nicolas Souza  |
-| `1.3` | 14/12/2022 | Inclusão das ferramentas miro e google forms | Lucas Macedo |   |
+| `1.3` | 14/12/2022 | Inclusão das ferramentas miro e google forms | Lucas Macedo |  Nicolas Souza |
