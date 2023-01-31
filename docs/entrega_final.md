@@ -49,6 +49,7 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 
 <center>
+  
 | Ferramentas | Em qual etapa foi utilizado | Motivo pelo qual foi utilizado |
 | :---------: | :-------------------------: | :----------------------------: |
 |          GitHub           |      Durante todo o projeto       |                   Repositório utilizado, versionamento do projeto, criação da documentação.                   |
