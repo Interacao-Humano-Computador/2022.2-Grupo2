@@ -8,6 +8,7 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano C
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Interação Humano Computador, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md) e as [ferramentas](planejamento/tools.md) utilizadas durante o projeto. Além disso, cada integrante fez a [avaliação heurística de um sítio](planejamento/sites_avaliados.md), que serviu de base para a definição do [sítio escolhido](planejamento/app_selected.md).
 
+
 A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 temos a sintetização do artefato de ferramenta utilizadas no projeto
 
 <center>
@@ -45,6 +46,7 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 <!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
 
 ## Ferramentas
+
 
 <center>
 | Ferramentas | Em qual etapa foi utilizado | Motivo pelo qual foi utilizado |
@@ -88,6 +90,7 @@ Na fase de análise de requisitos são definidas as [metas de usabilidade](anali
 A análise de requisitos do projeto foi documentada nos artefatos representados na Tabela 2.
 <center>
 
+
 |                                Artefato                                 |          Autor(es)           |  Revisor(es)  |
 | :---------------------------------------------------------------------: | :--------------------------: | :-----------: |
 |       [Análise de Tarefas](analise_requisitos/analise_tarefas.md)       |        Nicolas Souza         | Lucas Macedo  |
@@ -120,6 +123,7 @@ O primeiro nível do processo de design, avaliação e desenvolvimento foi docum
 
 <center>
 
+
 |                                                                                   Artefato                                                                                    |    Autor(es)     |   Revisor(es)    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------------: |
 |                           [Planejamento da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)                            |     Nicolas      |  Lucas Gabriel   |
@@ -146,6 +150,7 @@ A Tabela 4 sintetiza os artefatos elaborados durante essa etapa do projeto.
 
 <center>
 
+
 |                                                                     Artefato                                                                     |          Autor(es)           |  Revisor(es)  |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------: | :-----------: |
 | [Planejamento da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md) |       Mauricio Machado       | Nicolas Souza |
@@ -168,6 +173,7 @@ A Tabela 5 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 
 <center>
 
+
 |                                                                                    Artefato                                                                                     |   Autor(es)   |  Revisor(es)  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 |                      [Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md)                      | Nicolas Souza |  Davi Silva   |
@@ -188,6 +194,7 @@ Tabela 5: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 5 sintetiza a aplicação dessas atividades.
 
 <center>
+
 
 | Avaliação                                 | Metodologia          | Avaliador(es)                | Número de Participantes | Resultados                                                                                                                                        |
 | ----------------------------------------- | -------------------- | ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -214,6 +221,7 @@ Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
 
 <center>
+
 
 |                                  Artefato                                   |    Autor(es)     |  Revisor(es)  |
 | :-------------------------------------------------------------------------: | :--------------: | :-----------: |
