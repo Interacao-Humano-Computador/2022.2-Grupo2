@@ -283,5 +283,5 @@ Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 | `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Gabriel |
 | `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza | Lucas Gabriel |
 | `1.2`  | 30/01/2023 | Inclusão das ferramentas                                                                                               | Lucas Macedo  | Nicolas Souza |
-| `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva    | Nicolas Souza |
+| `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva    | Lucas Gabriel |
 
