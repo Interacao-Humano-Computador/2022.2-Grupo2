@@ -79,4 +79,4 @@ De maneira geral os problemas encontrados foram acerca da quantidade de informa�
 | Versão |    Data    |                                Descrição                                | Autor(es)  |  Revisor(es)  |
 | :----: | :--------: | :---------------------------------------------------------------------: | :--------: | :-----------: |
 | `1.0`  | 21/12/2022 | Criação da versão inicial do relato de resultados da análise de tarefas | Davi Silva | Lucas Gabriel |
-| `2.0`  | 26/01/2023 |              Padronização das tabelas e ajuste do artefato              | Davi Silva |               |
+| `1.1`  | 26/01/2023 |              Padronização das tabelas e ajuste do artefato              | Davi Silva |               |
