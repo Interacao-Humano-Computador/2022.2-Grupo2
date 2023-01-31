@@ -8,33 +8,34 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano C
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Interação Humano Computador, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md) e as [ferramentas](planejamento/tools.md) utilizadas durante o projeto. Além disso, cada integrante fez a [avaliação heurística de um sítio](planejamento/sites_avaliados.md), que serviu de base para a definição do [sítio escolhido](planejamento/app_selected.md).
 
-A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre.
+
+A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 temos a sintetização do artefato de ferramenta utilizadas no projeto
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Sítio Selecionado](planejamento/app_selected.md) | Lucas Gabriel  | Nicolas Souza |
-[Cronograma](planejamento/cronograma.md)|  Maurício Machado | Nicolas Souza |
-[Cronograma realizado](planejamento/cronograma_realizado.md) | Mauricio Machado | Nicolas Souza |
-[Metodologias](planejamento/metodologias.md) | Davi Silva e Nicolas Souza  | Maurício Machado |
-[Processo de Design](planejamento/processo_de_design.md)  | Nicolas Souza | Davi Silva |
-[Sítios Avaliados](planejamento/sites_avaliados.md)                                           | Nicolas Souza | Davi Silva    |
-[Avaliação do sítio: Age Telecom](planejamento/sítios_avaliados/resultados_age_telecom.md)| Mauricio Machado | Nicolas Souza  |
-[Avaliação do sítio: Lichess](planejamento/sítios_avaliados/resultados_lichess.pdf) | Lucas Gabriel | Nicolas Souza  |
-[Avaliação do sítio: Eleições - TSE](planejamento/sítios_avaliados/resultados_tse.md)| Nicolas Souza | Mauricio Machado    |
-[Ferramentas](planejamento/tools.md) | Lucas Macedo  | Nicolas Souza |
-[Ata da reunião (01/11/2022)](atas/ata_01_11.md)        | Nicolas Souza |  Lucas Gabriel  |
-[Ata da reunião (10/11/2022)](atas/ata_10_11.md)              | Lucas Macedo  |   Nicolas Souza  |
-[Ata da reunião (15/11/2022)](atas/ata_15_11.md)             | Nicolas Souza |    Maurício     |
-[Ata da reunião (22/11/2022)](atas/ata_22_11.md)             |  Davi Silva   | Lucas Macedo |
-[Ata da reunião (29/11/2022)](atas/ata_29_11.md) | Lucas Macedo | Lucas Gabriel |
-[Ata da reunião (06/12/2022)](atas/ata_06_12.md) | Mauricio Machado | Lucas Macedo |
-[Ata da reunião (13/12/2022)](atas/ata_13_12.md)              |  Davi Silva   |  Nicolas Souza   |
-[Ata da reunião (20/12/2022)](atas/ata_20_12.md) | Lucas Gabriel |    Davi     |
-[Ata da reunião (03/01/2023)](atas/ata_03_01.md)              |  Davi Silva   |  Lucas Gabriel   |
-[Ata da reunião (18/01/2023)](atas/ata_18_01.md)    | Nicolas| Lucas Gabriel |
-[Ata da reunião (25/01/2023)](atas/ata_25_01.md) |   Davi    | Lucas Gabriel |
+|                                          Artefato                                          |         Autor(es)          |   Revisor(es)    |
+| :----------------------------------------------------------------------------------------: | :------------------------: | :--------------: |
+|                     [Sítio Selecionado](planejamento/app_selected.md)                      |       Lucas Gabriel        |  Nicolas Souza   |
+|                          [Cronograma](planejamento/cronograma.md)                          |      Maurício Machado      |  Nicolas Souza   |
+|                [Cronograma realizado](planejamento/cronograma_realizado.md)                |      Mauricio Machado      |  Nicolas Souza   |
+|                        [Metodologias](planejamento/metodologias.md)                        | Davi Silva e Nicolas Souza | Maurício Machado |
+|                  [Processo de Design](planejamento/processo_de_design.md)                  |       Nicolas Souza        |    Davi Silva    |
+|                    [Sítios Avaliados](planejamento/sites_avaliados.md)                     |       Nicolas Souza        |    Davi Silva    |
+| [Avaliação do sítio: Age Telecom](planejamento/sítios_avaliados/resultados_age_telecom.md) |      Mauricio Machado      |  Nicolas Souza   |
+|    [Avaliação do sítio: Lichess](planejamento/sítios_avaliados/resultados_lichess.pdf)     |       Lucas Gabriel        |  Nicolas Souza   |
+|   [Avaliação do sítio: Eleições - TSE](planejamento/sítios_avaliados/resultados_tse.md)    |       Nicolas Souza        | Mauricio Machado |
+|                            [Ferramentas](planejamento/tools.md)                            |        Lucas Macedo        |  Nicolas Souza   |
+|                      [Ata da reunião (01/11/2022)](atas/ata_01_11.md)                      |       Nicolas Souza        |  Lucas Gabriel   |
+|                      [Ata da reunião (10/11/2022)](atas/ata_10_11.md)                      |        Lucas Macedo        |  Nicolas Souza   |
+|                      [Ata da reunião (15/11/2022)](atas/ata_15_11.md)                      |       Nicolas Souza        |     Maurício     |
+|                      [Ata da reunião (22/11/2022)](atas/ata_22_11.md)                      |         Davi Silva         |   Lucas Macedo   |
+|                      [Ata da reunião (29/11/2022)](atas/ata_29_11.md)                      |        Lucas Macedo        |  Lucas Gabriel   |
+|                      [Ata da reunião (06/12/2022)](atas/ata_06_12.md)                      |      Mauricio Machado      |   Lucas Macedo   |
+|                      [Ata da reunião (13/12/2022)](atas/ata_13_12.md)                      |         Davi Silva         |  Nicolas Souza   |
+|                      [Ata da reunião (20/12/2022)](atas/ata_20_12.md)                      |       Lucas Gabriel        |       Davi       |
+|                      [Ata da reunião (03/01/2023)](atas/ata_03_01.md)                      |         Davi Silva         |  Lucas Gabriel   |
+|                      [Ata da reunião (18/01/2023)](atas/ata_18_01.md)                      |          Nicolas           |  Lucas Gabriel   |
+|                      [Ata da reunião (25/01/2023)](atas/ata_25_01.md)                      |            Davi            |  Lucas Gabriel   |
 
 <div style="text-align: center">
 <p> Tabela 1: Síntese dos artefatos de Planejamento (Fonte: autor, 2023).</p>
@@ -46,7 +47,27 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 ## Ferramentas
 
-<!-- @TODO: incluir quais ferramentas foram utilizadas em quais artefatos, aproveitar pra refatorar o arquivo de ferramentas pra remover as que não foram usadas e incluir as que foram e não estão lá -->
+
+<center>
+| Ferramentas | Em qual etapa foi utilizado | Motivo pelo qual foi utilizado |
+| :---------: | :-------------------------: | :----------------------------: |
+|          GitHub           |      Durante todo o projeto       |                   Repositório utilizado, versionamento do projeto, criação da documentação.                   |
+|          Figma           |   Usado na etapa 3          |                  Criação do guia de estilo, protótipo de baixa fidelidade e alta fidelidade                  |
+|         Telegram          |      Durante todo o projeto       |                                     Principal meio de comunicação do time                                     |
+|     Google planilhas      | Ficou em desuso depois da etapa 3 |                  Onde foi desenvolvido a primeira versão do cronograma planejado, realizado e criação de gráficos                  |
+|      Microsoft Teams      |      Durante todo o projeto       | Local onde foram salvados os vídeos de reunião, apresentações de ponto de controle e entrevistas com usuários |
+|          Youtube          |      Durante todo o projeto       |                 Local armazenado os vídeos gravados das reuniões, apresentações e entrevistas                 |
+| Visual Studio Code | Durante todo o projeto | Editor de texto gratuito usado para a construção dos artefatos |
+| This Person Doesn't Exist | Usado na etapa 2 | Coletado as fotos das personas criadas |
+| Storyboard That | Usado na etapa 2 | Criação dos storyboards  |
+| LucidChart | Usado na etapa 2 | Criação dos diagramas  |
+| Miro | Usado na etapa 2 | Usado para classificação dos cartões analisando o perfil de usuário  |
+| Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para  caracterizar o perfil de usuário  |
+
+<div style="text-align: center">
+<p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
+</div>
+</center>
 
 ## Ciclo de Vida
 
@@ -69,17 +90,18 @@ Na fase de análise de requisitos são definidas as [metas de usabilidade](anali
 A análise de requisitos do projeto foi documentada nos artefatos representados na Tabela 2.
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-| [Análise de Tarefas](analise_requisitos/analise_tarefas.md) |Nicolas Souza | Lucas Macedo
-| [Aspectos Éticos](analise_requisitos/aspectos_eticos.md) | Lucas Gabriel | Davi Silva
-| [Cenários](analise_requisitos/cenarios.md) | Lucas Gabriel | Nicolas Souza
-| [Guia de Estilo](analise_requisitos/guia_de_estilo.md) | Lucas Macedo e Lucas Gabriel | Nicolas Souza
-| [Mapa de Empatia](analise_requisitos/mapa_empatia.md) | Lucas Macedo | Nicolas Souza
-| [Metas de Usabilidade](analise_requisitos/metas_usabilidade.md) | Maurício Machado | Nicolas Souza
-| [Perfil dos Usuários](analise_requisitos/perfil_usuario.md) | Maurício Machado | Lucas Macedo
-| [Personas](analise_requisitos/personas.md) | Maurício Machado | Lucas Macedo
-| [Princípios Gerais do Projeto](analise_requisitos/principios_gerais.md) | Davi Silva | Lucas Macedo
+
+|                                Artefato                                 |          Autor(es)           |  Revisor(es)  |
+| :---------------------------------------------------------------------: | :--------------------------: | :-----------: |
+|       [Análise de Tarefas](analise_requisitos/analise_tarefas.md)       |        Nicolas Souza         | Lucas Macedo  |
+|        [Aspectos Éticos](analise_requisitos/aspectos_eticos.md)         |        Lucas Gabriel         |  Davi Silva   |
+|               [Cenários](analise_requisitos/cenarios.md)                |        Lucas Gabriel         | Nicolas Souza |
+|         [Guia de Estilo](analise_requisitos/guia_de_estilo.md)          | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
+|          [Mapa de Empatia](analise_requisitos/mapa_empatia.md)          |         Lucas Macedo         | Nicolas Souza |
+|     [Metas de Usabilidade](analise_requisitos/metas_usabilidade.md)     |       Maurício Machado       | Nicolas Souza |
+|       [Perfil dos Usuários](analise_requisitos/perfil_usuario.md)       |       Maurício Machado       | Lucas Macedo  |
+|               [Personas](analise_requisitos/personas.md)                |       Maurício Machado       | Lucas Macedo  |
+| [Princípios Gerais do Projeto](analise_requisitos/principios_gerais.md) |          Davi Silva          | Lucas Macedo  |
 
 <div style="text-align: center">
 <p>
@@ -101,14 +123,15 @@ O primeiro nível do processo de design, avaliação e desenvolvimento foi docum
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Planejamento da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md) | Nicolas | Lucas Gabriel |
-[Planejamento do Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md) | Nicolas Souza | Lucas Gabriel   |
-[Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)| Nicolas Souza |  Mauricio Machado  
-[Planejamento da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)  | Lucas Gabriel | Nicolas Souza   |
-[Planejamento do relato de Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md)  | Maurício Machado | Nicolas Souza |
-[Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md) | Davi Silva | Lucas Gabriel |
+
+|                                                                                   Artefato                                                                                    |    Autor(es)     |   Revisor(es)    |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------------: |
+|                           [Planejamento da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md)                            |     Nicolas      |  Lucas Gabriel   |
+|                [Planejamento do Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md)                 |  Nicolas Souza   |  Lucas Gabriel   |
+|                         [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)                          |  Nicolas Souza   | Mauricio Machado |
+|                     [Planejamento da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md)                     |  Lucas Gabriel   |  Nicolas Souza   |
+| [Planejamento do relato de Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) | Maurício Machado |  Nicolas Souza   |
+|               [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md)               |    Davi Silva    |  Lucas Gabriel   |
 
 <div style="text-align: center">
 <p>
@@ -127,10 +150,11 @@ A Tabela 4 sintetiza os artefatos elaborados durante essa etapa do projeto.
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Planejamento da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md)| Mauricio Machado | Nicolas Souza |
-[Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)| Lucas Macedo e Lucas Gabriel | Davi Silva|
+
+|                                                                     Artefato                                                                     |          Autor(es)           |  Revisor(es)  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------: | :-----------: |
+| [Planejamento da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md) |       Mauricio Machado       | Nicolas Souza |
+|    [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)     | Lucas Macedo e Lucas Gabriel |  Davi Silva   |
 
 <div style="text-align: center">
 <p>
@@ -149,11 +173,12 @@ A Tabela 5 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-[Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md) |  Nicolas Souza | Davi Silva |
-[Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md)  | Lucas Gabriel | Nicolas Souza  |
-[Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md) |  Nicolas Souza | Lucas Macedo |
+
+|                                                                                    Artefato                                                                                     |   Autor(es)   |  Revisor(es)  |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+|                      [Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md)                      | Nicolas Souza |  Davi Silva   |
+| [Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_relato_resultados_alta_fidelidade.md) | Lucas Gabriel | Nicolas Souza |
+|                  [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md)                   | Nicolas Souza | Lucas Macedo  |
 
 <div style="text-align: center">
 <p>
@@ -170,12 +195,13 @@ Durante a execução do projeto, foram elaboradas algumas avaliações de protó
 
 <center>
 
-| Avaliação | Metodologia | Avaliador(es) | Número de Participantes | Resultados |
-| - | - | - | - | - |
-| Avaliação do Storyboard | Entrevista | Nicolas Souza  | 1 | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)|
-| Avaliação da Análise de Tarefas | Entrevista |  Davi Silva  | 1 | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md)
-| Avaliação do Protótipo de Papel | Entrevista | Lucas Macedo e Lucas Gabriel  | 1 | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)|
-| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade |   Nicolas Souza  | 3 | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md)
+
+| Avaliação                                 | Metodologia          | Avaliador(es)                | Número de Participantes | Resultados                                                                                                                                        |
+| ----------------------------------------- | -------------------- | ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Avaliação do Storyboard                   | Entrevista           | Nicolas Souza                | 1                       | [Relato dos Resultados da Avaliação do Storyboard](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)                      |
+| Avaliação da Análise de Tarefas           | Entrevista           | Davi Silva                   | 1                       | [Relato dos Resultados da Avaliação da Análise de Tarefas](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md) |
+| Avaliação do Protótipo de Papel           | Entrevista           | Lucas Macedo e Lucas Gabriel | 1                       | [Relato dos Resultados da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)         |
+| Avaliação do Protótipo de Alta Fidelidade | Teste de Usabilidade | Nicolas Souza                | 3                       | [Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md)      |
 
 <div style="text-align: center">
 <p>
@@ -196,20 +222,21 @@ A verificação será feita por meio da inspeção, com base na proposta de Faga
 
 <center>
 
-| Artefato | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: |
-| [Verificação PC1 - Planejamento](verificacao_validacao/pc1-planejamento.md) |  Davi | Maurício |
-| [Verificação PC1 - Resultados](verificacao_validacao/pc1-resultados.md)  | Davi      | Mauricio |
-| [Verificação PC2 - Planejamento](verificacao_validacao/pc2-planejamento.md) | Nicolas Souza | Lucas Gabriel |
-| [Verificação PC2 - Resultados](verificacao_validacao/pc2-resultados.md)| Nicolas Souza | Lucas Gabriel |
-| [Verificação PC3 - Planejamento](verificacao_validacao/pc3-planejamento.md) |  Mauricio Machado |    Davi     |
-| [Verificação PC3 - Resultados](verificacao_validacao/pc3-resultados.md) | Mauricio Machado |     Davi     |
-| [Verificação PC4 - Planejamento](verificacao_validacao/pc4-planejamento.md) | Lucas Gabriel | Nicolas Souza   |
-| [Verificação PC4 - Resultados](verificacao_validacao/pc4-resultados.md) | Lucas Gabriel | Nicolas Souza   |
-| [Verificação PC5 - Planejamento](verificacao_validacao/pc5-planejamento.md)  | Lucas Macedo | Lucas Gabriel |
-| [Verificação PC5 - Resultados](verificacao_validacao/pc5-resultados.md) |  Lucas Macedo | Lucas Gabriel |
-| [Verificação PC7 - Planejamento](verificacao_validacao/pc7-planejamento.md)  | Lucas Gabriel | Lucas Macedo |
-| [Verificação PC7 - Resultados](verificacao_validacao/pc7-resultados.md) | Lucas Gabriel | Nicolas Souza   |
+
+|                                  Artefato                                   |    Autor(es)     |  Revisor(es)  |
+| :-------------------------------------------------------------------------: | :--------------: | :-----------: |
+| [Verificação PC1 - Planejamento](verificacao_validacao/pc1-planejamento.md) |       Davi       |   Maurício    |
+|   [Verificação PC1 - Resultados](verificacao_validacao/pc1-resultados.md)   |       Davi       |   Mauricio    |
+| [Verificação PC2 - Planejamento](verificacao_validacao/pc2-planejamento.md) |  Nicolas Souza   | Lucas Gabriel |
+|   [Verificação PC2 - Resultados](verificacao_validacao/pc2-resultados.md)   |  Nicolas Souza   | Lucas Gabriel |
+| [Verificação PC3 - Planejamento](verificacao_validacao/pc3-planejamento.md) | Mauricio Machado |     Davi      |
+|   [Verificação PC3 - Resultados](verificacao_validacao/pc3-resultados.md)   | Mauricio Machado |     Davi      |
+| [Verificação PC4 - Planejamento](verificacao_validacao/pc4-planejamento.md) |  Lucas Gabriel   | Nicolas Souza |
+|   [Verificação PC4 - Resultados](verificacao_validacao/pc4-resultados.md)   |  Lucas Gabriel   | Nicolas Souza |
+| [Verificação PC5 - Planejamento](verificacao_validacao/pc5-planejamento.md) |   Lucas Macedo   | Lucas Gabriel |
+|   [Verificação PC5 - Resultados](verificacao_validacao/pc5-resultados.md)   |   Lucas Macedo   | Lucas Gabriel |
+| [Verificação PC7 - Planejamento](verificacao_validacao/pc7-planejamento.md) |  Lucas Gabriel   | Lucas Macedo  |
+|   [Verificação PC7 - Resultados](verificacao_validacao/pc7-resultados.md)   |  Lucas Gabriel   | Nicolas Souza |
 
 <div style="text-align: center">
 <p>
@@ -235,3 +262,4 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 | ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Gabriel |
 | `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza | Lucas Gabriel |
+| `1.2`  | 30/01/2023 | Inclusão das ferramentas                                | Lucas Macedo |  Nicolas Souza|
