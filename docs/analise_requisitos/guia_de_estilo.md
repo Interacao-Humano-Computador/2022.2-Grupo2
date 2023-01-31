@@ -6,11 +6,15 @@ O Guia de Estilo é um documento criado com intuito de reunir os princípios e a
 
 ## Objetivo do guia de estilo
 
-O objetivo desse documento é compreender o design proposto para o projeto do sítio eletrônico Lichess, analisando elementos como Logo, Layout Tipografia, Simbolismo, Cores, Visualização de informações, Design de telas e elementos de interface (widgets) com intuito de documentá-los e com esse entendimento propor melhorias para alguns elementos e no futuro dar prosseguimento  ao projeto nas etapas de design, avaliação e desenvolvimento.
+O objetivo desse documento é compreender o design proposto para o projeto do sítio eletrônico Lichess, analisando elementos como: 
+- Elementos de interface (Design de telas, visualização de informações, disposição espacial e grid (layout), elementos de interface (widgets), janelas, tipografia, símbolos, logo e cores)
+- Elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho))
+- Elementos de ação (preenchimento de campos, seleção e ativação)
+Com intuito de documentá-los e com esse entendimento propor melhorias para alguns elementos e no futuro dar prosseguimento ao projeto nas etapas de design, avaliação e desenvolvimento.
 
 ### Organização e conteúdo do guia de estilo
 
-O guia de estilo irá abordar os seguintes aspectos do sítio eletrônico Lichess: Logo, Cores, Tipografia, Layout, Simbolismos
+O guia de estilo irá abordar os aspectos supracitados acima referentes ao sítio eletrônico Lichess.
 
 ### Público-alvo do guia de estilos
 
@@ -24,10 +28,18 @@ O guia pode ser consultado para decisões de design relacionadas ao projeto, sej
 
 Sempre que a equipe de design tomar uma decisão que modificará o projeto é importante que o guia de estilo seja atualizado para que o projeto continue padronizado.
 
-## Elementos de interface
+## Elementos de interface, interação e ação
 
-Os elementos de interface podem ser observados no projeto no sítio eletrônico do Figma, localizado abaixo:
+Os elementos de interface, interação e ação podem ser observados no projeto elaborado através do sítio eletrônico Figma, localizado abaixo:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfUwpHwhGHyrFqgfEYKr53%2FGuia-de-estilo---Lichess%3Fnode-id%3D0%253A1%26t%3D3foPw08drZfIqwwh-1" allowfullscreen></iframe>
+
+## Vocabulário e padrões
+
+- Terminologia: As terminologias utilizadas durante a elaboração do protótipo de baixa e alta fidelidade devem familiares aos usuários evitando termos muito técnicos, caso esses sejam empregados devem vir acompanhados de explicações pontuais, para que usuários iniciantes também consigam utilizar a aplicação de forma intuitiva.
+
+- Tipos de tela (para tarefas comuns): As telas devem seguir os padrões especificados nos Elementos de interface de disposição espacial e grid.
+
+- Sequências de diálogos: As sequências de diálogos devem ser padronizadas, seguindo o padrão especificado nos elementos de interação de forma que os botões de confirmação e cancelamento se localizem de forma semelhante em todas as sequências de diálogos.
 
 ## Bibliografia
 
@@ -35,6 +47,7 @@ Os elementos de interface podem ser observados no projeto no sítio eletrônico 
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição            | Autor(es)                    | Revisor(es) |
-| ------ | ----- | -------------------- | ---------------------------- | ----------- |
-| `1.0`  | 11/12/2022 | Criação do documento | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
+| Versão | Data       | Descrição                                                          | Autor(es)                    | Revisor(es)   |
+| ------ | ---------- | ------------------------------------------------------------------ | ---------------------------- | ------------- |
+| `1.0`  | 11/12/2022 | Criação do documento                                               | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
+| `2.0`  | 31/01/2022 | Adições de seções faltantes no documento do guia de estilo e Figma | Lucas Macedo e Lucas Gabriel |               |
