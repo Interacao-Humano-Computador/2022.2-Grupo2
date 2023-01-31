@@ -8,7 +8,6 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano C
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Interação Humano Computador, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md) e as [ferramentas](planejamento/tools.md) utilizadas durante o projeto. Além disso, cada integrante fez a [avaliação heurística de um sítio](planejamento/sites_avaliados.md), que serviu de base para a definição do [sítio escolhido](planejamento/app_selected.md).
 
-
 A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 temos a sintetização do artefato de ferramenta utilizadas no projeto
 
 <center>
@@ -43,10 +42,70 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 </center>
 
-<!-- @TODO: cronograma planejado e executado, em uma mesma tabela -->
+## Cronograma Planejado vs Cronograma Executado
+
+Ao início do projeto a equipe planejou as datas para cada uma das atividades que seriam realizadas durante o decorrer da matéria. Além disso, fora registrado as datas efetivas dessa atividades. Abaixo na tabela 2, está a tabela que sintetiza essa comparação entre planejado e executado.
+
+<center>
+
+|                                     Atividade                                      |      Data Planejada       |      Data Executada       |                  Autor Planejado                  |                  Autor Executado                  |              Revisor Planejado              |              Revisor Executado              |
+| :--------------------------------------------------------------------------------: | :-----------------------: | :-----------------------: | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
+|                              Lista de sites avaliados                              | 17/11/2022 até 18/11/2022 | 19/11/2022 até 20/11/2022 |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    | Davi, Lucas G., Lucas M., Maurício, Nicolas | Davi, Lucas G., Lucas M., Maurício, Nicolas |
+|                          Site selecionado para disciplina                          | 18/11/2022 até 19/11/2022 | 19/11/2022 até 20/11/2022 |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                Nicolas Souza                |                Nicolas Souza                |
+|                              Criação do github pages                               | 17/11/2022 até 18/11/2022 | 17/11/2022 até 18/11/2022 |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                               Ferramentas do projeto                               | 17/11/2022 até 18/11/2022 | 16/11/2022 até 18/11/2022 |                   Lucas Macedo                    |                   Lucas Macedo                    |                Lucas Gabriel                |        Lucas Gabriel e Nicolas Souza        |
+|                              Cronograma de atividades                              | 16/11/2022 até 17/11/2022 | 16/11/2022 até 17/11/2022 |                     Maurício                      |                     Maurício                      |                Lucas Macedo                 |                Lucas Macedo                 |
+|                                 Processo de design                                 | 18/11/2022 até 19/11/2022 | 18/11/2022 até 19/11/2022 |                   Nicolas Souza                   |                   Nicolas Souza                   |                    Davi                     |                    Davi                     |
+|                                    Metodologias                                    | 18/11/2022 até 19/11/2022 | 18/11/2022 até 20/11/2022 |                       Davi                        |                       Davi                        |                  Maurício                   |          Maurício e Nicolas Souza           |
+|                            Gravação da apresentação PC1                            |        21/11/2022         |        20/11/2022         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC1                             |        21/11/2022         |        20/11/2022         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                                 Perfil do Usuário                                  | 27/11/2022 até 28/11/2022 | 26/11/2022 até 28/11/2022 |                     Maurício                      |                     Maurício                      |                Lucas Macedo                 |                Lucas Macedo                 |
+|                                      Personas                                      | 30/11/2022 até 01/12/2022 | 30/11/2022 até 01/12/2022 |                   Lucas Macedo                    |                     Maurício                      |                Nicolas Souza                |                Lucas Macedo                 |
+|                           Análise das tarefas do usuário                           | 27/11/2022 até 28/11/2022 | 27/11/2022 até 28/11/2022 |                   Nicolas Souza                   |                   Nicolas Souza                   |                Lucas Gabriel                |                Lucas Macedo                 |
+|                   Aspectos éticos de pesquisa envolvendo pessoas                   | 22/11/2022 até 23/11/2022 | 23/11/2022 até 24/11/2022 |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                    Davi                     |                    Davi                     |
+|                            Gravação da apresentação PC2                            |        24/11/2022         |        04/12/2022         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC2                             |        24/11/2022         |        04/12/2022         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                            Princípios gerais do projeto                            | 23/11/2022 até 24/11/2022 | 05/12/2022 até 06/12/2022 |                       Davi                        |                       Davi                        |                Lucas Gabriel                |            Lucas Macedo, Nicolas            |
+|                                Metas de usabilidade                                | 26/11/2022 até 27/11/2022 | 09/12/2022 até 10/12/2022 |                   Lucas Gabriel                   |                   Nicolas Souza                   |                Nicolas Souza                |                  Mauricio                   |
+|                                   Guia de estilo                                   | 03/12/2022 até 04/12/2022 | 11/12/2022 até 12/12/2022 |              Nicolas e Lucas Macedo               |           Lucas Gabriel e Lucas Macedo            |                  Maurício                   |                Nicolas Souza                |
+|                            Gravação da apresentação PC3                            |        05/12/2022         | 11/12/2022 até 12/12/2022 | Davi, Lucas G., Lucas M., Maurício, Nicolas Souza | Davi, Lucas G., Lucas M., Maurício, Nicolas Souza |                  Maurício                   |                  Mauricio                   |
+|                             Edição da apresentação PC3                             |        05/12/2022         | 11/12/2022 até 12/12/2022 |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                 Planejamento do relato de resultados do storyboard                 | 07/12/2022 Até 08/12/2022 |        13/12/2022         |                   Nicolas Souza                   |                   Nicolas Souza                   |                Lucas Macedo                 |                Lucas Gabriel                |
+|                        Planejamento da avaliação storyboard                        | 10/12/2022 até 11/12/2022 |        13/12/2022         |                   Lucas Macedo                    |              Nicolas e Lucas Macedo               |                Nicolas Souza                |                Lucas Gabriel                |
+|      Planejamento do relato de resultados da avaliação da Análise de tarefas       | 07/12/2022 até 08/12/2022 |        13/12/2022         |                     Maurício                      |                     Maurício                      |                Lucas Gabriel                |                Lucas Gabriel                |
+|                  Planejamento da Avaliação da Análise de tarefas                   | 10/12/2022 até 11/12/2022 |        13/12/2022         |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                  Maurício                   |                Nicolas Souza                |
+|                            Gravação da apresentação PC4                            |        12/12/2022         |        13/12/2022         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC4                             |        12/12/2022         |        13/12/2022         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                        Relato dos resultados do Storyboard                         | 12/12/2022 até 13/12/2022 |        19/12/2022         |                       Davi                        |                   Nicolas Souza                   |                Lucas Gabriel                |                  Mauricio                   |
+|                    Relato dos resultados da Análise de tarefas                     | 12/12/2022 até 13/12/2022 |        21/12/2022         |                   Nicolas Souza                   |                       Davi                        |                Lucas Macedo                 |                Lucas Gabriel                |
+|      Planejamento do relato de resultados da avaliação do protótipo de papel       | 13/12/2022 até 14/12/2022 |        13/12/2022         |                   Lucas Macedo                    |                   Lucas Gabriel                   |                  Maurício                   |                Nicolas Souza                |
+|                  Planejamento da avaliação do protótipo de papel                   | 17/12/2022 até 18/12/2022 |        20/12/2022         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                            Gravação da apresentação PC5                            |        20/12/2022         |        20/12/2022         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC5                             |        20/12/2022         |        20/12/2022         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                Planejamento de verificação dos artefatos da Etapa 1                | 21/12/2022 até 22/12/2022 |        18/01/2023         |                       Davi                        |                       Davi                        |                Nicolas Souza                |          Nicolas Souza e Maurício           |
+|                Planejamento de verificação dos artefatos da Etapa 2                | 21/12/2022 até 22/12/2022 |        17/01/2023         |                   Nicolas Souza                   |                   Nicolas Souza                   |                  Maurício                   |                Lucas Gabriel                |
+|                Planejamento de verificação dos artefatos da Etapa 3                | 21/12/2022 até 22/12/2022 |        17/01/2023         |                     Maurício                      |                     Maurício                      |                Lucas Gabriel                |             Davi e Lucas Macedo             |
+|                Planejamento de verificação dos artefatos da Etapa 4                | 21/12/2022 até 22/12/2022 |        26/01/2023         |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                Lucas Macedo                 |                    Davi                     |
+|                Planejamento de verificação dos artefatos da Etapa 5                | 21/12/2022 até 22/12/2022 |        18/01/2023         |                   Lucas Macedo                    |                   Lucas Macedo                    |                    Davi                     |                Lucas Gabriel                |
+|              Relato da verificação da Etapa 1 e ajustes nos artefatos              | 04/01/2023 até 05/01/2023 |        18/01/2023         |                       Davi                        |                       Davi                        |                Nicolas Souza                |          Nicolas Souza e Maurício           |
+|              Relato da verificação da Etapa 2 e ajustes nos artefatos              | 04/01/2023 até 05/01/2023 |        18/01/2023         |                   Nicolas Souza                   |                   Nicolas Souza                   |                  Maurício                   |                Lucas Gabriel                |
+|              Relato da verificação da Etapa 3 e ajustes nos artefatos              | 04/01/2023 até 05/01/2023 |        18/01/2023         |                     Maurício                      |                     Maurício                      |                Lucas Gabriel                |                Lucas Macedo                 |
+|              Relato da verificação da Etapa 4 e ajustes nos artefatos              | 04/01/2023 até 05/01/2023 |        26/01/2023         |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                Lucas Macedo                 |                    Davi                     |
+|              Relato da verificação da Etapa 5 e ajustes nos artefatos              | 04/01/2023 até 05/01/2023 |        18/01/2023         |                   Lucas Macedo                    |                   Lucas Macedo                    |                    Davi                     |                Lucas Gabriel                |
+|                            Gravação da apresentação PC6                            |        06/01/2023         |        18/01/2023         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC6                             |        06/01/2023         |        18/01/2023         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+|                    Relato dos resultados do Protótipo de Papel                     | 08/01/2023 até 09/01/2023 | 11/01/2023 até 17/01/2023 |                   Nicolas Souza                   |      Lucas Macedo, Lucas Gabriel e Mauricio       |                    Davi                     |               Davi e Nicolas                |
+|             Planejamento da avaliação do protótipo de alta fidelidade              | 11/01/2023 até 12/01/2023 | 10/01/2023 até 11/01/2023 |                   Lucas Macedo                    |                   Nicolas Souza                   |                  Maurício                   |                    Davi                     |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 13/01/2023 até 14/01/2023 |        26/01/2023         |                   Lucas Gabriel                   |                   Lucas Gabriel                   |                Nicolas Souza                |                Nicolas Souza                |
+|                            Gravação da apresentação PC7                            |        15/01/2023         |        18/01/2023         |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |    Davi, Lucas G., Lucas M., Maurício, Nicolas    |                  Maurício                   |                  Maurício                   |
+|                             Edição da apresentação PC7                             |        15/01/2023         |        18/01/2023         |                     Maurício                      |                     Maurício                      |                Nicolas Souza                |                Nicolas Souza                |
+
+<div style="text-align: center">
+<p> Tabela 2: Síntese dos artefatos de cronograma (Fonte: autor, 2023).</p>
+</div>
+</center>
 
 ## Ferramentas
-
 
 <center>
   
@@ -66,7 +125,7 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 | Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para  caracterizar o perfil de usuário  |
 
 <div style="text-align: center">
-<p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
+<p> Tabela 3: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
 </div>
 </center>
 
@@ -88,9 +147,9 @@ A definição deste ciclo de vida para o projeto levou em consideração os fato
 
 Na fase de análise de requisitos são definidas as [metas de usabilidade](analise_requisitos/metas_usabilidade.md) com base no [perfil dos usuários](analise_requisitos/perfil_usuario.md), [análise de tarefas](analise_requisitos/analise_tarefas.md), possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as [metas de usabilidade](analise_requisitos/metas_usabilidade.md) costumam ser representadas em [guias de estilos](analise_requisitos/guia_de_estilo.md) para auxiliar sua verificação durante as demais atividades do processo [1].
 
-A análise de requisitos do projeto foi documentada nos artefatos representados na Tabela 2.
-<center>
+A análise de requisitos do projeto foi documentada nos artefatos representados na Tabela 4.
 
+<center>
 
 |                                Artefato                                 |          Autor(es)           |  Revisor(es)  |
 | :---------------------------------------------------------------------: | :--------------------------: | :-----------: |
@@ -106,7 +165,7 @@ A análise de requisitos do projeto foi documentada nos artefatos representados 
 
 <div style="text-align: center">
 <p>
-Tabela 2: Síntese dos artefatos de Análise de Requisitos (Fonte: autor, 2023).
+Tabela 4: Síntese dos artefatos de Análise de Requisitos (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -123,7 +182,6 @@ O primeiro nível dessa etapa consiste em uma análise conceitual, e durante a e
 O primeiro nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na Tabela 3.
 
 <center>
-
 
 |                                                                                   Artefato                                                                                    |    Autor(es)     |   Revisor(es)    |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :--------------: |
@@ -151,7 +209,6 @@ A Tabela 4 sintetiza os artefatos elaborados durante essa etapa do projeto.
 
 <center>
 
-
 |                                                                     Artefato                                                                     |          Autor(es)           |  Revisor(es)  |
 | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------: | :-----------: |
 | [Planejamento da Avaliação do Protótipo de Papel](design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md) |       Mauricio Machado       | Nicolas Souza |
@@ -174,7 +231,6 @@ A Tabela 5 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 
 <center>
 
-
 |                                                                                    Artefato                                                                                     |   Autor(es)   |  Revisor(es)  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 |                      [Planejamento da Avaliação do Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md)                      | Nicolas Souza |  Davi Silva   |
@@ -192,10 +248,9 @@ Tabela 5: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 ## Síntese das Avaliações
 
-Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 5 sintetiza a aplicação dessas atividades.
+Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 6 sintetiza a aplicação dessas atividades.
 
 <center>
-
 
 | Avaliação                                 | Metodologia          | Avaliador(es)                | Número de Participantes | Resultados                                                                                                                                        |
 | ----------------------------------------- | -------------------- | ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -222,7 +277,6 @@ Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
 
 <center>
-
 
 |                                  Artefato                                   |    Autor(es)     |  Revisor(es)  |
 | :-------------------------------------------------------------------------: | :--------------: | :-----------: |
@@ -259,8 +313,9 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                                                                              | Autor(es)     | Revisor(es)   |
-| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
-| `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Gabriel |
-| `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza | Lucas Gabriel |
-| `1.2`  | 30/01/2023 | Inclusão das ferramentas                                | Lucas Macedo |  Nicolas Souza|
+| Versão | Data       | Descrição                                                                                                              | Autor(es)        | Revisor(es)   |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza    | Lucas Gabriel |
+| `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza    | Lucas Gabriel |
+| `1.2`  | 30/01/2023 | Inclusão das ferramentas                                                                                               | Lucas Macedo     | Nicolas Souza |
+| `1.3`  | 31/01/2023 | Inclusão síntese cronogramas                                                                                           | maurício Machado | -             |
