@@ -28,6 +28,9 @@ O guia pode ser consultado para decisões de design relacionadas ao projeto, sej
 
 Sempre que a equipe de design tomar uma decisão que modificará o projeto é importante que o guia de estilo seja atualizado para que o projeto continue padronizado.
 
+## Resultados de análise
+Os usuários utilizam geralmente o sítio eletrônico Lichess através de computadores, sejam esses de mesa ou notebooks.
+
 ## Elementos de interface, interação e ação
 
 Os elementos de interface, interação e ação podem ser observados no projeto elaborado através do sítio eletrônico Figma, localizado abaixo:
