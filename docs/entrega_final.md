@@ -50,20 +50,20 @@ A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elab
 
 <center>
   
-| Ferramentas | Em qual etapa foi utilizado | Motivo pelo qual foi utilizado |
-| :---------: | :-------------------------: | :----------------------------: |
+|        Ferramentas        |    Em qual etapa foi utilizado    |                                        Motivo pelo qual foi utilizado                                         |
+| :-----------------------: | :-------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |          GitHub           |      Durante todo o projeto       |                   Repositório utilizado, versionamento do projeto, criação da documentação.                   |
-|          Figma           |   Usado na etapa 3          |                  Criação do guia de estilo, protótipo de baixa fidelidade e alta fidelidade                  |
+|           Figma           |         Usado na etapa 3          |                  Criação do guia de estilo, protótipo de baixa fidelidade e alta fidelidade                   |
 |         Telegram          |      Durante todo o projeto       |                                     Principal meio de comunicação do time                                     |
-|     Google planilhas      | Ficou em desuso depois da etapa 3 |                  Onde foi desenvolvido a primeira versão do cronograma planejado, realizado e criação de gráficos                  |
+|     Google planilhas      | Ficou em desuso depois da etapa 3 |       Onde foi desenvolvido a primeira versão do cronograma planejado, realizado e criação de gráficos        |
 |      Microsoft Teams      |      Durante todo o projeto       | Local onde foram salvados os vídeos de reunião, apresentações de ponto de controle e entrevistas com usuários |
 |          Youtube          |      Durante todo o projeto       |                 Local armazenado os vídeos gravados das reuniões, apresentações e entrevistas                 |
-| Visual Studio Code | Durante todo o projeto | Editor de texto gratuito usado para a construção dos artefatos |
-| This Person Doesn't Exist | Usado na etapa 2 | Coletado as fotos das personas criadas |
-| Storyboard That | Usado na etapa 2 | Criação dos storyboards  |
-| LucidChart | Usado na etapa 2 | Criação dos diagramas  |
-| Miro | Usado na etapa 2 | Usado para classificação dos cartões analisando o perfil de usuário  |
-| Google forms | Usado na etapa 2 | Usado para criar o formulário responsável para  caracterizar o perfil de usuário  |
+|    Visual Studio Code     |      Durante todo o projeto       |                        Editor de texto gratuito usado para a construção dos artefatos                         |
+| This Person Doesn't Exist |         Usado na etapa 2          |                                    Coletado as fotos das personas criadas                                     |
+|      Storyboard That      |         Usado na etapa 2          |                                            Criação dos storyboards                                            |
+|        LucidChart         |         Usado na etapa 2          |                                             Criação dos diagramas                                             |
+|           Miro            |         Usado na etapa 2          |                      Usado para classificação dos cartões analisando o perfil de usuário                      |
+|       Google forms        |         Usado na etapa 2          |               Usado para criar o formulário responsável para  caracterizar o perfil de usuário                |
 
 <div style="text-align: center">
 <p> Tabela 2: Síntese do artefato de Ferramentas (Fonte: autor, 2023).</p>
@@ -215,11 +215,30 @@ Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 ## Técnicas Utilizadas
 
-<!-- @TODO: incluir uma tabela com as técnicas utilizadas ao longo do projeto, em quais artefatos foram usadas e quais são os autores/revisores desses artefatos  -->
+A tabela a seguir mostra os artefatos e as técnicas utilizadas para sua criação. A tabela foi organizada em ordem de elaboração. Foram utilizadas ao todo 2 técnicas diferentes.
+
+<center>
+
+|                   Artefato                   |                                                     Técnica                                                      |
+| :------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|              Perfil do Usuário               |                               [Questionário](analise_requisitos/perfil_usuario.md)                               |
+|           Avaliação do StoryBoard            |              [Entrevista](design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md)              |
+|       Avaliação da Análise de Tarefas        | [Entrevista](design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md) |
+|       Avaliação do Protótipo de Papel        |           [Entrevista](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md)            |
+| Avaliação do Protótipo de Alta Fidelidade de |               [Entrevista](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md)               |
+
+<div style="text-align: center">
+<p>
+Tabela 7: Técnicas Utilizadas
+(Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
 
 ## Verificação dos Artefatos
 
-A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 7 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
+A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 8 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
 
 <center>
 
@@ -241,7 +260,7 @@ A verificação será feita por meio da inspeção, com base na proposta de Faga
 
 <div style="text-align: center">
 <p>
-Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
+Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -263,4 +282,6 @@ Tabela 7: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 | ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
 | `1.0`  | 29/01/2023 | Criação da versão inicial do documento contendo introdução, ciclo de vida e estrutura para inserção das demais seções. | Nicolas Souza | Lucas Gabriel |
 | `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza | Lucas Gabriel |
-| `1.2`  | 30/01/2023 | Inclusão das ferramentas                                | Lucas Macedo |  Nicolas Souza|
+| `1.2`  | 30/01/2023 | Inclusão das ferramentas                                                                                               | Lucas Macedo  | Nicolas Souza |
+| `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva    | Nicolas Souza |
+
