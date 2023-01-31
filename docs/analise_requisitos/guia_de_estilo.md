@@ -6,7 +6,8 @@ O Guia de Estilo é um documento criado com intuito de reunir os princípios e a
 
 ## Objetivo do guia de estilo
 
-O objetivo desse documento é compreender o design proposto para o projeto do sítio eletrônico Lichess, analisando elementos como: 
+O objetivo desse documento é compreender o design proposto para o projeto do sítio eletrônico Lichess, analisando elementos como:
+
 - Elementos de interface (Design de telas, visualização de informações, disposição espacial e grid (layout), elementos de interface (widgets), janelas, tipografia, símbolos, logo e cores)
 - Elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho))
 - Elementos de ação (preenchimento de campos, seleção e ativação)
@@ -27,6 +28,10 @@ O guia pode ser consultado para decisões de design relacionadas ao projeto, sej
 ### Como manter o guia
 
 Sempre que a equipe de design tomar uma decisão que modificará o projeto é importante que o guia de estilo seja atualizado para que o projeto continue padronizado.
+
+## Resultados de análise
+
+Os usuários utilizam geralmente o sítio eletrônico Lichess através de computadores, sejam esses de mesa ou notebooks.
 
 ## Elementos de interface, interação e ação
 
@@ -50,4 +55,4 @@ Os elementos de interface, interação e ação podem ser observados no projeto 
 | Versão | Data       | Descrição                                                          | Autor(es)                    | Revisor(es)   |
 | ------ | ---------- | ------------------------------------------------------------------ | ---------------------------- | ------------- |
 | `1.0`  | 11/12/2022 | Criação do documento                                               | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
-| `2.0`  | 31/01/2022 | Adições de seções faltantes no documento do guia de estilo e Figma | Lucas Macedo e Lucas Gabriel |               |
+| `2.0`  | 31/01/2022 | Adições de seções faltantes no documento do guia de estilo e Figma | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
