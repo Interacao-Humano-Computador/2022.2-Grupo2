@@ -235,4 +235,4 @@ Foi observado que o modelo para resolver problemas utilizado está adequado, poi
 | `1.0`  | 11/01/2022 | Criação do documento                 | Lucas Macedo e Lucas Gabriel | Davi          |
 | `1.1`  | 16/01/2022 | Adição do fluxo de aprender uma aula | Maurício Machado             | Nicolas Souza |
 | `1.2`  | 17/01/2022 | Padronização de legendas             | Maurício Machado             | Nicolas Souza |
-| `2.0`  | 01/02/2023 | Refatoração do documento             | Lucas Gabriel                |               |
+| `2.0`  | 01/02/2023 | Refatoração do documento             | Lucas Gabriel                |   Nicolas Souza            |
