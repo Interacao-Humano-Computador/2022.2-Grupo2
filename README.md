@@ -5,7 +5,7 @@
 Essa página dedica-se aos artefatos produzidos durante a disciplina de Interação Humano Computador (IHC) da Universidade de Brasília (UnB), durante o 2º semestre de 2022. O principal objetivo do projeto desenvolvido pelo grupo na disciplina é avaliar a IHC proposta pelo site [Lichess](https://lichess.org) (Figura 1) e apontar sugestões para resolver os problemas encontrados. O site consiste em uma plataforma de xadrez online, com funcionalidades voltadas para o treinamento e aperfeiçoamento dos jogadores.
 
 <div style="text-align: center">
-<img src="img/logo.png" style="width:15vw"/>
+<img src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" style="width:15vw"/>
 
 <p> Figura 1: Logo do Lichess (Fonte: <a href="https://lichess.org/blog/XeRN0BAAACAA7HJu/a-new-logo-for-lichess"> lichess.org</a>).</p>
 

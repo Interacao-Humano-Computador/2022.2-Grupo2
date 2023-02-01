@@ -22,7 +22,9 @@ A fim de incrementar os dados, criamos uma tabela para padronizar o cronograma.
 | ---------- | ------------- | ----------------------- | ---------------- | ------------- |
 | 01/02/2023 | Lucas Gabriel | Pedro Dionisio de Souza | Plataforma Teams | 10:13 - 10:21 |
 
-Tabela 1: cronograma executado (Fonte: autor, 2022).
+<div style="text-align: center">
+<p>Tabela 1: cronograma executado (Fonte: autor, 2023).</p>
+</div>
 
 ## Participantes
 
@@ -45,7 +47,6 @@ Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 ## Dados obtidos
 
 ### Entrevista 01 - Pedro
-
 
 | Ordenação | Tópico da pergunta | Pergunta                                                                                       | Resposta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tipo de pergunta |
 | --------- | ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -75,6 +76,27 @@ A gravação da entrevista pode ser observada no vídeo abaixo:
 <p>
 Vídeo 1: Entrevista 01 da avaliação da análise de tarefas (Fonte: autor, 2023).
 </p>
+
+| Ordenação | Tópico da pergunta | Pergunta                                                                             | Resposta                                                                                                                                                                          | Tipo de pergunta |
+| --------- | ------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 1°        | -                  | Qual seu nome completo ?                                                             | Pedro Dionisio de Souza                                                                                                                                                           | Fechada          |
+| 2°        | -                  | Qual sua idade ?                                                                     | 19 anos                                                                                                                                                                           | Fechada          |
+| 3°        | -                  | Qual sua ocupação ?                                                                  | Apenas Estudante                                                                                                                                                                  | Fechada          |
+| 4°        | -                  | Qual o seu grau de ensino ?                                                          | Ensino médio completo                                                                                                                                                             | Fechada          |
+| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                       | Familiaridade desde os 10 anos                                                                                                                                                    | Fechada          |
+| 6°        | 1                  | Você utiliza o Lichess no seu dia a dia ?                                            | Sim                                                                                                                                                                               | Fechada          |
+| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess ?             | Em torno de 2 horas por dia aos dias úteis                                                                                                                                        | Fechada          |
+| 8°        | 1                  | Quais são os pontos fortes e fracos do sistema, na sua opinião ?                     | Pontos fortes: Visualização é clara, fácil de acessar recursos, temas didáticos. Pontos fracos: Ocorrência de intermitências, transição entre quebra-cabeças é lenta e "truncada" | Aberta           |
+| 9°        | 1                  | O quanto você se sente motivado a explorar novas funcionalidades dentro do Lichess ? | Em uma situação que surgirem novas ferramentas, novos modos de jogo, com certeza                                                                                                  | Fechada          |
+| 10°       | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                 | Sim                                                                                                                                                                               | Fechada          |
+| 11°       | 2                  | Qual delas você mais gosta ? Por que ?                                               | Me identifiquei mais com o Lichess e não uso mais outra plataforma,  em razão da visualização adaptável e facilidade de usar, nao precisa ter telefone, dados cadastrados, etc.   | Aberta           |
+| 12°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                           | Sim                                                                                                                                                                               | Fechada          |
+| 13°       | 3                  | Você atinge seu objetivo com rapidez ou ocorrem vários erros no processo ?           | Sim, só é demorado quando deve-se esperar outra pessoa para parear e jogar de maneira simultânea                                                                                  | Fechada          |
+| 14°       | 3                  | Que parte da interface e da interação o deixa insatisfeito ?                         | Na pagina inicial os jogos somem rápido e dificl de selecionar o que quer e são pequenos. Informações misturadas e confusas.                                                      | Aberta           |
+| 15°       | 3                  | Você entende o que significa e para que serve cada elemento de interface?            | Sim <br>                                                                                                                                                                          | Fechada          |
+
+<div style="text-align: center">
+<p> Tabela 2: Questões tratadas na entrevista (Fonte: autor, 2023).</p>
 </div>
 
 ## Problemas Encontrados
@@ -83,7 +105,9 @@ De maneira geral os problemas encontrados foram acerca da quantidade de informa�
 
 ## Histórico de Versão
 
+
 | Versão |    Data    |                                                            Descrição                                                             |   Autor(es)   |  Revisor(es)  |
 | :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | `1.0`  | 21/12/2022 |                             Criação da versão inicial do relato de resultados da análise de tarefas                              |  Davi Silva   | Lucas Gabriel |
-| `2.0`  | 01/02/2023 | Nova avaliação da entrevista, a entrevista realizada anteriormente pode ser observada neste [link](https://youtu.be/Zw-8VP50mIo) | Lucas Gabriel |               |
+| `2.0`  | 01/02/2023 | Nova avaliação da entrevista, a entrevista realizada anteriormente pode ser observada neste [link](https://youtu.be/Zw-8VP50mIo) | Lucas Gabriel | Nicolas, Davi |
+
