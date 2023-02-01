@@ -29,6 +29,14 @@ Foram realizadas três entrevistas e os avaliadores e participantes estão lista
 
 - Entrevista 3:  A entrevista foi conduzida pelo avaliador Lucas Gabriel, o qual ficou responsável por gravar a execução do teste, observar o comportamento do usuário, fazer as perguntas e interagircom o usuário simulando o funcionamento do sistema. Para preservar o participante, o nome e idade do entrevistado não será utilizado e será utilizado um nome fictício. O terceiro entrevistado será chamado de Matheus, tem 20 anos e executou o fluxo de jogar uma partida, criando o modo e entrando para jogar contra o computador, aprender, acessando uma aula de xadrez, e resolver problemas de xadrez, resolvendo quebra-cabeças de xadrez, tal entrevistado é um jogador experiente com relação ao xadrez e no sítio eletrônico se encaixando na persona de usuário experiente.
 
+### Termo de consentimento
+
+Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações sensíveis e somente com a devida autorização.
+<br/><br/>
+![Termo de consentimento](./assets/termo_consentimento.jpg)
+
+**Figura 1: Termo de consentimento (Fonte: autor, 2023).**
+
 ## Protótipo de papel
 
 ### Jogar uma partida
