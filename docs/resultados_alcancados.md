@@ -52,4 +52,4 @@ As dificuldades do grupo ao longo do projeto foram:
 
 | Versão | Data       | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ----------- |
-| `1.0`  | 01/02/2023 | Criação do documento | Lucas Gabriel |             |
+| `1.0`  | 01/02/2023 | Criação do documento | Lucas Gabriel | Lucas Macedo            |
