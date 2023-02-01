@@ -12,31 +12,31 @@ Esse documento tem como objetivo relatar como foi realizada a análise de tarefa
 
 A metodologia utilizada para a avaliação foi a entrevista. Apenas um entrevistador integrante do grupo participou, e se responsabilizou pela coleta de informações a partir da gravação.
 
-Na entrevista fora apresentado questões acerca das politicas de termos de consentimento, uma pequena introdução acerca do nosso projeto e que o entrevistado teria total liberdade de não responder caso fosse solicitado.
+Na entrevista foram apresentadas questões acerca das políticas de termos de consentimento, uma pequena introdução acerca do nosso projeto e que o entrevistado teria total liberdade de não responder caso fosse solicitado.
 
 ## Cronograma Executado
 
-Afim de incrementar os dados, criamos uma tabela para padronizar o cronograma.
+A fim de incrementar os dados, criamos uma tabela para padronizar o cronograma.
 
-| Data       | Entrevistador | Entrevistado            | Local            | Horário     |
-| ---------- | ------------- | ----------------------- | ---------------- | ----------- |
-| 20/12/2023 | Lucas Gabriel | Pedro Dionisio de Souza | Plataforma Teams | 18:54-19:06 |
+| Data       | Entrevistador | Entrevistado            | Local            | Horário       |
+| ---------- | ------------- | ----------------------- | ---------------- | ------------- |
+| 01/02/2023 | Lucas Gabriel | Pedro Dionisio de Souza | Plataforma Teams | 10:13 - 10:21 |
 
 <div style="text-align: center">
-<p>Tabela 1: cronograma executado (Fonte: autor, 2022).</p>
+<p>Tabela 1: cronograma executado (Fonte: autor, 2023).</p>
 </div>
 
 ## Participantes
 
-Devido as limitações de horário e agenda, a entrevista foi realizada com apenas 1 participante e cada reunião com dois participantes, o entrevistado e o entrevistador.
+Devido às limitações de horário e agenda, a entrevista foi realizada com apenas 1 participante e cada reunião contou com dois participantes, o entrevistado e o entrevistador.
 
 ### Sumário dos participantes
 
-O entrevistado foi o estudante de engenharia aeroespacial, Pedro Dionisio de 19 anos de idade. Com o ensino médio completo, Pedro tem contato com a tecnologia desde os seus 10 anos de idade. O mesmo, afirma que usa o Lichess todos os dias da semana com exceção de sábado e domingo, com uma média de uso de aproximadamente duas horas por dia.
+O entrevistado foi o estudante de Engenharia  Aeroespacial, Pedro Dionísio de 19 anos de idade. Com o ensino médio completo, Pedro tem contato com a tecnologia desde os seus 10 anos de idade.  O mesmo afirma que usa o Lichess de cinco a seis vezes por semana, com uma média de uso de aproximadamente uma a duas horas por dia.
 
 ## Sumário de dados
 
-Foram coletados dados acerca da funcionalidade do sistema  focados em questões gerais, porém pontos acerca da visibilidade e funcionalidade do sistema foram abordados com maior frequência.
+Foram coletados dados acerca da funcionalidade do sistema focados em questões gerais, porém pontos acerca da visibilidade e funcionalidade do sistema foram abordados com maior frequência.
 
 Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 
@@ -47,6 +47,35 @@ Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 ## Dados obtidos
 
 ### Entrevista 01 - Pedro
+
+| Ordenação | Tópico da pergunta | Pergunta                                                                                       | Resposta                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tipo de pergunta |
+| --------- | ------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 1°        | -                  | Qual seu nome completo ?                                                                       | Pedro Dionisio de Souza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Fechada          |
+| 2°        | -                  | Qual sua idade ?                                                                               | 19 anos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Fechada          |
+| 3°        | -                  | Qual sua ocupação ?                                                                            | Estudante universitário                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Fechada          |
+| 4°        | -                  | Qual o seu grau de ensino ?                                                                    | Ensino médio completo, cursando a primeira graduação no momento                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Fechada          |
+| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                                 | Tenho familiaridade desde bem cedo, há pelo menos 9 anos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Fechada          |
+| 6°        | 1                  | Você já utilizou o Lichess ?                                                                   | Sim                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Fechada          |
+| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess ?                       | Em torno de 1 a 2 horas por dia e de 5 a 6 dias por semana                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Fechada          |
+| 8°        | 1                  | Quais seriam as principais atividades que você realiza no Lichess ?                            | Utilizo o emparelhamento rápido para criar uma partida e resolução de problemas com bastante frequência                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Fechada          |
+| 9°        | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                           | Apenas para fazer algumas consultas, mas não muito                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Fechada          |
+| 10°       | 2                  | Qual delas você mais gosta ? Por que ?                                                         | Gosto mais do Lichess, pois acho mais intuitivo e com menos informações, facilitando a procura de conteúdos, além de ter todas ferramentas que preciso sem necessidade de gastos financeiros                                                                                                                                                                                                                                                                                                                                                                                             | Aberta           |
+| 11°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                                     | Sim                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Fechada          |
+| 12º       | 3                  | Você já realizou o fluxo de jogar uma partida de xadrez no Lichess ?                           | Sim                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Fechada          |
+| 13º       | 3                  | Como foi todo o processo realizado no sítio eletrônico para até se criar a partida de xadrez ? | Geralmente utilizo dois caminhos, um na tela inicial com uma sala de espera, mas costumo evitar esse pois as partidas somem rápido, o outro vou para a aba da esquerda e seleciono "Emparelhamento Rápido" e seleciono o ritmo que quero jogar, geralmente blitz 3+0, além disso, caso eu queira personalizar a partida vou na aba “Jogar” e em seguida “Criar uma partida” e então selecionar a variante, o tempo e a cor que quero jogar.                                                                                                                                              | Aberta           |
+| 14º       | 3                  | Você já realizou o fluxo de aprender a jogar xadrez no Lichess ?                               | Sim                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Fechada          |
+| 15º       | 3                  | Como foi todo o processo realizado no sítio eletrônico para aprender a jogar xadrez?           | Fui na aba “Aprender”, na opção de básicos, mas não foi muito útil para mim, pois já conheço os princípios do jogo, na parte de “Coordenadas” achei interessante a funcionalidade, mas um problema é que existe muito texto, na parte de “Praticar” achei muito interessante pois existem muitas opções categorizadas facilitando o processo, a parte de “Estudar” foi feita pela comunidade, então não tenho costume de utilizar, pois os textos são pequenos e possui muita informação, já parte de “Treinadores” achei bem interessante, pois possui as informações de cada treinador |                  |
+| Aberta    |                    |                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                  |
+
+## Gravação da entrevista
+A gravação da entrevista pode ser observada no vídeo abaixo:
+
+<iframe width="1000vw" height="400vh" src="https://youtu.be/Vz3PlvSRCAE" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p>
+Vídeo 1: Entrevista 01 da avaliação da análise de tarefas (Fonte: autor, 2023).
+</p>
 
 | Ordenação | Tópico da pergunta | Pergunta                                                                             | Resposta                                                                                                                                                                          | Tipo de pergunta |
 | --------- | ------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -67,16 +96,18 @@ Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 | 15°       | 3                  | Você entende o que significa e para que serve cada elemento de interface?            | Sim <br>                                                                                                                                                                          | Fechada          |
 
 <div style="text-align: center">
-<p> Tabela 2: Questões tratadas na entrevista (Fonte: autor, 2022).</p>
+<p> Tabela 2: Questões tratadas na entrevista (Fonte: autor, 2023).</p>
 </div>
 
 ## Problemas Encontrados
 
-De maneira geral os problemas encontrados foram acerca da quantidade de informação contida nas páginas iniciais oque de certa forma nao tinham sua encontrabilidade muito acentuada, e também o fato de muitas vezes o sistema estar lotado e os modos de jogo sumirem rapidamente devido a alta demanda.
+De maneira geral os problemas encontrados foram acerca da quantidade de informação contida nas páginas iniciais o que de certa forma não tinham sua encontrabilidade muito acentuada, e também o fato de muitas vezes o sistema estar lotado e os modos de jogo sumirem rapidamente devido a alta demanda.
 
 ## Histórico de Versão
 
-| Versão |    Data    |                                Descrição                                | Autor(es)  |  Revisor(es)  |
-| :----: | :--------: | :---------------------------------------------------------------------: | :--------: | :-----------: |
-| `1.0`  | 21/12/2022 | Criação da versão inicial do relato de resultados da análise de tarefas | Davi Silva | Lucas Gabriel |
-| `1.1`  | 26/01/2023 |              Padronização das tabelas e ajuste do artefato              | Davi Silva | Lucas Gabriel |
+
+| Versão |    Data    |                                                            Descrição                                                             |   Autor(es)   |  Revisor(es)  |
+| :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+| `1.0`  | 21/12/2022 |                             Criação da versão inicial do relato de resultados da análise de tarefas                              |  Davi Silva   | Lucas Gabriel |
+| `2.0`  | 01/02/2023 | Nova avaliação da entrevista, a entrevista realizada anteriormente pode ser observada neste [link](https://youtu.be/Zw-8VP50mIo) | Lucas Gabriel | Nicolas, Davi |
+
