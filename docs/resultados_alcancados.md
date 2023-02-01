@@ -18,9 +18,9 @@ Esse trabalho teve como objetivo principal contribuir de forma prática na aquis
 
 Ao decorrer do projeto os membros puderam praticar seus conhecimentos através da elaboração de artefatos de Planejamento, Análise de Requisitos, Design, Avaliação e Desenvolvimento e Verificação, assim passando por algumas etapas nas quais foi necessário o contato com usuários reais. Ante o exposto, foi possível que todos os membros do grupo aprendessem o conteúdo unindo teoria e prática, assim facilitando o entendimento do conteúdo e realizando todas as atividades propostas para o grupo durante a disciplina.
 
-O artefato de Planejamento foi essencial, ainda que inicialmente incompleto e incondizente com a realidade devido à falta de experiência do grupo com elaboração de projetos relacionados a Interação Humano-Computador.
+O artefato de Planejamento foi essencial, ainda que inicialmente incompleto e incondizente com a realidade devido à falta de experiência do grupo com elaboração de projetos relacionados à Interação Humano-Computador.
 A fase de Análise de Requisitos permitiu que o grupo tivesse um contato inicial com usuários reais da plataforma de modo que foi possível entender melhor suas necessidades com relação ao software produzido e ajudou o grupo a por em prática os conhecimentos adquiridos ao longo do semestre, de forma análoga na etapa de Design, Avaliação e Desenvolvimento o grupo adquirir conhecimentos práticos e teóricos, por meio do contato com usuários, desenvolvimentos de protótipos de baixa e alta fidelidade.
-Já na fase de verificação o grupo pode identificar o que precisaria ser melhorado, assim como durantes as apresentações de ponto de controle.
+Já na fase de verificação o grupo pode identificar o que precisaria ser melhorado, assim como durante as apresentações de ponto de controle.
 
 Dessarte, a conclusão desse trabalho permitiu que o grupo aprendesse a matéria, entendesse melhor o ciclo de vida de um software, principalmente com relação ao Design, validando-se do detalhamento do Ciclo de vida da Mayhew.
 
