@@ -342,5 +342,4 @@ Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 | `1.1`  | 30/01/2023 | Inclusão das seções de planejamento, síntese das avaliações e verificação dos artefatos                                | Nicolas Souza    | Lucas Gabriel |
 | `1.2`  | 30/01/2023 | Inclusão das ferramentas                                                                                               | Lucas Macedo     | Nicolas Souza |
 | `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva    | Lucas Gabriel |
-| `1.4`  | 31/01/2023 | Inclusão síntese cronogramas                                                                                           | Maurício Machado | Lucas Gabriel |
-Lucas Macedo, Nicolas, Lucas Gabriel, Mauricio, Davi
+| `1.4`  | 31/01/2023 | Inclusão síntese cronogramas | Maurício Machado | Lucas Gabriel |
