@@ -37,23 +37,23 @@ O intuito dessa avaliação é coletar dados dos interessados no sistema (stakeh
 
 As perguntas elaboradas têm como base a "Tabela 11.1: Exemplos de perguntas que uma avaliação de IHC pode responder" do livro "Interação Humano-Computador e Experiência do Usuário" de Simone D. J. Barbosa e Bruno Santana da Silva.
 
-| Ordenação | Tópico da pergunta | Pergunta                                                                                                    | Resposta possível                                                                         | Tipo de pergunta |
-| --------- | ------------------ | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- |
-| 1°        | -                  | Qual seu nome completo ?                                                                                    | Resposta discursiva                                                                       | Fechada          |
-| 2°        | -                  | Qual sua idade ?                                                                                            | Resposta discursiva                                                                       | Fechada          |
-| 3°        | -                  | Qual sua ocupação ?                                                                                         | Resposta discursiva                                                                       | Fechada          |
-| 4°        | -                  | Qual o seu grau de ensino ?                                                                                 | Resposta discursiva                                                                       | Fechada          |
-| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                                              | Resposta discursiva                                                                       | Fechada          |
-| 6°        | 1                  | Você utiliza o Lichess no seu dia a dia ?                                                                   | - Sim <br> - Não <br>❗Caso a resposta seja não, não se deve realizar as outras perguntas | Fechada          |
-| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess, por favor justifique sua resposta ? | Resposta discursiva                                                                       | Fechada          |
-| 8°        | 1                  | Quais são os pontos fortes e fracos do sistema, na sua opinião ?                                            | Resposta discursiva                                                                       | Aberta           |
-| 9°        | 1                  | O quanto você se sente motivado a explorar novas funcionalidades dentro do Lichess ?                        | Resposta discursiva                                                                       | Fechada          |
-| 10°       | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                                        | - Sim <br> - Não  <br>❗Caso  resposta seja não, não se deve realizar a pergunta 11       | Fechada          |
-| 11°       | 2                  | Qual delas você mais gosta ? Por que ?                                                                      | Resposta discursiva                                                                       | Aberta           |
-| 12°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                                                  | - Sim <br> - Não <br>                                                                     | Fechada          |
-| 13°       | 3                  | Você atinge seu objetivo com rapidez ou ocorrem vários erros no processo ?                                  | Resposta discursiva                                                                       | Fechada          |
-| 14°       | 3                  | Que parte da interface e da interação o deixa insatisfeito ?                                                | Resposta discursiva                                                                       | Aberta           |
-| 15°       | 3                  | Você entende o que significa e para que serve cada elemento de interface do sítio eletrônico do Lichess?    | - Sim <br> - Não <br>                                                                     | Fechada          |
+| Ordenação | Tópico da pergunta | Pergunta                                                                                       | Resposta possível                                                                         | Tipo de pergunta |
+| --------- | ------------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------- |
+| 1°        | -                  | Qual seu nome completo ?                                                                       | Resposta discursiva                                                                       | Fechada          |
+| 2°        | -                  | Qual sua idade ?                                                                               | Resposta discursiva                                                                       | Fechada          |
+| 3°        | -                  | Qual sua ocupação ?                                                                            | Resposta discursiva                                                                       | Fechada          |
+| 4°        | -                  | Qual o seu grau de ensino ?                                                                    | Resposta discursiva                                                                       | Fechada          |
+| 5°        | -                  | Qual seu grau de experiência com tecnologias ?                                                 | Resposta discursiva                                                                       | Fechada          |
+| 6°        | 1                  | Você já utilizou o Lichess ?                                                                   | - Sim <br> - Não <br>❗Caso a resposta seja não, não se deve realizar as outras perguntas | Fechada          |
+| 7°        | 1                  | Quantas horas por dia e quantas vezes na semana você utiliza o Lichess ?                       | Resposta discursiva                                                                       | Fechada          |
+| 8°        | 1                  | Quais seriam as principais atividades que você realiza no Lichess ?                            | Resposta discursiva                                                                       | Fechada          |
+| 9°        | 2                  | Você costuma utilizar outras plataformas de xadrez ?                                           | - Sim <br> - Não  <br>❗Caso  resposta seja não, não se deve realizar a pergunta 10       | Fechada          |
+| 10°       | 2                  | Qual delas você mais gosta ? Por que ?                                                         | Resposta discursiva                                                                       | Aberta           |
+| 11°       | 3                  | Você consegue operar o sistema do Lichess com facilidade ?                                     | - Sim <br> - Não <br>                                                                     | Fechada          |
+| 12º       | 3                  | Você já realizou o fluxo de jogar uma partida de xadrez no Lichess ?                           | - Sim <br> - Não <br> ❗Caso  resposta seja não, não se deve realizar a pergunta 13       | Fechada          |
+| 13º       | 3                  | Como foi todo o processo realizado no sítio eletrônico para até se criar a partida de xadrez ? | Resposta discursiva                                                                       | Aberta           |
+| 14º       | 3                  | Você já realizou o fluxo de aprender a jogar xadrez no Lichess ?                               | - Sim <br> - Não <br> ❗Caso  resposta seja não, não se deve realizar a pergunta 15       | Fechada          |
+| 15º       | 3                  | Como foi todo o processo realizado no sítio eletrônico para aprender a jogar xadrez?           | Resposta discursiva                                                                       | Aberta           |
 
 <div style="text-align: center">
 <p> Tabela 2: Questões a serem tratadas na entrevista (Fonte: [1], 2022).</p>
@@ -69,45 +69,45 @@ O recrutamento de usuários que participarão da avaliação será feito por mei
 
 Entrevista 1
 
-| Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
-| :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams |
+| Entrevistadores |              Entrevistado              |    Data    | Horário de início  e fim | Local            |
+| :-------------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|  Lucas Gabriel  | (Integrante do clube de xadrez da UnB) | 20/12/2022 |          19:00           | Plataforma Teams |
 <div style="text-align: center">
 <p> Tabela 3: Cronograma da entrevista 1 (Fonte: [1], 2022).</p>
 </div>
 
 Entrevista 2
 
-| Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
-| :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams
+| Entrevistadores |              Entrevistado              |    Data    | Horário de início  e fim | Local            |
+| :-------------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|     Nicolas     | (Integrante do clube de xadrez da UnB) | 20/12/2022 |          12:30           | Plataforma Teams |
 <div style="text-align: center">
 <p> Tabela 4: Cronograma da entrevista 2 (Fonte: [1], 2022).</p>
 </div>
 
 Entrevista 3
 
-| Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
-| :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams |
+| Entrevistadores |              Entrevistado              |    Data    | Horário de início  e fim | Local            |
+| :-------------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|  Lucas Gabriel  | (Integrante do clube de xadrez da UnB) | 20/12/2022 |          20:00           | Plataforma Teams |
 <div style="text-align: center">
 <p> Tabela 5: Cronograma da entrevista 3 (Fonte: [1], 2022).</p>
 </div>
 
 Entrevista 4
 
-| Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
-| :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams |
+| Entrevistadores |              Entrevistado              |    Data    | Horário de início  e fim | Local            |
+| :-------------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|    Mauricio     | (Integrante do clube de xadrez da UnB) | 20/12/2022 |          12:30           | Plataforma Teams |
 <div style="text-align: center">
 <p> Tabela 6: Cronograma da entrevista 4 (Fonte: [1], 2022).</p>
 </div>
 
 Entrevista 5
 
-| Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
-| :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams |
+| Entrevistadores |              Entrevistado              |    Data    | Horário de início  e fim | Local            |
+| :-------------: | :------------------------------------: | :--------: | :----------------------: | ---------------- |
+|  Lucas Macedo   | (Integrante do clube de xadrez da UnB) | 20/12/2022 |          12:30           | Plataforma Teams |
 <div style="text-align: center">
 <p> Tabela 7: Cronograma da entrevista 5 (Fonte: [1], 2022).</p>
 </div>
@@ -140,6 +140,7 @@ O teste piloto será realizado por dois avaliadores como se fosse uma sessão no
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição            | Autor(es)     | Revisor(es) |
-| ------ | ----- | -------------------- | ------------- | ----------- |
-| `1.0`  | 13/12/2022 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
+| Versão | Data       | Descrição                   | Autor(es)     | Revisor(es)   |
+| ------ | ---------- | --------------------------- | ------------- | ------------- |
+| `1.0`  | 13/12/2022 | Criação do documento        | Lucas Gabriel | Nicolas Souza |
+| `2.0`  | 01/02/2023 | Modificação no questionário | Lucas Gabriel |               |
