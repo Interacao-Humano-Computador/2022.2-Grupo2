@@ -8,7 +8,7 @@ Durante o segundo semestre de 2022, o grupo 2 da disciplina Interação Humano C
 
 Antes do início do projeto, a equipe de trabalho reuniu-se presencialmente, durante a aula de Interação Humano Computador, para definir as ferramentas de comunicação e horários das reuniões semanais. Então, durante as primeiras reuniões, foram definidas a [metodologia de trabalho](planejamento/metodologias.md), o [cronograma](planejamento/cronograma.md) e as [ferramentas](planejamento/tools.md) utilizadas durante o projeto. Além disso, cada integrante fez a [avaliação heurística de um sítio](planejamento/sites_avaliados.md), que serviu de base para a definição do [sítio escolhido](planejamento/app_selected.md).
 
-A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que elaborados ao longo do semestre. Na tabela 2 temos a sintetização do artefato de ferramenta utilizadas no projeto
+A Tabela 1 sintetiza os artefatos referentes ao planejamento da equipe, que foram elaborados ao longo do semestre.
 
 <center>
 
@@ -107,6 +107,8 @@ Ao início do projeto a equipe planejou as datas para cada uma das atividades qu
 
 ## Ferramentas
 
+Na tabela 2 temos a sintetização do artefato de ferramenta utilizadas no projeto.
+
 <center>
   
 |        Ferramentas        |    Em qual etapa foi utilizado    |                                        Motivo pelo qual foi utilizado                                         |
@@ -179,7 +181,7 @@ As atividades de Design, Avaliação e Desenvolvimento dividem-se em três níve
 
 O primeiro nível dessa etapa consiste em uma análise conceitual, e durante a execução do trabalhou essa análise esteve focada nas tarefas que o usuário irá desenvolver no sistema e suas motivações para utilizá-lo, representadas, respectivamente, pela [Análise de Tarefas](analise_requisitos/analise_tarefas.md#analise-da-tarefa-aprender-a-jogar-xadrez) e pelos [Storyboards](design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md#storyboards-desenvolvidos). Afim de certificar que as expectativas dos usuários foram alcançadas, realizou-se a avaliação dos artefatos elaborados, por meio de entrevistas com usuários do sítio [Lichess](https://lichess.org) dentro do [perfil de usuário](analise_requisitos/perfil_usuario.md) previamente determinado.
 
-O primeiro nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na Tabela 3.
+O primeiro nível do processo de design, avaliação e desenvolvimento foi documentado por meio dos artefatos presentes na Tabela 5.
 
 <center>
 
@@ -194,7 +196,7 @@ O primeiro nível do processo de design, avaliação e desenvolvimento foi docum
 
 <div style="text-align: center">
 <p>
-Tabela 3: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 1)
+Tabela 5: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 1)
 (Fonte: autor, 2023).
 </p>
 </div>
@@ -205,7 +207,7 @@ Tabela 3: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 Após o nível conceitual, o designer parte para a elaboração de padrões de design de IHC para a solução que está sendo concebida, que são validados por meio da avaliação de protótipos de média fidelidade. Para validar os padrões desenvolvidos durante o projeto. Optou-se pelo uso de [protótipos de papel](design_avaliacao_desenvolvimento/nivel_2/relato_resultados_prototipo_papel.md#prototipo-de-papel) para validar com o usuário os padrões de design desenvolvidos.
 
-A Tabela 4 sintetiza os artefatos elaborados durante essa etapa do projeto.
+A Tabela 6 sintetiza os artefatos elaborados durante essa etapa do projeto.
 
 <center>
 
@@ -216,7 +218,7 @@ A Tabela 4 sintetiza os artefatos elaborados durante essa etapa do projeto.
 
 <div style="text-align: center">
 <p>
-Tabela 4: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 2)
+Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 2)
 (Fonte: autor, 2023).
 </p>
 </div>
@@ -227,7 +229,7 @@ Tabela 4: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 No último nível da etapa de Design, Avaliação e Desenvolvimento, o designer elabora o projeto detalhado da interface, tendo como base os requisitos identificados na [Análise de Requisitos](./#analise-de-requisitos), esse projeto foi representado por meio de um [Protótipo de Alta Fidelidade](design_avaliacao_desenvolvimento/nivel_3/resultados_alta_fidelidade.md#prototipo-de-alta-fidelidade) e em seguida a interface foi avaliada com a participação de usuários, por meio de um teste de usabilidade.
 
-A Tabela 5 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
+A Tabela 7 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 
 <center>
 
@@ -239,7 +241,7 @@ A Tabela 5 sintetiza os artefatos desenvolvidos durante essa etapa do projeto.
 
 <div style="text-align: center">
 <p>
-Tabela 5: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
+Tabela 7: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
 (Fonte: autor, 2023).
 </p>
 </div>
@@ -248,7 +250,7 @@ Tabela 5: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (níve
 
 ## Síntese das Avaliações
 
-Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 6 sintetiza a aplicação dessas atividades.
+Durante a execução do projeto, foram elaboradas algumas avaliações de protótipos e modelos conceituais (storyboard e análise de tarefas) e a tabela 8 sintetiza a aplicação dessas atividades.
 
 <center>
 
@@ -261,7 +263,7 @@ Durante a execução do projeto, foram elaboradas algumas avaliações de protó
 
 <div style="text-align: center">
 <p>
-Tabela 6: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
+Tabela 8: Síntese dos artefatos de Design, Avaliação e Desenvolvimento (nível 3)
 (Fonte: autor, 2023).
 </p>
 </div>
@@ -288,7 +290,7 @@ A tabela a seguir mostra os artefatos e as técnicas utilizadas para sua criaç�
 
 <div style="text-align: center">
 <p>
-Tabela 7: Técnicas Utilizadas
+Tabela 9: Técnicas Utilizadas
 (Fonte: autor, 2023).
 </p>
 </div>
@@ -297,7 +299,7 @@ Tabela 7: Técnicas Utilizadas
 
 ## Verificação dos Artefatos
 
-A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 8 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
+A verificação será feita por meio da inspeção, com base na proposta de Fagan [3], utilizando um checklist de erros mais comuns que podem ser identificados em projetos, tomando como base os projetos anteriores da disciplina de [Interação Humano Computador](https://github.com/Interacao-Humano-Computador), os critérios do Plano de Ensino [2], a bibliografia da disciplina [1] e os feedbacks dos monitores. A Tabela 10 sintetiza os responsáveis pela elaboração dos checklists para cada artefato, nos artefatos de planejamento, e execução das verificações, nos artefatos de resultados.
 
 <center>
 
@@ -318,7 +320,7 @@ A verificação será feita por meio da inspeção, com base na proposta de Faga
 
 <div style="text-align: center">
 <p>
-Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
+Tabela 10: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -326,13 +328,50 @@ Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 
 ## Resultados Alcançados
 
-<!-- @TODO: incluir os resultados alcançados com a execução do projeto, as facilidades e dificuldades  -->
+Esta seção apresenta os resultados alcançados durante o trabalho realizado na disciplina de Interação Humano-Computador e lista os pontos positivos e negativos identificados pelo Grupo 2, responsável pelo repositório de análise do sítio eletrônico Lichess. O documento tem como objetivo apresentar uma dissertação a respeito dos resultados do grupo ao longo do projeto e se o objetivo inicial do grupo foi atingido, além de identificar as razões do sucesso ou insucesso de tal projeto.
+
+### Objetivo do projeto
+
+Esse trabalho teve como objetivo principal contribuir de forma prática na aquisição de conhecimento dos integrantes do Grupo 2, com a realização de atividades práticas, para isso foi escolhido um Sistema web no qual o grupo pode exercer os conhecimentos adquiridos ao longo do semestre na disciplina de Interação Humano-Computador de forma prática.
+
+### Resultados
+
+Ao decorrer do projeto os membros puderam praticar seus conhecimentos através da elaboração de artefatos de Planejamento, Análise de Requisitos, Design, Avaliação e Desenvolvimento e Verificação, assim passando por algumas etapas nas quais foi necessário o contato com usuários reais. Ante o exposto, foi possível que todos os membros do grupo aprendessem o conteúdo unindo teoria e prática, assim facilitando o entendimento do conteúdo e realizando todas as atividades propostas para o grupo durante a disciplina.
+
+O artefato de Planejamento foi essencial, ainda que inicialmente incompleto e inconsistente com a realidade devido à falta de experiência do grupo com elaboração de projetos relacionados à Interação Humano-Computador.
+A fase de Análise de Requisitos permitiu que o grupo tivesse um contato inicial com usuários reais da plataforma de modo que foi possível entender melhor suas necessidades com relação ao software produzido e ajudou o grupo a por em prática os conhecimentos adquiridos ao longo do semestre, de forma análoga na etapa de Design, Avaliação e Desenvolvimento o grupo adquirir conhecimentos práticos e teóricos, por meio do contato com usuários, desenvolvimentos de protótipos de baixa e alta fidelidade.
+Já na fase de verificação o grupo pode identificar o que precisaria ser melhorado, assim como durante as apresentações de ponto de controle.
+
+Dessarte, a conclusão desse trabalho permitiu que o grupo aprendesse a matéria, entendesse melhor o ciclo de vida de um software, principalmente com relação ao Design, validando-se do detalhamento do Ciclo de vida da Mayhew.
+
+### Facilidades
+
+As facilidades do grupo ao longo do projeto foram:
+
+- Facilidade de pesquisa devido à grande quantidade de materiais pertinentes disponibilizados pelo professor.
+- Conhecimento adquirido ao longo do Curso de Engenharia de Software, com relação a ferramentas como o GitHub.
+- Trabalho colaborativo entre os membros do grupo que foi essencial para a conclusão do projeto da disciplina.
+
+### Dificuldades
+
+As dificuldades do grupo ao longo do projeto foram:
+
+- Dificuldade de horários em comum para realização de gravações de entregas.
+- Dificuldade de encontrar usuários do aplicativo escolhido dispostos a participar de atividades para melhoria do projeto.
+- Curto espaço de tempo entre entregas, dificultando a entregas de pontos de controles, apesar do planejamento, devido à grande quantidade de atividades que os membros possuíam com relação à universidade e/ou trabalho.
+
+## Agradecimentos
+
+- Agradecimento ao professor, André Barros pelas aulas, extremamente didáticas e por sua disponibilidade para ajudar os alunos a entender melhor o conteúdo ministrado.
+- Agradecimento à monitora Clara Marcelino pelas avaliações das entregas feitas pelo grupo e disponibilidade para ajuda com dúvidas.
+- Agradecimento aos membros do Grupo 2 que tornaram esse projeto possível.
 
 ## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.<br/>
 [2] Plano de Ensino da disciplina Interação Humano Computador.<br/>
 [3] Gerência e Qualidade de Software - Aula 06 - Técnica de revisão – UNIVESP<br/>
+[4] RESULTADOS alcançados. [S. l.], 9 nov. 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.1-Dominio-Publico/#/faseFinal/resultadosAlcancados>. Acesso em: 1 fev. 2023.
 
 ## Histórico de Versão
 
@@ -343,3 +382,4 @@ Tabela 8: Síntese dos artefatos de Verificação (Fonte: autor, 2023).
 | `1.2`  | 30/01/2023 | Inclusão das ferramentas                                                                                               | Lucas Macedo     | Nicolas Souza |
 | `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva    | Lucas Gabriel |
 | `1.4`  | 31/01/2023 | Inclusão síntese cronogramas | Maurício Machado | Lucas Gabriel |
+| `1.5` | 01/02/2023 | Inclusão da seção de resultados alcançados e agradecimentos | Lucas Gabriel | Nicolas Souza
