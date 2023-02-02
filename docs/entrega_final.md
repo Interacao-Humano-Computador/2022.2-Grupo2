@@ -386,4 +386,4 @@ As dificuldades do grupo ao longo do projeto foram:
 | `1.3`  | 31/01/2023 | Inclusão das técnicas utilizadas                                                                                       | Davi Silva       | Lucas Gabriel |
 | `1.4`  | 31/01/2023 | Inclusão síntese cronogramas                                                                                           | Maurício Machado | Lucas Gabriel |
 | `1.5`  | 01/02/2023 | Inclusão da seção de resultados alcançados e agradecimentos                                                            | Lucas Gabriel    | Nicolas Souza |
-| `1.6`  | 02/02/2023 | Correção nos autores e revisores dos artefatos                                                                         | Lucas Gabriel    | Nicolas Souza |
+| `1.6`  | 02/02/2023 | Correção nos autores e revisores dos artefatos                                                                         | Lucas Gabriel    | Lucas Gabriel |
