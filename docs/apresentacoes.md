@@ -108,6 +108,19 @@ Vídeo 8: Apresentação da etapa 8 do projeto
 </div>
 <br>
 
+## Entrega Final
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XUnk_CAxrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+[Entrega Final](https://youtu.be/8XUnk_CAxrE)
+
+<div style="text-align: center">
+Vídeo 9: Apresentação da entrega final
+</div>
+<br>
+
 ## Histórico de versão do arquivo
 
 |    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
@@ -119,3 +132,4 @@ Vídeo 8: Apresentação da etapa 8 do projeto
 | 21/12/2022 | `1.4`  | Adição da apresentação 5 | Lucas Macedo |   Mauricio Machado    |
 | 21/12/2022 | `1.5`  | Adição da apresentação 6 e 7 | Lucas Macedo |   Nicolas Souza  |
 | 25/01/2023 | `1.6`  | Adição da apresentação 8 | Nicolas Souza    |   Lucas Macedo    |
+| 25/01/2023 | `2.0`  | Adição da entrega final | Lucas Macedo    |   Nicolas Souza    |
