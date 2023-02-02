@@ -28,14 +28,15 @@ Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 
-|                   Atividade                    | Data de Entrega | Data da Revisão |                  Autor(es)                  | Revisor(es)  |
-| :--------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :----------: |
-|               Perfil do usuário                |   26/11/2022    |   28/11/2022    |                  Maurício                   | Lucas Macedo |
-|                    Personas                    |   30/11/2022    |   01/12/2022    |                  Mauricio                   | Lucas Macedo |
-|         Analise de tarefas de usuário          |   27/11/2022    |   28/11/2022    |                   Nicolas Souza                 | Lucas Macedo |
-| Aspectos éticos de pesquisa envolvendo pessoas |   23/11/2022    |   24/11/2022    |                Lucas Gabriel                |     Davi     |
-|            Gravação da apresentação            |   04/12/2022    |   04/12/2022    | Davi, Lucas G., Lucas M., Maurício, Nicolas |   Maurício   |
-|             Edição da apresentação             |   04/12/2022    |   04/12/2022    |                  Mauricio                   |   Nicolas Souza  |
+|                   Atividade                    | Data de Entrega | Data da Revisão |                  Autor(es)                  |  Revisor(es)  |
+| :--------------------------------------------: | :-------------: | :-------------: | :-----------------------------------------: | :-----------: |
+|               Perfil do usuário                |   26/11/2022    |   28/11/2022    |                  Maurício                   | Lucas Macedo  |
+|                    Personas                    |   30/11/2022    |   01/12/2022    |                  Mauricio                   | Lucas Macedo  |
+|         Analise de tarefas de usuário          |   27/11/2022    |   28/11/2022    |                Nicolas Souza                | Lucas Macedo  |
+| Aspectos éticos de pesquisa envolvendo pessoas |   23/11/2022    |   24/11/2022    |                Lucas Gabriel                |     Davi      |
+|                    Cenários                    |   26/01/2023    |   26/01/2023    |                Lucas Gabriel                | Nicolas Souza |
+|            Gravação da apresentação            |   04/12/2022    |   04/12/2022    | Davi, Lucas G., Lucas M., Maurício, Nicolas |   Maurício    |
+|             Edição da apresentação             |   04/12/2022    |   04/12/2022    |                  Mauricio                   | Nicolas Souza |
 
 <div style="text-align: center">
 <p> Tabela 2: Cronograma realizado do Ponto de Controle 2 (Fonte: autor, 2022).</p>
@@ -147,3 +148,4 @@ Na Tabela 7, temos as entregas realizadas para o Ponto de Controle 7.
 | `1.4`  | 14/12/2022 |          Adição do terceiro e quarto cronograma de ponto de controle          |   Lucas Macedo   | Nicolas Souza |
 | `1.5`  | 17/01/2023 |         Alteração dos cabeçalhos das tabelas de Data Limite para Data         |  Nicolas Souza   | Lucas Gabriel |
 | `1.6`  | 24/01/2023 | Adição dos cronogramas realizados referentes aos pontos de controles 5, 6 e 7 |   Lucas Macedo   | Nicolas Souza |
+| `1.7`  | 02/02/2023 |                Correção nos autores e revisores dos artefatos                 |  Lucas Gabriel   | Nicolas Souza |
