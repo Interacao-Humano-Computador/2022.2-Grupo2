@@ -1,0 +1,2338 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../planejamento_do_relato_de_resultados/">
+      
+      
+        <link rel="next" href="../../nivel_3/planejamento_alta_fidelidade/">
+      
+      <link rel="icon" href="../../../img/logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.0">
+    
+    
+      
+        <title>Relato dos resultados - Lichess</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.402914a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.a0c5b2b5.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#relato-de-resultados-do-prototipo-de-papel" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Lichess" class="md-header__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lichess
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Relato dos resultados
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema escuro"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Tema escuro" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema claro"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Tema claro" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Interacao-Humano-Computador/2022.2-Lichess" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Lichess" class="md-nav__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../../img/logo.png" alt="logo">
+
+    </a>
+    Lichess
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Interacao-Humano-Computador/2022.2-Lichess" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_01_11/" class="md-nav__link">
+        01/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_10_11/" class="md-nav__link">
+        10/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_15_11/" class="md-nav__link">
+        15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_22_11/" class="md-nav__link">
+        22/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_29_11/" class="md-nav__link">
+        29/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_06_12/" class="md-nav__link">
+        06/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_13_12/" class="md-nav__link">
+        13/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_20_12/" class="md-nav__link">
+        20/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_03_01/" class="md-nav__link">
+        03/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_18_01/" class="md-nav__link">
+        18/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../atas/ata_25_01/" class="md-nav__link">
+        25/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/tools/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/metodologias/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/sites_avaliados/" class="md-nav__link">
+        Sítios avaliados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_6" id="__nav_3_6_label" tabindex="0">
+          Avaliação dos sítios
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Avaliação dos sítios
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/s%C3%ADtios_avaliados/resultados_tse/" class="md-nav__link">
+        Resultados TSE
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/s%C3%ADtios_avaliados/resultados_age_telecom/" class="md-nav__link">
+        Resultados Age Telecom
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/s%C3%ADtios_avaliados/resultados_lichess.pdf" class="md-nav__link">
+        Resultados Lichess
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/app_selected/" class="md-nav__link">
+        Sítio selecionado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../planejamento/processo_de_design/" class="md-nav__link">
+        Processo de Design
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/aspectos_eticos/" class="md-nav__link">
+        Aspectos éticos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/principios_gerais/" class="md-nav__link">
+        Princípios Gerais do Projeto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/perfil_usuario/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/metas_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/mapa_empatia/" class="md-nav__link">
+        Mapa de Empatia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/analise_tarefas/" class="md-nav__link">
+        Análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/guia_de_estilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../analise_requisitos/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Design, Avaliação e Desenvolvimento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+          Nível 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1_1" id="__nav_5_1_1_label" tabindex="0">
+          Storyboard
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/storyboard/planejamento_avaliacao/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/storyboard/planejamento_relato/" class="md-nav__link">
+        Planejamento do Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/storyboard/relato_resultados/" class="md-nav__link">
+        Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1_2" id="__nav_5_1_2_label" tabindex="0">
+          Análise de tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/analise_tarefas/planejamento_avaliacao/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas/" class="md-nav__link">
+        Planejamento do Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_1/analise_tarefas/relato_resultados_analise/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+          Nível 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_2_1" id="__nav_5_2_1_label" tabindex="0">
+          Protótipo de papel
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_5_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de papel
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento_avaliacao_prototipo_baixa_fidelidade/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento_do_relato_de_resultados/" class="md-nav__link">
+        Planejamento do Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Relato dos resultados
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Relato dos resultados
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologias" class="md-nav__link">
+    Metodologias
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#avaliadores-e-participantes" class="md-nav__link">
+    Avaliadores e participantes
+  </a>
+  
+    <nav class="md-nav" aria-label="Avaliadores e participantes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#termo-de-consentimento" class="md-nav__link">
+    Termo de consentimento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prototipo-de-papel" class="md-nav__link">
+    Protótipo de papel
+  </a>
+  
+    <nav class="md-nav" aria-label="Protótipo de papel">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jogar-uma-partida" class="md-nav__link">
+    Jogar uma partida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acessar-uma-aula-de-xadrez-criada-por-usuarios" class="md-nav__link">
+    Acessar uma aula de xadrez criada por usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resolver-problemas-de-xadrez" class="md-nav__link">
+    Resolver problemas de xadrez
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teste-piloto" class="md-nav__link">
+    Teste piloto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-1" class="md-nav__link">
+    Entrevista 1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-2" class="md-nav__link">
+    Entrevista 2
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-3" class="md-nav__link">
+    Entrevista 3
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    Conclusão
+  </a>
+  
+    <nav class="md-nav" aria-label="Conclusão">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-1" class="md-nav__link">
+    Conclusão entrevista 1:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-2" class="md-nav__link">
+    Conclusão entrevista 2:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-3" class="md-nav__link">
+    Conclusão entrevista 3:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+          Nível 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_3_1" id="__nav_5_3_1_label" tabindex="0">
+          Protótipo de Alta Fidelidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de Alta Fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_3/planejamento_alta_fidelidade/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_3/planejamento_relato_resultados_alta_fidelidade/" class="md-nav__link">
+        Planejamento do Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../nivel_3/resultados_alta_fidelidade/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+          Ponto de Controle 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc1-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc1-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+          Ponto de Controle 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc2-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc2-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          Ponto de Controle 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc3-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc3-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+          Ponto de Controle 4
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 4
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc4-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc4-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
+          Ponto de Controle 5
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc5-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc5-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_6" id="__nav_6_6_label" tabindex="0">
+          Ponto de Controle 7
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_6_6">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto de Controle 7
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc7-planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../verificacao_validacao/pc7-resultados/" class="md-nav__link">
+        Relato dos Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../entrega_final/" class="md-nav__link">
+        Entrega Final
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos" class="md-nav__link">
+    Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologias" class="md-nav__link">
+    Metodologias
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#avaliadores-e-participantes" class="md-nav__link">
+    Avaliadores e participantes
+  </a>
+  
+    <nav class="md-nav" aria-label="Avaliadores e participantes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#termo-de-consentimento" class="md-nav__link">
+    Termo de consentimento
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prototipo-de-papel" class="md-nav__link">
+    Protótipo de papel
+  </a>
+  
+    <nav class="md-nav" aria-label="Protótipo de papel">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jogar-uma-partida" class="md-nav__link">
+    Jogar uma partida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acessar-uma-aula-de-xadrez-criada-por-usuarios" class="md-nav__link">
+    Acessar uma aula de xadrez criada por usuários
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#resolver-problemas-de-xadrez" class="md-nav__link">
+    Resolver problemas de xadrez
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teste-piloto" class="md-nav__link">
+    Teste piloto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-1" class="md-nav__link">
+    Entrevista 1
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-2" class="md-nav__link">
+    Entrevista 2
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entrevista-3" class="md-nav__link">
+    Entrevista 3
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusao" class="md-nav__link">
+    Conclusão
+  </a>
+  
+    <nav class="md-nav" aria-label="Conclusão">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-1" class="md-nav__link">
+    Conclusão entrevista 1:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-2" class="md-nav__link">
+    Conclusão entrevista 2:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conclusao-entrevista-3" class="md-nav__link">
+    Conclusão entrevista 3:
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="relato-de-resultados-do-prototipo-de-papel">Relato de resultados do protótipo de papel</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Protótipos tem como objetivo permitir que usuários e stakeholders consigam interagir com um produto pensado. Isso é extremamente prático para coleta de pontos positivos e negativos acerca de uma funcionalidade do produto como um todo.</p>
+<p>A utilização de protótipo de papel permite o foco na funcionalidade, deixando abstrato para o usuário questões como design, dessa forma a chance do usuário se distrair é menor.</p>
+<p>Os principais benefícios da utilização de protótipos são: reflexão do design, esclarecimento de requisitos e realização de testes iniciais.</p>
+<h2 id="objetivos">Objetivos</h2>
+<p>Essa avaliação tem como objetivo entender no aplicativo e em fluxos alternativos, o que está sendo bem implementado e o que seria melhor alterar, tendo uma lista de feedback de usuários reais.</p>
+<h2 id="metodologias">Metodologias</h2>
+<p>Para a maior fonte de informações possíveis, o projeto de IHC Lichess decidiu utilizar entrevistas para coletar os pontos negativos e positivos do design. Além disso, a entrevista permite realizar uma série de perguntas para direcionar a simulação.</p>
+<p>Antes da entrevista duas ações devem ser executadas: elaboração do protótipo de papel e teste piloto.</p>
+<p>Teste piloto é uma exceção preliminar da entrevista, comumente realizada pelo próprio grupo de desenvolvedores ou pequena amostra de participantes a fim de avaliar os aspectos da avaliação e corrigir eventuais falhas antes da implementação definitiva, o que caso não seja feito, pode invalidar dados coletados.</p>
+<h2 id="avaliadores-e-participantes">Avaliadores e participantes</h2>
+<p>Foram realizadas três entrevistas e os avaliadores e participantes estão listados abaixo:</p>
+<ul>
+<li>
+<p>Entrevista 1: A entrevista foi conduzida pelos avaliadores Lucas Macedo e Lucas Gabriel. O entrevistador Lucas Macedo ficou responsável por gravar a execução do teste e observar o comportamento do usuário, de forma que o entrevistador Lucas Gabriel fez as perguntas e interação com o usuário. Para preservar o participante, o nome e idade do entrevistado não será utilizado e será utilizado um nome fictício. O primeiro entrevistado será chamado de Pedro, tem 24 anos e executou o fluxo de jogar uma partida, criando o modo e entrando para jogar contra o computador, tal entrevistado possui o perfil de novato no xadrez se encaixando na persona de usuário casual.</p>
+</li>
+<li>
+<p>Entrevista 2: A entrevista foi conduzida pelo avaliador Mauricio Machado, o qual ficou responsável por gravar a execução do teste, observar o comportamento do usuário, fazer as perguntas e interagircom o usuário simulando o funcionamento do sistema. Para preservar o participante, o nome e idade da entrevistada não será utilizado e será utilizado um nome fictício. A segunda entrevistada será chamada de Amanda, tem 22 anos e executou o fluxo de aprender, acessando uma aula de xadrez, tal entrevistada possui o perfil de novata no xadrez se encaixando na persona de usuário casual.</p>
+</li>
+<li>
+<p>Entrevista 3:  A entrevista foi conduzida pelo avaliador Lucas Gabriel, o qual ficou responsável por gravar a execução do teste, observar o comportamento do usuário, fazer as perguntas e interagircom o usuário simulando o funcionamento do sistema. Para preservar o participante, o nome e idade do entrevistado não será utilizado e será utilizado um nome fictício. O terceiro entrevistado será chamado de Matheus, tem 20 anos e executou o fluxo de jogar uma partida, criando o modo e entrando para jogar contra o computador, aprender, acessando uma aula de xadrez, e resolver problemas de xadrez, resolvendo quebra-cabeças de xadrez, tal entrevistado é um jogador experiente com relação ao xadrez e no sítio eletrônico se encaixando na persona de usuário experiente.</p>
+</li>
+</ul>
+<h3 id="termo-de-consentimento">Termo de consentimento</h3>
+<p>Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação das entrevistas, deixando claro que tudo ocorrerá garantindo o sigilo das informações sensíveis e somente com a devida autorização.
+<br/><br/>
+<img alt="Termo de consentimento" src="../assets/termo_consentimento.jpg" /></p>
+<p><strong>Figura 1: Termo de consentimento (Fonte: autor, 2023).</strong></p>
+<h2 id="prototipo-de-papel">Protótipo de papel</h2>
+<h3 id="jogar-uma-partida">Jogar uma partida</h3>
+<p>A seguir, temos as imagens do protótipo de jogar uma partida</p>
+<p><img alt="Tela inicial" src="../assets/Aval_papel_1.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 1: Jogar uma partida - parte 1 - Tela inicial (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Clicar no botão de jogar" src="../assets/Aval_papel_2.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 2: Jogar uma partida - parte 2 - Clicar no botão de jogar (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Criação de partida" src="../assets/Aval_papel_3.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 3: Jogar uma partida - parte 3 - Criação de partida (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Seleção do modo de jogo" src="../assets/Aval_papel_4.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 4: Jogar uma partida - parte 4 - Seleção do modo de jogo (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Iniciar partida" src="../assets/Aval_papel_5.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 5: Jogar uma partida - parte 5 - Iniciar partida (Fonte: Autores, 2023).</p>
+</div>
+
+<h3 id="acessar-uma-aula-de-xadrez-criada-por-usuarios">Acessar uma aula de xadrez criada por usuários</h3>
+<p>A seguir temos as imagens do protótipo de acessar uma aula de xadrez</p>
+<p><img alt="Tela Inicial" src="../assets/learn_1.png" /></p>
+<div style="text-align: center">
+<p> Imagem 6: Acessar uma aula - parte 1 - Tela Inicial do protótipo. Fonte: Mauricio Machado (2023).</p>
+</div>
+
+<p><img alt="Tela de opções de aprendizado" src="../assets/learn_2.png" /></p>
+<div style="text-align: center">
+<p> Imagem 7: Acessar uma aula - parte 2 - Tela de opções de aprendizado. Fonte: Mauricio Machado (2023).</p>
+</div>
+
+<p><img alt="Tela com listagem de aulas" src="../assets/learn_3.png" /></p>
+<div style="text-align: center">
+<p> Imagem 8: Acessar uma aula - parte 3 - Tela com listagem de aulas. Fonte: Mauricio Machado (2023).</p>
+</div>
+
+<p><img alt="Modal com resumo de uma aula" src="../assets/learn_4.png" /></p>
+<div style="text-align: center">
+<p> Imagem 9: Acessar uma aula - parte 4 - Modal com resumo de uma aula. Fonte: Mauricio Machado (2023).</p>
+</div>
+
+<p><img alt="Página com conteúdo de aula" src="../assets/learn_5.png" /></p>
+<div style="text-align: center">
+<p> Imagem 10: Acessar uma aula - parte 5 - Página com conteúdo de aula. Fonte: Mauricio Machado (2023).</p>
+</div>
+
+<h3 id="resolver-problemas-de-xadrez">Resolver problemas de xadrez</h3>
+<p>A seguir, temos as imagens do protótipo de resolver problemas de xadrez</p>
+<p><img alt="Tela inicial" src="../assets/Aval_papel_1.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 11: Resolver problemas de xadrez - parte 1 - Tela inicial (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Seleção do estilo de resolução de problemas" src="../assets/Aval_papel_problema_1.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 12: Resolver problemas de xadrez - parte 2 - Seleção do estilo de resolução de problemas (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Explicação do modo de problema" src="../assets/Aval_papel_problema_2.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 13: Resolver problemas de xadrez - parte 3 - Explicação do modo de problema (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Problema" src="../assets/Aval_papel_problema_3.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 14: Resolver problemas de xadrez - parte 4 - Problema (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Modo zen" src="../assets/Aval_papel_problema_4.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 15: Resolver problemas de xadrez - parte 5 - Modo zen (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="notação da partida" src="../assets/Aval_papel_problema_5.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 16: Resolver problemas de xadrez - parte 6 - notação da partida (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Escolha de dificulade de problema" src="../assets/Aval_papel_problema_6.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 17: Resolver problemas de xadrez - parte 7 - Escolha de dificuldade de problema (Fonte: Autores, 2023).</p>
+</div>
+
+<p><img alt="Problema mais difícil" src="../assets/Aval_papel_problema_7.jpg" /></p>
+<div style="text-align: center">
+<p> Imagem 18: Resolver problemas de xadrez - parte 8 - Problema mais difícil (Fonte: Autores, 2023).</p>
+</div>
+
+<h2 id="teste-piloto">Teste piloto</h2>
+<p>Entrevista relativa ao teste piloto dos fluxos de jogar uma partida, aprender e resolver problemas de xadrez.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lc1NaVW_Afc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Teste piloto da Avaliação Protótipo de Papel fluxo de  de jogar uma partida, aprender e resolver problemas de xadrez. Fonte: autor (2023).</p>
+</div>
+
+<h2 id="entrevista-1">Entrevista 1</h2>
+<p>Entrevista relativa ao fluxo de jogar uma partida.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Do0G24sgXJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Vídeo 2: Avaliação Protótipo de Papel fluxo de jogar uma partida. Fonte: autor (2023).</p>
+</div>
+
+<h2 id="entrevista-2">Entrevista 2</h2>
+<p>Entrevista relativa ao fluxo de aprender uma aula no Lichess.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXSSvvEWqzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 3: Avaliação Protótipo de Papel fluxo de aprender aula. Fonte: autor (2023).</p>
+</div>
+
+<h2 id="entrevista-3">Entrevista 3</h2>
+<p>Entrevista relativa ao fluxo de jogar uma partida, aprender e resolver problemas de xadrez.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JBt1WVj-Kec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 4: Avaliação Protótipo de Papel fluxo de resolver problemas de xadrez. Fonte: autor (2023).</p>
+</div>
+
+<h2 id="conclusao">Conclusão</h2>
+<p>Durante o teste piloto foi verificado que tudo estava corretamente preparado para a execução da avaliação.</p>
+<h3 id="conclusao-entrevista-1">Conclusão entrevista 1:</h3>
+<p>Foi observado que o modelo para jogar uma partida utilizado está adequado, pois o usuário consegiu realizar a atividade proposta sem muitas dúvidas, porém é necessário a realização de alguns ajustes como:
+- Opção para jogar sem estar cadastrado bem visível
+- Falta de texto para melhor entendimento da cor de peças escolhida</p>
+<h3 id="conclusao-entrevista-2">Conclusão entrevista 2:</h3>
+<p>Quanto ao modelo para aprender uma aula foram identificados três problemas que geram confusão e/ou impossibilidade de concluir o fluxo. São eles:</p>
+<ul>
+<li>Modal de resumo de uma aula não apresentar botão para fechar ou sair do modal.</li>
+<li>Tela de opções do aprender ter nomes muito próximos (básicos do xadrez e aula), o que afeta principalmente usuários casuais e iniciantes.</li>
+<li>Página de aula tem chat com pouca visibilidade, o que dificulta na hora de se comunicar com outros estudantes da mesma aula.</li>
+</ul>
+<p>Apesar desses pontos, o usuário conseguiu concluir as operações em tempo útil para um perfil iniciante.</p>
+<h3 id="conclusao-entrevista-3">Conclusão entrevista 3:</h3>
+<p>Foi observado que o modelo para começar uma aula utilizado está adequado, pois o usuário consegiu realizar a atividade proposta sem muitas dúvidas, porém é necessário a realização de alguns ajustes como:
+- A aba de feedback poderia ser menor </p>
+<p>Foi observado que o modelo para jogar uma partida utilizado está adequado, pois o usuário consegiu realizar a atividade proposta sem muitas dúvidas, porém é necessário a realização de alguns ajustes como:
+- Melho especificação do modo criar uma partida, para como jogar online
+- Melhor ajuste da disposição do tempo durante a partida, mais posicionado nos extremos para maior clareza</p>
+<p>Foi observado que o modelo para resolver problemas utilizado está adequado, pois o usuário consegiu realizar a atividade proposta sem muitas dúvidas, porém é necessário a realização de alguns ajustes como:
+- Mudança do nome de problemas para quebra-cabeça, para maior clareza para jogadores iniciantes</p>
+<h2 id="bibliografia">Bibliografia</h2>
+<p>[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.</p>
+<p>[2] Seidman, Irving (2019). Interviewing as Qualitative Research: A Guide for Researchers in Education and the Social Sciences. Teachers College Press, New York, NY, 5th edition edition.</p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>11/01/2022</td>
+<td>Criação do documento</td>
+<td>Lucas Macedo e Lucas Gabriel</td>
+<td>Davi</td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>16/01/2022</td>
+<td>Adição do fluxo de aprender uma aula</td>
+<td>Maurício Machado</td>
+<td>Nicolas Souza</td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>17/01/2022</td>
+<td>Padronização de legendas</td>
+<td>Maurício Machado</td>
+<td>Nicolas Souza</td>
+</tr>
+<tr>
+<td><code>2.0</code></td>
+<td>01/02/2023</td>
+<td>Refatoração do documento</td>
+<td>Lucas Gabriel</td>
+<td>Nicolas Souza</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Lichess
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["tabs", "navigation.section"], "search": "../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.ce72ebac.min.js"></script>
+      
+    
+  </body>
+</html>
