@@ -70,12 +70,10 @@ Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 ## Gravação da entrevista
 A gravação da entrevista pode ser observada no vídeo abaixo:
 
-<iframe width="1000vw" height="400vh" src="https://youtu.be/Vz3PlvSRCAE" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://youtu.be/Vz3PlvSRCAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div style="text-align: center">
-<p>
-Vídeo 1: Entrevista 01 da avaliação da análise de tarefas (Fonte: autor, 2023).
-</p>
+<p> Vídeo 1: Entrevista 01 da avaliação da análise de tarefas (Fonte: autor, 2023).</p>
+</div>
 
 | Ordenação | Tópico da pergunta | Pergunta                                                                             | Resposta                                                                                                                                                                          | Tipo de pergunta |
 | --------- | ------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -110,4 +108,5 @@ De maneira geral os problemas encontrados foram acerca da quantidade de informa�
 | :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | `1.0`  | 21/12/2022 |                             Criação da versão inicial do relato de resultados da análise de tarefas                              |  Davi Silva   | Lucas Gabriel |
 | `2.0`  | 01/02/2023 | Nova avaliação da entrevista, a entrevista realizada anteriormente pode ser observada neste [link](https://youtu.be/Zw-8VP50mIo) | Lucas Gabriel | Nicolas, Davi |
+| `2.1`  | 04/03/2023 |                                                Correção na apresentação da tabela                                                | Lucas Gabriel |               |
 
