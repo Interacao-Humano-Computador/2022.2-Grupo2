@@ -108,5 +108,5 @@ De maneira geral os problemas encontrados foram acerca da quantidade de informa�
 | :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------: |
 | `1.0`  | 21/12/2022 |                             Criação da versão inicial do relato de resultados da análise de tarefas                              |  Davi Silva   | Lucas Gabriel |
 | `2.0`  | 01/02/2023 | Nova avaliação da entrevista, a entrevista realizada anteriormente pode ser observada neste [link](https://youtu.be/Zw-8VP50mIo) | Lucas Gabriel | Nicolas, Davi |
-| `2.1`  | 04/03/2023 |                                                Correção na apresentação da tabela                                                | Lucas Gabriel |               |
+| `2.1`  | 04/03/2023 |                                                Correção na apresentação da tabela                                                | Lucas Gabriel | Nicolas       |
 
