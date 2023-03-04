@@ -70,7 +70,7 @@ Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
 ## Gravação da entrevista
 A gravação da entrevista pode ser observada no vídeo abaixo:
 
-<iframe width="560" height="315" src="https://youtu.be/Vz3PlvSRCAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vz3PlvSRCAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div style="text-align: center">
 <p> Vídeo 1: Entrevista 01 da avaliação da análise de tarefas (Fonte: autor, 2023).</p>
 </div>
